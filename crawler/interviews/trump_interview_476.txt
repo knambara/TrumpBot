@@ -1,0 +1,567 @@
+<Howard Stern> <Positive> And it airs, I think -- I think on Fox I want you to give me a plug.
+<Robin Quivers> <Neutral> What? The Apprentice? I think it's NBC.
+<Howard Stern> <Positive> Oh, it is NBC. All right. Somebody give me a plug. Man's here to plug. Oh, let's -- Oh, look at Donald Trump, looking richer and better than ever. Look at you. You look happy.
+<Artie Lange> <Positive> That's a rich guy.
+<Howard Stern> <Positive> I'm surprised you're still happy.
+<Donald Trump> <Positive> I'm always happy.
+<Robin Quivers> <Positive> I think you're like Superman or something. He's got super powers.
+<Howard Stern> <Positive> Super powers to look happy. Hello, Donald. You have a good time being Donald Trump.
+<Donald Trump> <Positive> A good time.
+<Howard Stern> <Negative> I saw some of the show because they sent me an advance copy but they cut off the ending.
+<Donald Trump> <Neutral> I have to do that.
+<Howard Stern> <Neutral> Oh, come on. I'm not going to tell anybody.
+<Donald Trump> <Positive> Yes, yes. It's too bad because the ending is really cool.
+<Howard Stern> <Neutral> Right. We've got to get a mic [Inaudible]
+<Robin Quivers> <Positive> Yes. We want to hear what you ant to say.
+<Donald Trump> <Neutral> I've got to get this on.
+<Howard Stern> <Neutral> Put those on and then put that mic right into your mouth.
+<Donald Trump> <Positive> Okay.
+<Howard Stern> <Neutral> So this is a big deal for you, your own TV show.
+<Donald Trump> <Positive> Well, I'm having fun. By the way, your Internet is incredible, Julie. It's her first day.
+<Howard Stern> <Neutral> Julie?
+<Donald Trump> <Neutral> Julie. Get her out here.
+<Howard Stern> <Neutral> I heard we have some hot intern.
+<Donald Trump> <Neutral> Get her out here.
+<Robin Quivers> <Neutral> I just saw her.
+<Donald Trump> <Positive> Get her out here. She's amazing. So I said, "Are you in front of a camera?"" She said
+<Howard Stern> <Neutral> Let me see her.
+<Donald Trump> <Neutral> Get her out, Howard.
+<Howard Stern> <Neutral> I don't really look at the interns because...
+<Robin Quivers> <Positive> Well, you haven't had the chance to see this one. She just got here.
+<Donald Trump> <Neutral> This could be a real -- this could be a star.
+<Howard Stern> <Neutral> I poked my head in the other day to that big intern meeting.
+<Donald Trump> <Neutral> Come here, Julie.
+<Howard Stern> <Neutral> Hey, Julie. I poked my head into the intern meeting, and I saw a lot of hot chicks.
+<Donald Trump> <Positive> Yes, look at the face.
+<Howard Stern> <Positive> Wow.
+<Robin Quivers> <Positive> Wow. Beautiful!
+<Howard Stern> <Neutral> Julie, what are you, a model or something?
+<Julie (Intern)> <Negative> No.
+<Howard Stern> <Neutral> Really? Mr. Trump has tapped you for something.
+<Donald Trump> <Neutral> Stardom.
+<Robin Quivers> <Neutral> He thinks you have star quality.
+<Donald Trump> <Neutral> Potential Stardom. She's all right.
+<Howard Stern> <Neutral> Where are you from?
+<Julie (Intern)> <Neutral> Woodside, Queens.
+<Howard Stern> <Neutral> Woodside, Queens.
+<Robin Quivers> <Positive> They're growing them like that there now, Donald?
+<Howard Stern> <Neutral> How did you...
+<Donald Trump> <Neutral> My father used to build houses. He used to build houses in Woodside.
+<Howard Stern> <Positive> I have good news for you, Julie.
+<Julie (Intern)> <Neutral> Yes?
+<Howard Stern> <Positive> You just won The Apprentice. You're going to be Mr. Trump's assistant.
+<Robin Quivers> <Positive> Yes. Donald said, why didn't you go out [Inaudible]?
+<Howard Stern> <Positive> You could have won.
+<Robin Quivers> <Positive> You could be in a winner.
+<Donald Trump> <Neutral> She could be. She could be The Apprentice.
+<Artie Lange> <Positive> She looks like Michelle Pfeiffer.
+<Howard Stern> <Positive> Would you go out with her if you didn't have the beautiful Melania?
+<Donald Trump> <Positive> Well, you know, I have this great girlfriend, Melania. And I like...
+<Howard Stern> <Negative> Let's say, Melania got hit by a car and was in a horrible disfiguring after?
+<Robin Quivers> <Neutral> Are you planning to make that happen?
+<Donald Trump> <Neutral> If it would take her years to recover, and then perhaps I'd call up Julie.
+<Howard Stern> <Neutral> You would call up Julie.
+<Donald Trump> <Neutral> But by that time Julie would be very old.
+<Howard Stern> <Neutral> Too old [Inaudible]. Julie, do you have a boyfriend.
+<Julie (Intern)> <Positive> Yes.
+<Howard Stern> <Positive> Yes, I figured. Of course.
+<Robin Quivers> <Positive> Of course. She's gorgeous.
+<Donald Trump> <Negative> What's that scumbag doing?
+<Robin Quivers> <Neutral> He probably goes to school or something.
+<Artie Lange> <Negative> What's he, like a bookie? He's a bookie in Queens, right? Dump him.
+<Julie (Intern)> <Neutral> He is a jazz musician.
+<Howard Stern> <Positive> Wow.
+<Artie Lange> <Negative> That means he;'s broke.
+<Howard Stern> <Neutral> Mr. Trump, advise her on the life of a jazz musician.
+<Donald Trump> <Positive> I would say it's -- hey, if you -- do you love him, or just like him?
+<Julie (Intern)> <Positive> Yes, I love him.
+<Donald Trump> <Positive> Do you love him a lot.
+<Julie (Intern)> <Positive> Yeah.
+<Donald Trump> <Positive> Well, then you have to stay with him, I guess, yes.
+<Howard Stern> <Negative> Unless he's Lenny Kravitz, I'd lose him.
+<Julie (Intern)> <Positive> I'm pretty sure.
+<Donald Trump> <Neutral> He ain't Lenny Kravitz. It could happen. He could hit.
+<Howard Stern> <Neutral> He could hit.
+<Robin Quivers> <Neutral> The next Kenny, right?
+<Artie Lange> <Negative> Charlie Parker died broke.
+<Howard Stern> <Negative> You know what, Mr. Trump says, off the air. Jazz musician equals heroin addict, okay? That's his advice.
+<Artie Lange> <Neutral> I would say, give a dating a jazz musician.
+<Donald Trump> <Positive> Just be careful, Julie.
+<Julie (Intern)> <Positive> I'll take care Mr. Trump.
+<Howard Stern> <Neutral> Let me tell you something. Would you date Mr. Trump on the spot if he said to you, "look
+<Robin Quivers> <Neutral> I have to have you.
+<Howard Stern> <Neutral> I have to have you.
+<Donald Trump> <Neutral> 79 floors up.
+<Julie (Intern)> <Neutral> I was just in your building, having Starbucks and some coffee yesterday.
+<Donald Trump> <Positive> It's a great building, isn't it, Julie?
+<Julie (Intern)> <Positive> Coincidence. Yes, it is a great building.
+<Donald Trump> <Positive> She could like me a lot.
+<Howard Stern> <Neutral> You're not ruling it out.
+<Julie (Intern)> <Neutral> I don't know. I...
+<Robin Quivers> <Positive> Oh, she's not saying no.
+<Julie (Intern)> <Negative> I'm very nervous right now. That's all I have to say.
+<Artie Lange> <Positive> A guy who own his own building is more building is more impressive than a guy who plays solo on the sax at some dive bar.
+<Howard Stern> <Positive> Yes. Well, you have not lost your way with the ladies. That is true.
+<Donald Trump> <Positive> Well, I just think ladies are amazing.
+<Howard Stern> <Positive> Yes, I'm with you on that. By the way. This is not a coincidence, but every building in New York is Trump building. You might want to think about that.
+<Julie (Intern)> <Neutral> That's right. I forgot.
+<Howard Stern> <Positive> Well, Julie. Welcome to the show. You've been noticed by Mr. Trump, and I think good things are going to happen to you.
+<Julie (Intern)> <Positive> Thank you, Howard.
+<Robin Quivers> <Positive> That's a good sign, a good sign.
+<Donald Trump> <Positive> It'll be your big break. This si great. Yes, I know. I think she's got potential, right?
+<Howard Stern> <Neutral> To be living in Trump Tower.
+<Donald Trump> <Neutral> You could be big. But the face should be on camera, not off camera. And you shouldn't be a writer.
+<Howard Stern> <Neutral> Right.
+<Donald Trump> <Positive> Right now, people that look like you don't write.
+<Howard Stern> <Neutral> You don't need to right.
+<Donald Trump> <Positive> I know what writers look like.
+<Artie Lange> <Neutral> If then, she's a writer.
+<Howard Stern> <Positive> Writers look like me.
+<Robin Quivers> <Neutral> Let Benjie stand up. That's a writer.
+<Artie Lange> <Positive> See, that's a very talented writer.
+<Howard Stern> <Neutral> When you stand up, you're a writer.
+<Robin Quivers> <Neutral> That's a writer.
+<Howard Stern> <Neutral> That's a writer right there.
+<Artie Lange> <Neutral> That's a writer.
+<Howard Stern> <Positive> Caught on camera. That's right. You want to design and decorate one of Mr. Trump's hotels with that face. Trust me.
+<Julie (Intern)> <Neutral> Or write your advertising campaigns, whichever comes first.
+<Donald Trump> <Neutral> Oh [inaudible]. We'll have to think about that.
+<Artie Lange> <Neutral> If you date him, you'll get your face on every room key in the country.
+<Howard Stern> <Neutral> You say you're a writer. Mr. Trump wants to ride you.
+<Donald Trump> <Positive> Thank you.
+<Howard Stern> <Positive> Well, thank you, Julie. Good luck, and welcome to the show.
+<Julie (Intern)> <Positive> Thank you.
+<Donald Trump> <Positive> Good luck, Julie.
+<Howard Stern> <Positive> Look at you spotting the talent. Jesus. Unbelievable how you do that. You've got a good eye. You moved right into the kill.
+<Robin Quivers> <Negative> No wonder.
+<Donald Trump> <Negative> [Inaudible] No. She came with coffee. I said,"How long have you been here?"" She said
+<Howard Stern> <Neutral> Not yet.
+<Donald Trump> <Negative> And she said, "no."" And I said
+<Howard Stern> <Positive> I see her face on a casino chip in about 2 years. So I noticed one thing with the new show. First of all, I would -- I'd be afraid to work for you. You were really tough on these kids. I mean, you come in there with, like, a real serious attitude.
+<Donald Trump> <Positive> Well, I think I'm fair, but it's a tough show. It's a tough city. It's basically business in New York City. It's a tough city, as you know, Howard, as well as anybody.
+<Howard Stern> <Neutral> He comes in and he blasts these kids.
+<Robin Quivers> <Positive> What are they supposed to be doing when he's blasting? I think -- like, what's going on?
+<Donald Trump> <Negative> Cry.
+<Howard Stern> <Neutral> Here's the deal. It takes 16 kids. It takes 16 kids, okay? I mean, instead of them...
+<Robin Quivers> <Neutral> I mean, they're not kid kids. They're 20s, right?
+<Donald Trump> <Neutral> 20 to 31.
+<Howard Stern> <Positive> Right. All of them has had some business experience or big education or something like that, okay? Some of them have even had real success in their life. And Mr. Trump sits down and he goes, "Listen
+<Robin Quivers> <Neutral> Oh.
+<Howard Stern> <Positive> At a great salary if you could impress me.
+<Robin Quivers> <Neutral> Are you serious? One of my small companies. I was going to say, what are you? Crazy?
+<Artie Lange> <Neutral> But why not?
+<Donald Trump> <Neutral> But what do you know? Maybe it gets real once this person really get it up.
+<Howard Stern> <Positive> What is their salary? They don't make that clear.
+<Donald Trump> <Positive> It's $250,000. They'll be with me for a year. We had 215,000 applicants, which is the largest number of people that ever applied for a television show, which is amazing.
+<Robin Quivers> <Positive> Well, this actually has some potential to go somewhere else. The others are dead-end.
+<Donald Trump> <Positive> Well, not necessarily because I think everyone's going to be hired on the show. You know, Robin, they were all, like, super geniuses. They're brilliant people. Their IQs are at the 200 level. It's different from above the average.
+<Robin Quivers> <Positive> Yes, but what I'm saying about your show is like Survivor, you do it, and it's over. Your show has the potential to create other things for these people.
+<Donald Trump> <Positive> I think that's true. I think that's true.
+<Robin Quivers> <Positive> Yes.
+<Donald Trump> <Positive> And actually, all 16. Even though only one gets chosen, I believe the other 15 people, who are extraordinary, they're going to get chosen by other companies, and maybe even by me. I may take more than one. I mean, these people are really smart. We have a lot with MBA.
+<Howard Stern> <Positive> A bunch of hot chicks on the show, and Mr. Trump takes a liking to the chicks much more than the guy are, don't they?
+<Donald Trump> <Negative> The guys have to work extra hard to ge this attention.
+<Howard Stern> <Positive> Oh my goodness. Well, the first assignment he gives them is, go out and sell lemonade on the streets of New York.
+<Robin Quivers> <Neutral> Oh.
+<Howard Stern> <Positive> And course the chicks win. After they buy some dumb lemonade from some dude, the chicks go out. They are guys, they give them, 5, 10 bucks.
+<Robin Quivers> <Neutral> Right away. Right away. They're overpaying for lemonade.
+<Howard Stern> <Positive> But if those guys were creative, they would have gotten a bunch of checks to sell the lemonade for them.
+<Robin Quivers> <Neutral> That's what Mr. Trump is looking for, ingenuity.
+<Howard Stern> <Negative> These guys are not that smart. They're not go-getters.
+<Donald Trump> <Negative> Well, I don't see who won the first, but the men do have a disadvantage in selling lemonade. It's like if I was selling lemonade in a suit. You know, they dress up in suits. Another mistake, right? But they dress up in suits on Wall Street, trying to sell lemonade. Now what do you do if a guy is standing there in a suit, handing out lemonade. What does it look like?
+<Howard Stern> <Negative> Something's wrong.
+<Robin Quivers> <Neutral> Right.
+<Donald Trump> <Positive> Now the women did use their sex appeal, and they're like incredibly beautiful. There's -- of the women, there are some that are just unbelievable -- like supermodel cutie, in addition to having a 200 IQ, and that may be his negative. A beautiful woman that's that smart, that could be a negative, Howard. I don't know. You tell me.
+<Howard Stern> <Positive> I don't know, but it's a good show. I liked it. I really did.
+<Donald Trump> <Positive> That's great.
+<Howard Stern> <Positive> It's kind of a survivor vibe, you know. It's the same dude from this survivor.
+<Robin Quivers> <Positive> Yeah, but in business.
+<Donald Trump> <Positive> So Mark Burnett did it. And Mark Burnett's really a brilliant guy. And he's very high on the show, so we'll see we what happens.
+<Howard Stern> <Neutral> You know who's the real survivor? Melania. How is she holding on to you?
+<Robin Quivers> <Positive> Yes. We've all been wondering. How has this lasted as long it did.
+<Donald Trump> <Positive> You know, she holds on to me very easily because she's just exceptional. She's just great. And that's...
+<Howard Stern> <Neutral> What makes her exceptional?
+<Donald Trump> <Negative> She's listening right now. And you know, every time I've done Howard Show, I've gotten in trouble with Melania.
+<Howard Stern> <Neutral> But talk to me.
+<Donald Trump> <Neutral> You understand that, right?
+<Howard Stern> <Positive> But talk to me. Talk to me about this? What does she do -- okay, first thing is, you don't have to marry her. That's a big plus.
+<Robin Quivers> <Neutral> She doesn't make that [inaudible].
+<Donald Trump> <Positive> Well, I don't I don't preclude. I -- because you know -- at some point, I don't preclude that.
+<Howard Stern> <Neutral> Why haven't you married her?
+<Donald Trump> <Positive> Well, just, it's 5 years. It's exactly 5 years now.
+<Howard Stern> <Neutral> Right.
+<Donald Trump> <Positive> And I'm a little gun shy with marriage, you understand that, but I wouldn't be with Melania. I mean, she's just a solid, wonderful beautiful person.
+<Robin Quivers> <Neutral> So answer the question. Why haven't you, since you're not gunshot shy?
+<Donald Trump> <Positive> I haven't. But I certainly wouldn't preclude it. I think marriage is great. I think if you meet the right person, it's good.
+<Robin Quivers> <Positive> Are you going to have more children? Does she want to have kids?
+<Donald Trump> <Positive> I like children. You know, I like having children.
+<Howard Stern> <Neutral> You're going to have more kids?
+<Donald Trump> <Positive> I like spreading this wealth. And what am I going to do? I'm going to kick the bucket and...
+<Howard Stern> <Neutral> Give it to me.
+<Donald Trump> <Neutral> I have 4 children right now. I don't mind having 10.
+<Robin Quivers> <Positive> You're going to make them incredibly wealthy.
+<Donald Trump> <Positive> That's enough They're all going to be very rich.
+<Howard Stern> <Neutral> Make me. Make me you kid.
+<Donald Trump> <Positive> They are all going to be very rich. And you know, having children has to do with money. And if you have money, what difference does it make if you have more children?
+<Howard Stern> <Neutral> But do you think you're going to be involved with them? And then you -- you've got the life. What do you want? You're going to sit at home -- what? are you going to have a housekeeper raise these kids?
+<Donald Trump> <Positive> No. But you know, I'm -- I've never -- I've been a good father but I -- Or rather, I've been a good father,a really good father, but I've never been that involved. Like, if they ever said, come on outside, dad. Let's have a catch in Central Park.
+<Howard Stern> <Positive> You're like, what's that?
+<Donald Trump> <Positive> I'd say, excuse me, what?
+<Robin Quivers> <Neutral> You probably hang out more with them now that they can actually do things with you in your world.
+<Donald Trump> <Positive> Well, now I'm starting to like them better because they're starting to work in my company. And therefore, because I am somewhat business-oriented, they're doing something. I'm not good before the age of 21.
+<Howard Stern> <Negative> You're not good at laying any kids.
+<Donald Trump> <Positive> But I'm great after the age of 21 because I can get them to work.
+<Howard Stern> <Positive> Right. And they like that.
+<Donald Trump> <Positive> And I get them at a really good salary, you know.
+<Howard Stern> <Negative> So you're saying you might marry Melania and you might have kids with her. I'm shocked.
+<Donald Trump> <Positive> I would certainly think it would be good. I'd love -- she's great.
+<Howard Stern> <Positive> And she gets pregnant and gets fat, what are you going to do? What are you going to do when you need a hot chick. He needs a hot chick. Let's be honest. You know that.
+<Robin Quivers> <Neutral> They do spring back. Look at those genetics on her.
+<Howard Stern> <Neutral> You don't know until [inaudible]
+<Donald Trump> <Positive> She has got great genetics. She would spring back.
+<Howard Stern> <Positive> That's a big gamble, my friend.
+<Donald Trump> <Positive> Well, I've seen some basic disasters. There's no question about that. But she's a beautiful woman. And Robin, I said they would spring back. It never happened.
+<Robin Quivers> <Positive> Oh dear.
+<Howard Stern> <Neutral> Right.
+<Donald Trump> <Positive> In fact, one of my friends has been waiting for 11 years now. His wife is...
+<Howard Stern> <Neutral> Not springing.
+<Robin Quivers> <Positive> You want to name any names?
+<Donald Trump> <Negative> No. I better not. He knows who I'm talking about. But his wife turned out to be a disaster.
+<Howard Stern> <Neutral> Who are we talking about? So what are you going to do?
+<Donald Trump> <Positive> And she was like this beautiful woman, 125 pounds. Now she's around 230.
+<Howard Stern> <Neutral> Get out of here.
+<Robin Quivers> <Neutral> Whoa.
+<Donald Trump> <Negative> No, she just -- and she always blamed the baby.
+<Robin Quivers> <Neutral> The baby fat.
+<Donald Trump> <Negative> The poor baby. I mean, she blames the baby every time she looks...
+<Howard Stern> <Negative> She can lose weight.
+<Donald Trump> <Neutral> Well...
+<Robin Quivers> <Neutral> How old is the baby now, 30?
+<Donald Trump> <Neutral> The baby is 11.
+<Howard Stern> <Neutral> So he's hanging in there, waiting 11 years.
+<Donald Trump> <Neutral> That's a long time.
+<Howard Stern> <Neutral> Right. And so he comes to you, and he says, "what am I supposed to do?"""
+<Donald Trump> <Positive> I don't want to make Robin laugh too much because you haven't said...
+<Robin Quivers> <Neutral> That's right. Somebody's got to get some money.
+<Howard Stern> <Positive> You want to get in on that?
+<Donald Trump> <Positive> Yes, I'd take -- see, I can -- I know Robin for a long time, and I really like Robin. I consider her a very serious person. And we have to be very serious today. I don't know. Am I supposed to make her laugh or not make her laugh? But we have to be very serious today because we want to make you look like a serious person.
+<Robin Quivers> <Neutral> Oh, why do I have to be serious?
+<Howard Stern> <Neutral> You're telling me, you haven't been any other chicks since taking up with Melania.
+<Donald Trump> <Positive> No. I've been very faithful.
+<Howard Stern> <Negative> Really? I know you're lying.
+<Donald Trump> <Positive> Well, you haven't since Beth.
+<Howard Stern> <Positive> I'm doing great.
+<Donald Trump> <Positive> You have a great -- he has a great girlfriend.
+<Howard Stern> <Neutral> Three and a half years.
+<Donald Trump> <Positive> She is great. And Melania knows her and thinks she's fantastic. And I bet you haven't either.
+<Howard Stern> <Neutral> What if we can get those 2 together together?
+<Donald Trump> <Positive> That would be interesting.
+<Robin Quivers> <Positive> You know, you can run that scenario like the guy the other night with a hot tub.
+<Donald Trump> <Positive> Very clean, beautiful [Inaudible]
+<Howard Stern> <Positive> I have a plan. Yes. I have a plan. You've got a hot tub somewhere, mar Lago somewhere.
+<Robin Quivers> <Neutral> You get one.
+<Donald Trump> <Neutral> I have lots of hot tubs. Not necessarily for me, but...
+<Howard Stern> <Negative> We get together, go out for a few drinks. You don't drink? No
+<Donald Trump> <Negative> No.
+<Robin Quivers> <Neutral> Not at all?
+<Donald Trump> <Negative> No, I haven't had...
+<Robin Quivers> <Positive> You're kidding.
+<Howard Stern> <Neutral> Oh, you're going this.
+<Donald Trump> <Negative> I've never had a -- I guess one of my good things. I never had a drink, and I never had a cigarette. Other than that, I'm a disaster.
+<Howard Stern> <Negative> No glass of alcohol. Never? Wine?
+<Donald Trump> <Neutral> I've never had a drink or a glass of alcohol.
+<Artie Lange> <Negative> No weed or anything like that, no dope?
+<Donald Trump> <Neutral> I never had any of that.
+<Howard Stern> <Negative> No hillbilly heroin?
+<Robin Quivers> <Negative> No Oxycontin? What were you doing?
+<Donald Trump> <Neutral> It was always women. For me, it was always the women.
+<Artie Lange> <Positive> That's not bad.
+<Howard Stern> <Neutral> How about Rush Limbaugh being addicted to that?
+<Donald Trump> <Neutral> Yes, he's got a problem, I guess. You know I listened on your show. You were saying, you'd read the definition of this drug, and it said, it causes deafness. Now, you know, how does this happen? All of a sudden, one day, he wakes up, he can't hear.
+<Howard Stern> <Neutral> Right.
+<Donald Trump> <Negative> So this guy, if you really think of it, he must be living in hell. Think of it. Think about his life. He had everything going.
+<Howard Stern> <Neutral> Everything.
+<Donald Trump> <Negative> And then one day, he goes probably to the wrong doctor, has a back operation. He has unbelievable pain. He starts taking just -- he starts taking drugs. Loses his hearing.
+<Howard Stern> <Neutral> He's still taking it.
+<Donald Trump> <Negative> Loses his life is. He's going to maybe be put in jail. I mean, what's happened to this guy, if you think about it, really, just on a human scale, it's unbelievable what's happened to him.
+<Howard Stern> <Negative> Catastrophic. He's a sad guy.
+<Donald Trump> <Negative> No, it's a sad story. And I don't know where this happened. I guess -- you were reading that this drug, if you take too much of it, will cause total deafness.
+<Howard Stern> <Neutral> Right.
+<Donald Trump> <Neutral> So that's what happened, obviously.
+<Howard Stern> <Positive> Yes.
+<Donald Trump> <Positive> And it was amazing. You know, the definition of the drug. It has side effects:Deafness. Now if I saw that, I'd say, guess what, I think I'm going to have a little pain.
+<Howard Stern> <Neutral> Especially a guy on radio.
+<Robin Quivers> <Positive> Yes. What did he need to be so pain-free for?
+<Howard Stern> <Neutral> This is MR. Limbaugh.
+<Artie Lange> <Positive> Ladies and gentlemen, I've always been honest with you. And last night, I took 80 Vicodin. And this morning, I can't hear a thing.
+<Howard Stern> <Positive> The show sounds great, though. So you're telling me -- you've got the -- first of all, why do the TV show? They're not paying you anything, are they?
+<Donald Trump> <Positive> Yeah, they did. They paid me a lot of money. I'm not doing it...
+<Howard Stern> <Neutral> What are you -- let me guess.
+<Robin Quivers> <Neutral> What difference would the money make, though?
+<Donald Trump> <Positive> It doesn't matter. It's -- I liked it.
+<Howard Stern> <Neutral> Did you get $1 million for the show?
+<Donald Trump> <Neutral> Much more.
+<Howard Stern> <Neutral> Much more than $1 million?
+<Donald Trump> <Positive> Yes. Much more. They paid me much more. I didn't do it for that. I do give a shit. You know what that is. That's like [Inaudible] thing went for 1 month, okay?
+<Howard Stern> <Neutral> Right.
+<Donald Trump> <Positive> So I don't care about that.
+<Howard Stern> <Neutral> How much money do you make a day?
+<Donald Trump> <Neutral> I don't -- hey, look, I'm the biggest developer in New York by far.
+<Howard Stern> <Positive> Do you think you're worth $2 billion right now, right, or more?
+<Donald Trump> <Neutral> Honestly?
+<Howard Stern> <Positive> Honestly.
+<Donald Trump> <Neutral> Much more.
+<Howard Stern> <Neutral> Much more.
+<Donald Trump> <Positive> Honestly, much more.
+<Robin Quivers> <Negative> What are you -- where are you hiding it? They can't find it.
+<Donald Trump> <Neutral> I just have it around. I'm going to give it to my kids.
+<Howard Stern> <Positive> Tell me some good toys you've been doing. What have you been doing lately to have fun?
+<Donald Trump> <Positive> Working. I just work. I have fun. I've been doing this kind of crap.
+<Howard Stern> <Neutral> What did you for the holidays?.
+<Donald Trump> <Neutral> I was in Palm Beach at Mar-a-Lago.
+<Howard Stern> <Positive> Would I like Palm Beach? And is it --
+<Donald Trump> <Positive> You would love. The Palm Beach is great. It's the best. I mean, there's no place like Palm Beach. The weather...
+<Howard Stern> <Neutral> Why would I do there?
+<Donald Trump> <Positive> Howard, the weather was 75 degrees for two weeks with not a cloud in the sky. It's the best weather. It's the best place. It's zero crime.
+<Howard Stern> <Neutral> And what does Melania do? Is she running on her little bathing suits over at Mar-a-Lago?
+<Donald Trump> <Positive> She looks great. She walks around in bikinis and drives the members crazy.
+<Howard Stern> <Negative> She's got a killer bod.
+<Donald Trump> <Positive> She's got the best body. She does.
+<Howard Stern> <Neutral> I would bang her in 20 seconds.
+<Donald Trump> <Positive> She has the best -- I think the best body I've seen.
+<Howard Stern> <Neutral> Here's what we do. We'll bring the girls over the hot tub. You say, "girls
+<Robin Quivers> <Neutral> Because the rule in the hot tub is everybody has to be naked, right?
+<Howard Stern> <Positive> Do you have a real big penis? Because I don't. And I don't want to be in a hot tub with you naked if you've got real big penis.
+<Donald Trump> <Positive> Well, that's interesting. That's an interesting statement.
+<Howard Stern> <Neutral> As long as your penis is under 2 inches, placid, I'm right there in the tub with you. We say, let's go. Let's go get naked and get in the hot tub. We get in the hot tub, and then you say. "hey
+<Robin Quivers> <Neutral> To Melania.
+<Howard Stern> <Neutral> You say that to Melania. E ia starts doing oral on you. Me and Beth are watching. I go, "hey
+<Robin Quivers> <Positive> So you're not being fair. The guy was being generous and gave the girls to the other guy.
+<Howard Stern> <Negative> Oh. I'm not giving Donald that. He's got everything else. I'm not giving him that.
+<Donald Trump> <Positive> Howard, let me [inaudible]. So you said something a while ago about Beth that amazed me because it applies to Melania. You said you've never seen her do anything, like, bad in terms of her own personal.
+<Howard Stern> <Positive> See, that's true. She would ever even do another chick.
+<Donald Trump> <Negative> No, no. But not even that. You said you've never heard her fart. Well, how about this? Is that true? Isn't that amazing? Three and a half years.
+<Howard Stern> <Positive> Not only is that true, she doesn't make duty.
+<Robin Quivers> <Neutral> She's never?
+<Howard Stern> <Positive> Like 4 time maybe?
+<Donald Trump> <Neutral> In 3 years?
+<Howard Stern> <Neutral> In 3 years. Do you think I'm kidding?
+<Donald Trump> <Neutral> Now I'm going to say, and you know, this is -- I can say the exact same thing about Melania.
+<Howard Stern> <Neutral> How much does Melania weigh? Do you know?
+<Donald Trump> <Neutral> 125. She's 5'11', 125.
+<Howard Stern> <Positive> Perfect.
+<Donald Trump> <Positive> And that's good.
+<Howard Stern> <Neutral> And she hardly goes to the bathroom.
+<Donald Trump> <Neutral> And Beth is about the same, right?
+<Howard Stern> <Neutral> That's exactly right.
+<Donald Trump> <Positive> She's like 5'11'', 120, right?
+<Howard Stern> <Positive> Yes, yes.
+<Donald Trump> <Positive> Okay. I know weights. I can tell...
+<Howard Stern> <Neutral> You're a genius.
+<Robin Quivers> <Positive> You just join then the circus.
+<Donald Trump> <Negative> Man, I'm a genius. Men, I have no idea.
+<Howard Stern> <Neutral> Right.
+<Donald Trump> <Negative> If I said already, I have no idea what you weigh. Woman, I can tell within half a pound.
+<Artie Lange> <Neutral> I'm about 5'11"."
+<Howard Stern> <Neutral> And Melania, does Melania work out, or is it just natural?
+<Donald Trump> <Positive> It's very natural. She works a little bit, but...
+<Howard Stern> <Neutral> She never makes her duty.
+<Donald Trump> <Positive> I've -- it's -- I've never seen any of that. It's amazing.
+<Howard Stern> <Positive> Wow. You're probably expecting a big one this year, though.
+<Donald Trump> <Positive> Maybe they save that for after marriage.
+<Artie Lange> <Neutral> One big one
+<Donald Trump> <Positive> Beth and Melania, maybe they save it for after marriage.
+<Artie Lange> <Positive> That is great.
+<Donald Trump> <Positive> I don't know, but it's amazing. But you said that, and I've never experienced that before. You know, with all...
+<Robin Quivers> <Neutral> Has she ever said I'm going to the bathroom?
+<Donald Trump> <Neutral> Hardly says that. You know what I mean, Howard, when you say...
+<Howard Stern> <Positive> Yes. But when you were with Ivana, she go to the Cannes all the time. You would catch her where?
+<Robin Quivers> <Neutral> Oh.
+<Howard Stern> <Neutral> True?
+<Donald Trump> <Positive> It' was a little bit normal at that sense, but when you said that about Beth, I said, That's amazing, because I never thought this applied to anybody else. And it applies to Melania.
+<Howard Stern> <Neutral> How about Marla Maples? Is she still bugging you or what?
+<Donald Trump> <Positive> You know she's really nice it just was just not for me, I mean, when I was with Marla. I had nine point two billion.
+<Howard Stern> <Negative> Right. It was a bad time. It was not a good time. It was the early 90s real estate markets collapsed. I was fighting for my life. And you know when you own 9.2 billion nothing. A lot of pressure it's a lot. And she was there and she was good. And she was you know somebody said you know in all fairness you didn't have time to look for girls. Marla was there she was with you. And that was something nice about that. Right. What's she doing now?
+<Robin Quivers> <Neutral> She's in California.
+<Donald Trump> <Negative> She's in California, she's not married. Surprisingly to me she's not married, not over excessive
+<Howard Stern> <Neutral> I heard she did little farts that's what you told me, farts.
+<Donald Trump> <Positive> She was very clean.
+<Robin Quivers> <Neutral> How do you see your daughter if she's in Los Angeles?
+<Donald Trump> <Neutral> I own a lot of property in Los Angeles. In fact I'm going to Los Angeles I'm doing the Jay Leno Show on Friday.
+<Howard Stern> <Negative> No kidding. That should be controversial.
+<Donald Trump> <Positive> Yeah, that'll be nice.
+<Howard Stern> <Positive> You guys will be talking about something interesting.
+<Donald Trump> <Positive> He's a great guy actually. I think he's a great guy actually, but I'm doing his show and doing a lot of property in Los Angeles.
+<Howard Stern> <Positive> You think Jay Leno was a great guy?
+<Donald Trump> <Positive> A great guy. I think he's good -- I think he's a very talented guy. You know
+<Robin Quivers> <Positive> I agree.
+<Donald Trump> <Positive> I don't think Jay Leno gets the credit that he should get. I had him and I know all the comedians I know everyone I mean a lot of them work for me in different capacities at the casinos etc. Etc.. I know Jay Leno I know every comedian Jay Leno gave a performance at the Mar-a-Lago club a year ago that was so unbelievable in front of Mike Milken and a group of total killers, financially, I'm talking about financial geniuses. We had a thousand killers in the audience every one of you with $100 million, you were like a poor person. And they this guy gave one of the greatest performances. And I always hear where Jay is like the great intellectual and all that stuff and I also like David Letterman a lot. I mean, I do both of their shows and I like David Letterman. But I think that David gets a lot of respect. I don't think Jay gets the respect he should do. Jay is really brilliant and really funny. And what he has got is a memory that's on -- You know I pride myself on a great memory. Jay Leno has an unbelievable memory he'll stand in front of an audience without any notes, without anything. He would go on for an hour and a half.
+<Howard Stern> <Positive> That's pretty impressive.
+<Donald Trump> <Positive> I'm telling you he doesn't get he does not get the respect that he deserves. Even though he gets great ratings
+<Howard Stern> <Neutral> Who don't you like? Because I even heard you defended Michael Jackson.
+<Donald Trump> <Negative> Well, I did I defended. I heard your show yesterday and it was sort of funny and sad at the same time.
+<Howard Stern> <Negative> It is sad.
+<Donald Trump> <Neutral> I knew Michael at his peak.
+<Howard Stern> <Neutral> He lived he lives in one of your buildings?
+<Donald Trump> <Neutral> He lives in Trump Tower.
+<Robin Quivers> <Neutral> He also was around when he was married to Lisa Marie. You were a witness to that whole thing.
+<Donald Trump> <Neutral> I was a part of it because he met Lisa Marie at Mar-a-Lago.
+<Robin Quivers> <Neutral> That's right.
+<Donald Trump> <Positive> In Palm Beach and he fell in love.
+<Howard Stern> <Neutral> Come on. What are you talking about it? Come here.
+<Donald Trump> <Positive> And first of all it's a little bit of a different Michael. Michael Jackson 15 years ago was the greatest superstar since Elvis.
+<Howard Stern> <Neutral> He had his day.
+<Donald Trump> <Positive> He had his day and he blew it. And you know some plastic surgeons blew it for him, frankly if he didn't have you know it started with the Pepsi Cola with a bomb that landed on his head invited him up and it went on. And you know Michael, it's a very tragic thing. Michael Jackson is a very smart very good guy who truly has changed a lot.
+<Howard Stern> <Neutral> What do you think? Do you think the guy, I mean, sleeping with kids in that room. Come on what's up with that? You know,
+<Donald Trump> <Positive> I defended him and I defended him and then the announcer asked me well would you allow your son Eric to spend some time. I said, "Are you crazy?"" Which was not a good defense. [Inaudible]"
+<Howard Stern> <Negative> You want to let your son spend any time in someone's some adult guy's bedroom, anyway. No matter who the guy is.
+<Donald Trump> <Positive> My sons were really cute beautiful little kids with white hair and gorgeous little kids when they were little. And they're still beautiful but now they're big guys. I mean, Eric is 6' 6". I'll never forget 10 years ago Eric was like 7 and Michael was at Mar-a-Lago. And he said
+<Howard Stern> <Positive> Get outta here. And you know, I thought this was the nicest thing. I said, it's nice he's the nicest guy he wants to take my son to Neverland. And I said, What is Neverland? [Inaudible] He'd call and say, Where is Eric? and Eric you know went to school and stuff and I just couldn't do it. [Inaudible]
+<Robin Quivers> <Neutral> He could've done it.
+<Donald Trump> <Negative> No, he could've been probably fine with my son. [Inaudible]
+<Robin Quivers> <Neutral> Are you out of your mind? [Inaudible]
+<Donald Trump> <Neutral> Of course,when Eric comes back and said, I slept in his bed.
+<Howard Stern> <Neutral> I see him a lot of times. Name the three hottest chicks right now in your opinion, aside from Melania?
+<Donald Trump> <Neutral> Beth, Melania, who else? Robin
+<Robin Quivers> <Negative> No, no, no. Three others.
+<Howard Stern> <Negative> Who are the three hottest chicks you've seen? It can't be J. Lo her ass is too fat. [Commercial Break] Scary
+<Donald Trump> <Positive> Do you really want me to do this?
+<Robin Quivers> <Positive> Yes.
+<Howard Stern> <Neutral> You know this kind of stuff.
+<Donald Trump> <Positive> I do. I'm very very good at it.
+<Howard Stern> <Positive> Yes. You're good at it. Give me an answer.
+<Robin Quivers> <Neutral> He already picked the intern already.
+<Howard Stern> <Neutral> You dId.
+<Donald Trump> <Positive> No I just notice a great face. You don't have to be so genius, she walks in and she's inside this I said, holy Christmas she's good-looking. The three hottest. Let me preface it by saying there's nothing compared to what they used to be. And I really mean this when you look at the Audrey Hepburn we're talking about they don't make movies like they used to. It's terrible every movie I go to I walk out in about seven minutes.
+<Robin Quivers> <Negative> The movie really started to suck.
+<Howard Stern> <Neutral> That's because we're getting older.
+<Donald Trump> <Negative> I don't think so. I think the movies just suck.
+<Howard Stern> <Negative> It just sucks. Okay. Having said that. Who's on your radar?
+<Donald Trump> <Positive> There's a young woman named Knightley, who's absolutely flawless.
+<Howard Stern> <Positive> Yes absolutely flawless. I agree. You know she's 19?
+<Donald Trump> <Positive> Keira Knightley she's just a kid. And I tell Melania, saw her on an interview show and it was like she's a good-looking version of whoever you want to call. But she's absolutely beautiful.
+<Howard Stern> <Positive> Breathtaking. She's in Pirates of the Caribbean
+<Robin Quivers> <Positive> Caribbean, yeah.
+<Donald Trump> <Positive> Now somebody who a lot of people don't give credit to. But in actuality is a really beautiful, really beautiful. Paris Hilton. Paris Hilton and I've known Paris Hilton from the time she's 12 .
+<Howard Stern> <Neutral> She's hot.
+<Donald Trump> <Negative> Her parents are friends of mine and you know the first time I saw she walked into to him and said Who the hell is that.
+<Howard Stern> <Neutral> You wanna bang her?
+<Donald Trump> <Positive> At 12 I wasn't interested. I've never been into that. That's sort of always stuck around that 25 category.
+<Howard Stern> <Neutral> But even at 12 you were kind of what, she's hot
+<Donald Trump> <Positive> Well at 12 she was beautiful. But honestly you know, Paris gets knocked in this and that but she's very beautiful. She gone flawless. She's she's dumb like a fox.
+<Howard Stern> <Neutral> Have you seen the video? The sex video?
+<Donald Trump> <Neutral> I have seen it.
+<Howard Stern> <Neutral> What you do?
+<Donald Trump> <Positive> I thought it was just yeah.
+<Howard Stern> <Neutral> How did you see that? What did you do?
+<Donald Trump> <Neutral> Melania showed it to me.
+<Howard Stern> <Neutral> What did you think of that?
+<Donald Trump> <Negative> I think it's probably unfortunate and perhaps it made. [Inaudible] What is that noise.
+<Howard Stern> <Neutral> That's the tape.
+<Donald Trump> <Positive> Okay. I think it's probably unfortunate and it made Paris hotter in terms of the work. Because the world is so screwed up, I mean, you know you think a thing like that's going to destroy. Like Hugh Grant, who I love. I think he's great he's a member of my golf club. You would have thought he would have been destroyed by what happened to him and he's a bigger star now than he ever was. You never know what happens right. But I think it probably made Paris even better. And I'll tell you one of the most beautiful women in the world according to every magazine but I have to say it's true and I help
+<Howard Stern> <Neutral> Let me guess, Angelina Jolie.
+<Donald Trump> <Negative> Not at all. No.
+<Robin Quivers> <Neutral> She's not beautiful?
+<Donald Trump> <Positive> You know I was you know I was one of the great duties of the world according to everybody. And I helped create her.
+<Robin Quivers> <Neutral> Who?
+<Donald Trump> <Positive> Ivanka, my daughter Ivanka. She's six feet tall. She's got the best body. She made a lot of money as a model. A tremendous amount and then she went cold turkey and gave it all up because she had to go to college because I wanted her to go to college. She goes to the best college sort and she goes to Wharton and she's got straight A's and she's one of them. She's considered one of the most beautiful women. And she really is she is like a great beauty.
+<Howard Stern> <Neutral> What If I was doing her would you be pissed?
+<Donald Trump> <Negative> I'd be really upset.
+<Howard Stern> <Negative> Hey, Howard Stern. But why would I be bad.
+<Donald Trump> <Negative> I wouldn't be upset if it was Julie. If it was my daughter it'll be very upsetting. Well, I don't want you to know who you are. I know Howard is a clean guy.
+<Howard Stern> <Positive> I am clean.
+<Donald Trump> <Positive> Well you know Tom Brady the football quarterback for New England, is a great guy who was a judge at the Miss Universe pageant.
+<Howard Stern> <Negative> Wait a second. You just said I'm not good enough for your daughter.
+<Donald Trump> <Positive> You're a great.
+<Howard Stern> <Negative> That's insane.
+<Robin Quivers> <Neutral> But you can't date his daughter.
+<Donald Trump> <Positive> I like. Howard's is too much like me. I would never allow me to date my daughter. He's like me. Very shallow.
+<Howard Stern> <Neutral> We are. We are shallow, right? Because we are
+<Donald Trump> <Positive> We are disgusting people. And I wouldn't allow me to date my daughter, so I wouldn't allow him. Tom Brady the quarterback yes is somebody that really likes Ivanka and he's a great guy and I got to know him at the Miss Universe contest.
+<Howard Stern> <Positive> You'd be okay with him dating your daughter?
+<Donald Trump> <Positive> I think he's great. He's 25 years old the all-American. Well it could happen. I mean he's. I'd like to. Well see. But you
+<Howard Stern> <Neutral> Guys have to come to you
+<Donald Trump> <Positive> He's focused now on the football stuff. I hope that he is such a great guy. You I got to know him he was a judge at the Miss Universe contest which has turned out to be a big success even though Les Moonves hates me because of what I did to him, you understand.
+<Howard Stern> <Negative> What if Ivanka's dating a black guy will that freak you out?
+<Donald Trump> <Positive> You know of course it wouldn't matter to me, right?
+<Robin Quivers> <Neutral> Donald, don't look over here.
+<Howard Stern> <Neutral> What are you looking at Robin for?
+<Donald Trump> <Positive> I'm looking at Robin. It would never, of course something like that wouldn't bother me.
+<Robin Quivers> <Positive> Oh, look at that smile. [Commercial Break] Chris Rock is here to date your daughter.
+<Howard Stern> <Neutral> [Inaudible] light skinned black man I'm talking about a very dark skin.
+<Robin Quivers> <Neutral> Chris Rock.
+<Howard Stern> <Neutral> Chris Rock's light skinned
+<Artie Lange> <Neutral> Courtney Mac
+<Howard Stern> <Neutral> Courtney Mac.
+<Robin Quivers> <Positive> He's nice.
+<Donald Trump> <Positive> I'd be great honor to have Courtney Mac taken. Great, great, great honor.
+<Howard Stern> <Neutral> Have you ever videotaped
+<Donald Trump> <Neutral> That is the right answer.
+<Howard Stern> <Positive> Yes it is. Have you ever videotaped yourself having sex.
+<Donald Trump> <Positive> Yes. I remember it either way when I had the Miss Universe. And I got the girl from Russia who was like this great beauty you to for I had a fire. Because you say lazy but you know I like the first time in the history of this universe that anybody got fired
+<Robin Quivers> <Negative> How does the videotape something to do with Miss Universe?
+<Donald Trump> <Negative> Howard said, Have you ever dated a black man? And she looked at him like. Absolutely not. He's a crazy guy and we ended up in trouble. I ended up firing enough for that.
+<Howard Stern> <Neutral> What is Mr. Trump getting the heave ho.
+<Artie Lange> <Positive> I don't want to imagine it premiers Thursday night after F. R.I. E.N. D.S.
+<Howard Stern> <Positive> Oh, that's a great time.
+<Donald Trump> <Positive> Well except for one problem. CBS, you know, Les Moonves doesn't like me very much okay, because I made a good deal against him on a couple of different things
+<Howard Stern> <Positive> And he doesn't like me very much either.
+<Donald Trump> <Positive> And I don't know I guess we could say that although I actually do like him. But what he's done is put two episodes of his number one show, CSI,
+<Howard Stern> <Neutral> Against you
+<Donald Trump> <Neutral> Against me. This could only happen to me.
+<Howard Stern> <Neutral> Is that a compliment?
+<Donald Trump> <Positive> I still think we'll kick his ass. To be honest with you but you know, and you know, he has a real big thing going with Jeff Zucker. He's an amazing guy.
+<Howard Stern> <Neutral> And you get paid over a million for your show
+<Donald Trump> <Neutral> A lot more than that.
+<Howard Stern> <Neutral> Are you getting over two and a half million dollars?
+<Donald Trump> <Positive> Yeah.
+<Howard Stern> <Neutral> You're getting paid over two and a half million dollars.
+<Donald Trump> <Positive> But I'm doing it for that. I'm giving the money to charity.
+<Howard Stern> <Positive> What charity are you giving it to.
+<Donald Trump> <Positive> Lots of charities. AIDS research, Police Athletic League. Lots of different kind of charities.
+<Howard Stern> <Neutral> We gotta cure AIDS. To go back and not wearing rubbers.
+<Donald Trump> <Positive> I remember the good old days. Remember in 1979, Howard. It was like a period of time where it was like I don't need to anymore because I'm so faithful.
+<Howard Stern> <Neutral> How do you know Melania's faithful?
+<Donald Trump> <Positive> I know she's faithful.
+<Howard Stern> <Neutral> What do you do? You pull out?
+<Donald Trump> <Positive> No she has she's help she's on the pill.
+<Robin Quivers> <Neutral> You know you fell for that one time before.
+<Donald Trump> <Positive> I did. That happened. She said, I think I'm so happy we're about to have a child. I said, "Excuse me?"" I didn't know about this."
+<Howard Stern> <Positive> You trust Melania to take a pill every day or you check if she does?
+<Donald Trump> <Positive> I don't know like she's been amaze -- She's -- Hey, I'm five years and she's been great.
+<Howard Stern> <Neutral> Just taking a pill every day.
+<Donald Trump> <Positive> I trust her in every way.
+<Howard Stern> <Positive> I bet you still pull out just to make sure.
+<Donald Trump> <Positive> No. I don't. She's -- she's just amazing. She wanted that she would know.
+<Howard Stern> <Neutral> Would you push her down the stairs if it happen.
+<Donald Trump> <Positive> Honestly I'm glad it happened I have a great little daughter, Tiffany. But, you know at the time it was like Excuse me what happened? And then I said, Well, what are we going to do about this? She said, Are you serious? It's the most beautiful day of our lives. I said, "Oh
+<Howard Stern> <Neutral> What do you mean "we""?"
+<Donald Trump> <Positive> I said. "Do you want to get married?"""
+<Artie Lange> <Positive> Yeah.
+<Howard Stern> <Negative> There was no videotape of you having videotaped your own sex.
+<Donald Trump> <Negative> No I'm not into that.
+<Howard Stern> <Neutral> It's not your thing?
+<Donald Trump> <Negative> No. Not my thing. I've never even thought of doing it.
+<Howard Stern> <Positive> I'm wishing you luck on your show.
+<Donald Trump> <Positive> Thank you.
+<Howard Stern> <Positive> I think it will be a big thing. I saw it. I enjoyed it.
+<Donald Trump> <Positive> Thank you.
+<Howard Stern> <Positive> I liked it was well-produced. You come off great. Well like a real hard ass but it's interesting.
+<Donald Trump> <Positive> Well, it's hard stuff. It's a tough show, it's these kids are really bright. But you know the city just eat you up and spit you out. And it's a tough city. Shows how tough the city is. You know it's tough stuff for them.
+<Howard Stern> <Positive> Good for you. Still sleeping four hours a day or more?
+<Donald Trump> <Neutral> For about four.
+<Artie Lange> <Neutral> Me too.
+<Howard Stern> <Positive> Because you're an alcoholic. [Inaudible]. All right. Listen. The show. It's called The Apprentice. Someone will win a job with Donald Trump which is a big job. It's $250,000 a year. For one year they get a shot.
+<Robin Quivers> <Positive> Yeah, they'd run a company.
+<Howard Stern> <Neutral> Premiering tomorrow -- Is it tomorrow night?
+<Donald Trump> <Neutral> It's Thursday night.
+<Howard Stern> <Positive> Okay at 8:30 on NBC and then every Wednesday night at 8 o'clock. Okay.
+<Artie Lange> <Positive> I got to check it out. The promos look great for it.
+<Howard Stern> <Positive> That's good. All right Donald Trump thank you for stopping by.
+<Donald Trump> <Positive> Thank you.
+<Howard Stern> <Positive> Continued success continued hot chicks and everything else.
+<Donald Trump> <Neutral> I listen to your show.
+<Howard Stern> <Positive> Thank you.
+<Donald Trump> <Positive> I think you're terrific. Have a good time. Artie, thanks. Robin, thank you.
+<Robin Quivers> <Positive> Good to see you.
+<Howard Stern> <Neutral> We'll be back after these words. [Commercial Break]

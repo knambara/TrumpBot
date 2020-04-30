@@ -1,0 +1,354 @@
+<Howard Stern> <Neutral> Donald Trump, you're on the air.
+<Donald Trump> <Neutral> Hello, Howard.
+<Howard Stern> <Neutral> Mr. Trump.
+<Donald Trump> <Neutral> How are you?
+<Howard Stern> <Neutral> Looking forward to being down at the Taj.
+<Donald Trump> <Positive> Good. Well, I just -- I just heard you talking about the helicopter and we'll send it back for Robin.
+<Howard Stern> <Neutral> There you go.
+<Donald Trump> <Positive> Exactly. It's an amazing helicopter. It better be. Otherwise, I'm not going on the sucker. No, it's the best helicopter there is and it's very safe.
+<Howard Stern> <Neutral> And you're going to be with me?
+<Donald Trump> <Neutral> If it's not, you'll read about it the following morning.
+<Howard Stern> <Neutral> Are you going to be with me on it?
+<Donald Trump> <Neutral> I'm going to be with you.
+<Howard Stern> <Neutral> Really?
+<Donald Trump> <Positive> I'm going to be with you and your girlfriend and I'm going to have my girlfriend and we're going to have a lot of fun. And Robin, I can send the helicopter right back for you.
+<Howard Stern> <Neutral> Is that for me too, Donald?
+<Donald Trump> <Positive> Robin, you can join us on that helicopter.
+<Howard Stern> <Neutral> That's right.
+<Robin Quivers> <Neutral> You come back for me.
+<Donald Trump> <Positive> I'd either send it back for you or you can join us on the helicopter.
+<Howard Stern> <Positive> Let me ask you an important question. Let me ask you an important question before we get to Robin's travel.
+<Donald Trump> <Neutral> Go ahead.
+<Howard Stern> <Neutral> What's Melania going to wear for the ride?
+<Donald Trump> <Positive> I think it's going to be something very nice.
+<Howard Stern> <Neutral> Peekaboo?
+<Donald Trump> <Positive> Very, very nice. You know the last time we had this discussion, I got in a lot of trouble with you, How.
+<Howard Stern> <Neutral> Hey, Donald...
+<Robin Quivers> <Neutral> But you were running for president.
+<Howard Stern> <Positive> What do you say, yeah, you were running for president.
+<Donald Trump> <Positive> Yes, I know. It ended up being a front page story in the New York Post.
+<Howard Stern> <Neutral> I caused Donald Trump for presidency.
+<Robin Quivers> <Neutral> That's right.
+<Howard Stern> <Neutral> What if I pick out your girlfriend's off and you pick up my girlfriend's off.
+<Donald Trump> <Positive> Yeah. That sounds good to me.
+<Howard Stern> <Positive> Yeah.
+<Donald Trump> <Positive> That sounds like a good deal.
+<Howard Stern> <Negative> Hey, it's going to be some fight.
+<John Melendez> <Neutral> But I pick up [Inaudible].
+<Donald Trump> <Negative> Hey, Howard, the fight down there is going well. I mean...
+<Howard Stern> <Positive> Oh, yeah.
+<Donald Trump> <Negative> You know they have the other fight, the big fight.
+<Howard Stern> <Neutral> Right.
+<Donald Trump> <Neutral> And I tell you what.
+<Howard Stern> <Positive> Yeah.
+<Donald Trump> <Neutral> They sell more tickets than everybody.
+<Robin Quivers> <Positive> Wow.
+<Donald Trump> <Positive> Now our only mistake is we should have put it in like a 10,000 seat venue. We would have sold it out.
+<Howard Stern> <Neutral> I told you that.
+<Donald Trump> <Neutral> I'm telling you.
+<Howard Stern> <Neutral> I know it.
+<Donald Trump> <Neutral> We were sold out before the box office open.
+<Robin Quivers> <Neutral> I know.
+<Howard Stern> <Positive> I know. Yeah, it's going to be a great event. I can't wait.
+<Donald Trump> <Positive> It's going to be amazing.
+<Howard Stern> <Neutral> I tell you like...
+<Donald Trump> <Positive> I thank Joey [Inaudible] and the whole commission down there, they did an amazing job, Howard.
+<Howard Stern> <Positive> Yes, I know. They're all helping us down.
+<Donald Trump> <Neutral> They really have into it.
+<Howard Stern> <Positive> I do appreciate that. So, all right. I'll see you -- I'll see you on Thursday.
+<Donald Trump> <Neutral> I'll see you there and bring Robin and Robin's lie down. We have a seat.
+<Howard Stern> <Neutral> There we go.
+<Donald Trump> <Positive> Okay.
+<Howard Stern> <Neutral> You bringing your boyfriend, Robin.
+<Robin Quivers> <Negative> No, he can't come.
+<John Melendez> <Positive> Good. Then there's room for me.
+<Howard Stern> <Neutral> It is Robin's boyfriend. That have been John.
+<Anthony Fauci> <Positive> She likes to dig and dig and dig.
+<Howard Stern> <Positive> Thank you, Mr. Trump.
+<Donald Trump> <Positive> Well, have a good time, Howard. I'll see you on Thursday.
+<Howard Stern> <Positive> And please prepare that special suite for me.
+<Robin Quivers> <Neutral> Kubla Khan.
+<Howard Stern> <Neutral> The Kubla Khan suite.
+<John Melendez> <Neutral> Hey, Howard. This is suite. Hey, Howard.
+<Howard Stern> <Positive> I want to be in the Kubla Khan suite.
+<Donald Trump> <Positive> And I'll be well-taken care of, Howard.
+<Howard Stern> <Neutral> This is suite, the Taj and I think Frank [Inaudible] is his.
+<Anthony Fauci> <Neutral> Which is that?
+<Howard Stern> <Neutral> Which is the one has...
+<Donald Trump> <Positive> Well, we had a couple of them but we have something else that really turned out to be amazing. We opened a night club about two years ago called the Casbah.
+<Howard Stern> <Positive> Yeah, I want to sleep in there.
+<Donald Trump> <Positive> Well, I'll tell you. It's the hottest. Howard, it's the hottest club on the East Coast.
+<Howard Stern> <Negative> See, after the Fight Friday, take a little nap.
+<Donald Trump> <Neutral> Right.
+<Howard Stern> <Neutral> Then wake up and then what I will do is go to the Casbah.
+<Donald Trump> <Neutral> Right.
+<Robin Quivers> <Neutral> Rock the Casbah.
+<Donald Trump> <Positive> Well, the Casbah is a little bit late. It is Rock the Casbah. You know about the Casbah.
+<Howard Stern> <Positive> I want to go to the Casbah in the afternoon.
+<John Melendez> <Neutral> Donald, the hottest chicks go to the Casbah. You tell me about it.
+<Howard Stern> <Neutral> What I'm going to do actually is once I emerge from the Kubla Khan suite...
+<John Melendez> <Neutral> Right.
+<Robin Quivers> <Neutral> Kubla Khan is here.
+<Howard Stern> <Neutral> Kubla Khan is here.
+<John Melendez> <Neutral> The wrath of Kubla Khan.
+<Donald Trump> <Positive> Hey, John, you have to tell Howard about the cast by though. You know, it's like really at 11 o'clock, 12 o'clock but you will not see anything. Since Studio 54, Howard, there has not been anything like this.
+<Howard Stern> <Neutral> Really?
+<Robin Quivers> <Neutral> Really.
+<Donald Trump> <Positive> It's amazing.
+<Howard Stern> <Neutral> What kind of music?
+<Donald Trump> <Positive> And I hate to say this on the air but we have beautiful women dancing off the ceilings.
+<Howard Stern> <Neutral> Really?
+<Donald Trump> <Positive> We have thousands of people going in and beautiful crowd you've ever seen. People come from the Hamptons and they go to the Taj to go to the Casbah. So, it's -- I have friends in the Hamptons and I said, What are you doing this weekend? We're going out to the Hamptons but on Saturday night, we're going to the Casbah, and said, What do you do? We said, We take a helicopter from the Hamptons to Atlantic City. Go there and then go back. It's like the hottest thing you see.
+<Howard Stern> <Neutral> See, everyone should be doing that.
+<Robin Quivers> <Positive> Amazing.
+<Howard Stern> <Positive> I don't know why everyone bothers with these cars definitely. So, much traffic.
+<Robin Quivers> <Positive> Yeah, we got them jamming the helicopter.
+<Howard Stern> <Neutral> What a life you got.
+<Donald Trump> <Positive> Well, Robin, I hope you can join us on Thursday.
+<Robin Quivers> <Neutral> All right.
+<Howard Stern> <Neutral> All right.
+<Donald Trump> <Positive> And we have plenty of rooms. So, just join us and we'll have a lot of fun.
+<John Melendez> <Neutral> Wait, wait. Is the Casbah happening Thursday night?
+<Donald Trump> <Positive> No, it's going to be -- it'll be Thursday night but really the great night is Friday night.
+<John Melendez> <Positive> Yeah, I'm not going Thursday night. You got to get in bed early. What are you doing?
+<Howard Stern> <Negative> I'll do it. I'm not falling in love.
+<Donald Trump> <Positive> So, really, the time you want to go Friday night and Saturday night and it's going to be something big.
+<Howard Stern> <Positive> Donald Trump, I realize it. Lives like the Jetsons.
+<Robin Quivers> <Positive> Oh, yeah. He's always in the air.
+<Howard Stern> <Positive> I think he walks out of his office like -- and he's probably like 50 stories up.
+<Robin Quivers> <Neutral> Right.
+<Howard Stern> <Neutral> And he hops onto the helicopter and the Jetsons about to the...
+<Robin Quivers> <Positive> It's waiting for a tougher thing.
+<John Melendez> <Neutral> Hey, Donald Trump.
+<Donald Trump> <Negative> You know I have a crazy life, Howard because my office is in Trump Tower and I take an elevator into my office.
+<Howard Stern> <Neutral> You know what I can't believe...
+<Donald Trump> <Neutral> And I probably get less exercise than any man ever.
+<Howard Stern> <Positive> You know what? He probably has like all those robots washing him.
+<Robin Quivers> <Neutral> Right.
+<Howard Stern> <Neutral> Remember the robot.
+<Robin Quivers> <Neutral> Rosie
+<Howard Stern> <Neutral> Do you have a robot that washes you?
+<Donald Trump> <Negative> I don't have that, no.
+<Howard Stern> <Neutral> What do you do? You shower or you bathe?
+<Donald Trump> <Neutral> I shower.
+<Howard Stern> <Neutral> Do you ever have chicks bathe you?
+<Donald Trump> <Positive> Well, I can't refer to that. I can't talk about that.
+<Howard Stern> <Neutral> I wonder if he does. I think he's doing that whole Eddie Murphy...
+<Robin Quivers> <Positive> Yeah, maybe he doesn't even brush his own teeth.
+<Donald Trump> <Negative> Hey, Robin, these girls are so dangerous. You know, every time I go out just to say, yell it for, to sing in the helicopter, I end up getting myself in trouble.
+<Howard Stern> <Neutral> Do you have a robot? I bet your robots are Mexican. I thought they will do.
+<Donald Trump> <Positive> No, my robots are beautiful.
+<John Melendez> <Positive> Loan me the best robots.
+<Robin Quivers> <Positive> Yeah, his robot is human.
+<John Melendez> <Positive> They worked well.
+<Howard Stern> <Neutral> I bet that someone bathes you.
+<Donald Trump> <Positive> Human. Much better.
+<Howard Stern> <Neutral> So, you know what I can't believe about you? You've been with this Melania. How many years now?
+<Donald Trump> <Neutral> Three and a half.
+<Howard Stern> <Negative> No cheating?
+<Donald Trump> <Negative> No. No.
+<Howard Stern> <Neutral> How would you.
+<Robin Quivers> <Negative> They haven't been broken up ever since they...
+<Donald Trump> <Positive> Well, she's really great.
+<Howard Stern> <Positive> She must be great in the sack. She must have magic.
+<John Melendez> <Neutral> Dude, he's got pictures of.... She's on billboards.
+<Howard Stern> <Positive> Oh, yeah. She must be...
+<Robin Quivers> <Neutral> Why not?
+<Howard Stern> <Neutral> She must do something.
+<Donald Trump> <Positive> I made a good deal.
+<Howard Stern> <Negative> She must be driving you crazy.
+<John Melendez> <Neutral> She's had the car keys.
+<Donald Trump> <Positive> I really made a good deal. She did go on the billboards and I got it for the right price.
+<Howard Stern> <Positive> And she's not a -- she's not a pain in the ass like Ivana?
+<Donald Trump> <Positive> No, she's great.
+<John Melendez> <Positive> Oh, Howard, are you sure the...
+<Howard Stern> <Positive> That Ivana, what was the worse? Boy, thank God, you got out of that?
+<Donald Trump> <Positive> Well she was fine.
+<Howard Stern> <Positive> Oh, please.
+<Anthony Fauci> <Positive> She was good for the time.
+<Howard Stern> <Positive> She was good for that time.
+<Robin Quivers> <Neutral> For a few years.
+<Howard Stern> <Negative> For a few years. Oy vey. That accent. He drove the Donald crazy. He's still the Donald 'cause of her.
+<Robin Quivers> <Neutral> Because of her.
+<Howard Stern> <Positive> He doesn't even like that.
+<John Melendez> <Neutral> Ivana.
+<Donald Trump> <Neutral> That's right. I'll never live that down, Howard.
+<Howard Stern> <Neutral> And that other floozy. What was her name?
+<Robin Quivers> <Neutral> Marla.
+<Howard Stern> <Neutral> Marla Maples.
+<Donald Trump> <Positive> Marla was good too. I mean, hey, they were both...
+<Howard Stern> <Positive> She was no good deal.
+<Donald Trump> <Positive> Howard, they were both great.
+<Howard Stern> <Neutral> I told you at the time, it wasn't going to last. She was...
+<Donald Trump> <Negative> Well, you said it won't last more than a year but you were wrong. It lasts for three years.
+<Howard Stern> <Positive> It was no fun.
+<John Melendez> <Positive> Who is the best in the sack? Who is the best?
+<Donald Trump> <Negative> You know, well, I won't defer to that but...
+<Robin Quivers> <Positive> Donald was the best.
+<Donald Trump> <Positive> Who do you think was the best to the sack, Howard?
+<John Melendez> <Neutral> I say Melania.
+<Howard Stern> <Neutral> Melania.
+<Donald Trump> <Positive> Oh, I feel like Melania.
+<Howard Stern> <Neutral> Melania.
+<John Melendez> <Negative> I don't know. Young Ivana might have been tough to beat.
+<Howard Stern> <Neutral> I felt Marla was a gold digger.
+<Donald Trump> <Positive> You know, it's funny. No, she wasn't. She was really great but, you know, on the wedding night with Marla, a story I've never really told, I turned on the television. The press was going crazy. You saw that like I've never seen anything like it and it was wild. Howard, it had to be the one they interviewed. And, you know, I'm standing there. Have the television on, have the young bride, and I'm watching it.
+<Robin Quivers> <Neutral> In your wedding bed.
+<Donald Trump> <Positive> And she doesn't want to watch television. She's saying, How could you watch television on our wedding night. I said, You know it's really interesting. Let's see how it's covered.
+<John Melendez> <Neutral> She doesn't know it was over there.
+<Donald Trump> <Negative> And Howard said, There wasn't a wet eye in the house. That was his first statement and I cracked up. And the second thing he said, I give it six months at most. Okay. So, this is how I listen. This is my wedding night, Robin. This is the basic disaster.
+<John Melendez> <Neutral> Was there a discussion after that? Did she say anything to you about?
+<Donald Trump> <Negative> Very little, though she started to cry.
+<Robin Quivers> <Positive> Yeah.
+<Donald Trump> <Negative> Actually, no, no. She heard the two statements.
+<Howard Stern> <Negative> Yeah, she cried.
+<Donald Trump> <Neutral> But, you know, there wasn't a wet eye in the house. It was sort of a classic statement. So, I got to raise money but...
+<Howard Stern> <Negative> Donald told me she cried the wedding night when she saw me on this predicting that I wouldn't left.
+<Anthony Fauci> <Neutral> And then finally, there was a wet eye in the house.
+<Donald Trump> <Negative> No, no. She cried. You know what, Howard? She watched that. She cried all weekend.
+<Howard Stern> <Neutral> Let me tell you...
+<Donald Trump> <Negative> In fact, you destroyed my marriage.
+<Howard Stern> <Positive> So what? I did you a favor. Let me tell you something. She was very cold to me on the wedding day.
+<Robin Quivers> <Neutral> Oh, really?
+<Howard Stern> <Positive> I remember that I walked up to Donald to congratulate him and she was, you know, dressing her white gown. I go, Hey, how are you doing, Marla? She gave me a look like she was Princess Grace.
+<Donald Trump> <Positive> You know what, she was really nice but she wasn't for me, Howard. You know, you have those things. She was...
+<Howard Stern> <Neutral> I was beneath her.
+<Donald Trump> <Neutral> But she wasn't.
+<John Melendez> <Neutral> Hey, Donald, how long did you figure out she wasn't for you?
+<Donald Trump> <Positive> In about three to four weeks. It doesn't matter.
+<Robin Quivers> <Positive> Wow.
+<Donald Trump> <Positive> You know what? I'll tell you. She is a terrific but make, you know, I mean...
+<Howard Stern> <Neutral> How did you know she wasn't for you?
+<Donald Trump> <Positive> Well, I did. I mean, you know, I was so busy. Hey, Howard.
+<Howard Stern> <Positive> Yeah.
+<Donald Trump> <Negative> I was so busy in the early '90s. The real estate worlds were collapsing. The banks were collapsing. My whole fig was -- unless I really worked my ass off, I was not going to be talking to you today.
+<Howard Stern> <Neutral> That's right.
+<Donald Trump> <Positive> You once said that. Okay. We weren't going to be riding in helicopters going to the Taj Mahal.
+<Howard Stern> <Neutral> Right, right, right.
+<Robin Quivers> <Neutral> That's right. Donald, there's something allowance, do you remember?
+<Donald Trump> <Neutral> I'd be maybe piloting the helicopter.
+<Howard Stern> <Positive> Yeah. I remember that.
+<Donald Trump> <Neutral> I got a license.
+<Howard Stern> <Negative> You were on an allowance. That was heartbreaking.
+<Donald Trump> <Positive> Well, they had me. You know, it's sort of they were watching me. I owe 9.2 billion, Howard.
+<Howard Stern> <Positive> Yeah. Well, you dug yourself out of the hole.
+<Donald Trump> <Positive> When you owe a 9.2 billion, you have to go to work. So, I didn't think too much about Marla. I thought more about work and it worked out good.
+<Howard Stern> <Neutral> Where are you now?
+<Anthony Fauci> <Neutral> He's in the office.
+<Donald Trump> <Neutral> I'm in my office.
+<Howard Stern> <Negative> No, he's not.
+<Anthony Fauci> <Positive> But he is. You know, Howard, he gets to go like 7 in the morning.
+<Donald Trump> <Negative> No, I am. I'm actually in my office.
+<Howard Stern> <Neutral> Where's Melania?
+<Donald Trump> <Positive> Melania is upstairs which is great.
+<Anthony Fauci> <Neutral> In the other office.
+<Donald Trump> <Neutral> Because this way, you know what? This way, she can talk but --
+<Howard Stern> <Neutral> What does she do all day? What does she do -- wait a second. Donald, Donald, what does she do all day? Melania.
+<Anthony Fauci> <Positive> She looks good.
+<Howard Stern> <Neutral> What does she do?
+<Donald Trump> <Positive> She does the modeling thing and she just does that for fun and, you know, but she's around and she's very, you know, she works on charity. She does a lot of good stuff.
+<Howard Stern> <Neutral> She's available to service you during the day?
+<Donald Trump> <Neutral> She's not doing that.
+<John Melendez> <Neutral> Can I ask Donald a question, Howard?
+<Howard Stern> <Neutral> Go ahead, quickly.
+<Donald Trump> <Neutral> During the day I'm a worker.
+<John Melendez> <Neutral> Hey, Donald?
+<Donald Trump> <Positive> Yes.
+<John Melendez> <Positive> Does Melania ever allow you to bring other woman into bed with you, I guess?
+<Donald Trump> <Negative> No.
+<Howard Stern> <Neutral> But you've asked?
+<Donald Trump> <Positive> I don't think she'd allow that but, you know, I'm not into that too much but --
+<Howard Stern> <Positive> When you're at the Casbah and there's hot chicks around, she never said, Let's have some fun and bring your girl back?
+<Donald Trump> <Positive> No, but by the way, you won't believe how beautiful the girls are. You won't believe it.
+<Howard Stern> <Neutral> I'm going to go look.
+<Donald Trump> <Positive> I mean you don't care because Beth is incredible but I'll tell you what --
+<Howard Stern> <Positive> Well, you always care. I mean I love Beth but do you get even look a little?
+<John Melendez> <Positive> Yeah, Howard. He doesn't care.
+<Robin Quivers> <Neutral> Hey, Donald, even you do it as the girls have --
+<Howard Stern> <Neutral> Hey, I can look. I'm not looking to get laid.
+<Donald Trump> <Positive> We have this incredible ceilings that are built for dancers and we have like six to seven girls that are professional, that the most unbelievable girls dancing from the ceiling.
+<John Melendez> <Neutral> So, it means you can look at this --
+<Howard Stern> <Neutral> I got to tell you. You are --
+<Donald Trump> <Neutral> -- half a mile long along the boardwalk at 12 o'clock in the evening trying to get in.
+<Howard Stern> <Positive> You're my friggin hero.
+<John Melendez> <Neutral> I don't know how you go with that.
+<Donald Trump> <Positive> You know what, Howard, I haven't seen anything like the Casbah since Studio 54 and that was a long time.
+<Howard Stern> <Neutral> What is it, John?
+<John Melendez> <Negative> You're with Beth. He's with Melania. What's wrong with that patient?
+<Howard Stern> <Neutral> Nothing, man.
+<Robin Quivers> <Negative> Nothing is wrong with that.
+<Howard Stern> <Positive> [Inaudible]. I think it's pretty perfect quite frankly. I'm as happy as a clam.
+<Robin Quivers> <Neutral> What do you think?
+<Howard Stern> <Neutral> How old is Melania?
+<Donald Trump> <Neutral> Melania is 30.
+<Robin Quivers> <Neutral> Everybody is 30.
+<Donald Trump> <Positive> Howard, it's the great age for you and I.
+<Howard Stern> <Neutral> It is. You know what? Think about it. Take your age. I don't know how old are you and I'm 48. You put it in half and then you subtract seven.
+<John Melendez> <Neutral> I would be flying in helicopters, Howard if I was you.
+<Donald Trump> <Positive> You know, it was always very embarrassing like you know for the last couple of years, I go out with somebody and she's like 21 and she's talking about you know, What are you doing? She's studying Algebra.
+<Howard Stern> <Neutral> So what?
+<Donald Trump> <Positive> Howard, it's like -- it was always embarrassing for me to walk and it's too young. Thirty is like a perfect age.
+<Howard Stern> <Neutral> Absolutely. She had enough life experience.
+<John Melendez> <Neutral> I'm told she's 35.
+<Howard Stern> <Neutral> Too much life experience.
+<Donald Trump> <Neutral> What is at 35, Howard? It's called checkout time.
+<Howard Stern> <Neutral> [Inaudible] got to Marla.
+<John Melendez> <Neutral> That would got all to Marla. Was he married in '94?
+<Howard Stern> <Neutral> Right.
+<John Melendez> <Neutral> Married a '94 model and in the '97 it was a 3-year-old model.
+<Howard Stern> <Positive> That's right. Yeah. Didn't you tell Marla on your wedding night, Please don't get any older.
+<Donald Trump> <Positive> No, what I did is, you know, I had a rough time because of my wedding. Just before the wedding night, I demanded that she signed a prenuptial agreement fortunately.
+<Howard Stern> <Positive> Wow. Thank God you did that.
+<Robin Quivers> <Positive> Is it true, Donald though that you went back and read it and you knew that you'd have to pay her more if you stayed another day.
+<Donald Trump> <Positive> Well, you know what she was very fair with the agreement.
+<John Melendez> <Positive> Very fair.
+<Donald Trump> <Positive> And I wasn't going to be there but a prenuptial agreement is a very vital instrument.
+<Robin Quivers> <Positive> But why are those yearly incentives in there? If you stay another year, I give you another --
+<Donald Trump> <Positive> Well people tend to do that.
+<Howard Stern> <Negative> That's what kills the marriage. You look at the yearly incentive.
+<Robin Quivers> <Neutral> Right.
+<Howard Stern> <Neutral> They say Tom Cruise did that.
+<Donald Trump> <Positive> Hey, Robin, I'm very proud of my prenuptial agreement. I think I did very well.
+<John Melendez> <Neutral> Hey, Donald. Hey, Donald, has Melania asked you to marry her?
+<Donald Trump> <Positive> Oh, wow.
+<Howard Stern> <Positive> Did she ask your hand in marriage?
+<Donald Trump> <Positive> You know what? Honestly she's just a great person.
+<Robin Quivers> <Positive> But does she want to have kids, Donald?
+<Howard Stern> <Neutral> Hey, Kabi wants to ask you a question.
+<Donald Trump> <Negative> Go ahead, Kabi. Are you ready for the big fight, Kabi?
+<Howard Stern> <Neutral> Kabi, are you ready?
+<Kabi (Caller)> <Positive> I'm more than ready. I got a couple things. First of all, I have Donald. Donald, who are you taking in the fight?
+<Donald Trump> <Neutral> Who am I taking in terms of --
+<Howard Stern> <Neutral> Melania.
+<Donald Trump> <Negative> Yeah, but do you know what I'm doing. Kabi, I have a problem because I own the place. I'm not allowed to take a choice.
+<Kabi (Caller)> <Neutral> Oh, you're not?
+<Donald Trump> <Negative> I'm not allowed to pick because I own it. I would love to pick. I really would. I'll say this because I hear and I don't know Kabi. I do know John. I haven't met Kabi. I don't think I had met you Kabi. But I hear he's a big, tough, rough guy. I know one thing. John doesn't look that tough but I saw, you know, something in his eyes with A. J. Benza. He was going to kill him.
+<Kabi (Caller)> <Positive> I will say this about John. John is training. I have respect for it. I don't underestimate. John did knock me out but I want to know Donald Trump, will you take by a hundred thousand dollar bet?
+<Donald Trump> <Neutral> Or what?
+<Kabi (Caller)> <Positive> I think I want to bet that I'm going to win this fight.
+<Donald Trump> <Positive> Well, normally I do it but I never met you. I never saw you. You looked to me like you probably -- you sound to me like you're a tough cookie and John doesn't sound too concern.
+<Howard Stern> <Positive> What are you saying, Kabi, you want Donald Trump to cover a hundred thousand dollar bet?
+<Donald Trump> <Neutral> I think I'm already doing that on. Hey, Howard, I think I've already doing that.
+<Howard Stern> <Neutral> I think you are actually.
+<Donald Trump> <Negative> Come to think of it, Kabi. I think I'm probably already doing that. I'm paying a fortune for this damn fight.
+<Robin Quivers> <Positive> Well, you did it first.
+<Howard Stern> <Positive> Yeah.
+<Kabi (Caller)> <Positive> You know what? I want it first --
+<Donald Trump> <Neutral> And I want to tell you, Tom is one hell of a negotiator. I'd like to hire Tom to negotiate some nice building.
+<John Melendez> <Neutral> Who was hotter? Tom or Marla?
+<Donald Trump> <Positive> Tom is a better negotiator.
+<Robin Quivers> <Positive> I would say take Tom over handsome.
+<Donald Trump> <Neutral> Tom wouldn't have negotiated the prenup that she signed.
+<Howard Stern> <Neutral> Hey guys, I'm getting yelled at. I got to take a break.
+<Kabi (Caller)> <Neutral> I'm going to check about real quick, Howard.
+<Howard Stern> <Positive> Yeah, go ahead.
+<Kabi (Caller)> <Positive> My promoter Don King wants to invite Donald and everybody to the fight the next night, the two world champions Hasim Rahman versus Evander Holyfield. Everybody is invited.
+<John Melendez> <Neutral> I think about going there, Howard.
+<Howard Stern> <Positive> All right. Sounds good.
+<Donald Trump> <Neutral> So, Howard, I'll see you on Thursday. Robin, I'll see you on Thursday.
+<Robin Quivers> <Neutral> All right.
+<Howard Stern> <Neutral> All right. Donald, we'll see you then.
+<Donald Trump> <Neutral> So long, fella.
+<Howard Stern> <Neutral> That's Mr. Trump to you.
+<Kabi (Caller)> <Neutral> Nobody will take my bet, Howard.
+<Howard Stern> <Positive> All right. Kabi, what can I tell you. I'm sure that there are bookies out there will take your action.

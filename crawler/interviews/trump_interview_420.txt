@@ -1,0 +1,850 @@
+<Unidentified Male> <Positive> I respect everyone at this table. I have not earned the full respect.
+<Donald Trump> <Negative> Isn't it over, Sam?
+<Unidentified Male> <Neutral> I hope not.
+<Donald Trump> <Negative> I have no choice. You're fired. [End Clip]
+<Larry King> <Positive> Tonight, Donald Trump . He's rich. He's famous. He's powerful. And he's the hottest thing in reality TV. He's here for the hour, and we'll take your calls for Donald, an old friend. Donald Trump next on Larry King Live. He is, according to Forbes magazine But Donald , Donald ...
+<Donald Trump> <Neutral> Do you believe this?
+<Larry King> <Negative> Donald , Donald .
+<Donald Trump> <Negative> Can you believe what's happened?
+<Larry King> <Neutral> What...
+<Donald Trump> <Neutral> Can you believe it?
+<Larry King> <Negative> How do you -- how did this happen, by the way? How -- what happened? How did...
+<Donald Trump> <Positive> Well, The Apprentice has just been a phenomenon. How did it come to you? Mark Burnett.
+<Larry King> <Negative> He just came out of the cold?
+<Donald Trump> <Positive> He's just a great guy. He's a great, brilliant guy.
+<Larry King> <Neutral> He produced the Survivor.
+<Donald Trump> <Neutral> He produced it, and he wanted me and he didn't want anyone else. And he came to me at the Wollman rink, which I control...
+<Larry King> <Positive> In Central Park.
+<Donald Trump> <Positive> ... and he said all the right things -- I read your book, The Art of the Deal. Donald
+<Larry King> <Neutral> And look at this.
+<Donald Trump> <Negative> ... we were phenomenal.
+<Larry King> <Positive> Look at this. In all the years Donald's been around, he's been on the cover a few times, sometimes when things have been bad. Look at this -- Donald Trump and 'The Apprentice
+<Donald Trump> <Negative> I think it's a guilty pleasure and I think it's a nervous economy. And I've been on the cover of Newsweek before
+<Larry King> <Neutral> What do you base it on?
+<Donald Trump> <Positive> Well, I think it's something that people want. It's Survivor
+<Larry King> <Neutral> You, though, are not accustomed to firing people. People stay with you a long time?
+<Donald Trump> <Neutral> They do. They do. I do fire people.
+<Larry King> <Negative> You have, though... [Crosstalk]
+<Donald Trump> <Negative> Oh, I enjoying firing people when I catch them with sticky fingers, stealing. When they're stealing my money, I fire them much more viciously than on the show. But generally speaking, I don't fire people. [Crosstalk]
+<Larry King> <Negative> So the person you'll fire is when they've cheated on you.
+<Donald Trump> <Negative> Oh, I love to fire people when they cheat. Don't you? Have you...
+<Larry King> <Negative> I've never fired anyone. I don't -- I can't...
+<Donald Trump> <Negative> You haven't found anybody in the cradle?
+<Larry King> <Negative> No. But I can't -- I couldn't stand it. I don't know how you can...
+<Donald Trump> <Negative> That's never happened?
+<Larry King> <Negative> I've never run an empire. No, I can't...
+<Donald Trump> <Negative> No, no. But that's never happened, where people have stolen...
+<Larry King> <Negative> No.
+<Donald Trump> <Negative> ... from you? Not that you know of.
+<Larry King> <Negative> No, I think one or two times, but...
+<Donald Trump> <Negative> It's happened to you...
+<Larry King> <Negative> ... even then, I couldn't do it.
+<Donald Trump> <Negative> Larry, it's happened to you. You just don't know about it. [Laughter]
+<Larry King> <Positive> Last night, the episode was No. 8 in the ratings, nearly 20 million viewers. All right, it's successful...
+<Donald Trump> <Negative> No, last week, you mean.
+<Larry King> <Negative> Last week, right. You couldn't have...
+<Donald Trump> <Negative> It was No. 1 on the demos -- demographic...
+<Larry King> <Neutral> You follow this every week.
+<Donald Trump> <Negative> I do. I didn't know...
+<Larry King> <Positive> All right, now...
+<Donald Trump> <Negative> ... what a demographic was. [Crosstalk] You know what? I didn't know what a demographic was, and now I find out...
+<Larry King> <Negative> What do you... [Crosstalk]
+<Donald Trump> <Negative> ... that 18 to 49 -- I like to see it succeed. I like to think -- really, I like to see anything I do succeed. I mean, I didn't know what demographics was four weeks ago. All of a sudden, I heard we were No. 3 in demographics. Last night, we were No. 1 in demographics. And that's the important rating, as you know, the 18 to 49...
+<Larry King> <Neutral> That's the key.
+<Donald Trump> <Neutral> And they're the people that buy things.
+<Larry King> <Positive> Correct.
+<Donald Trump> <Negative> That means that I don't buy.
+<Larry King> <Neutral> They say...
+<Donald Trump> <Negative> I mean, does that mean that I don't buy? I thought I was a big splurger. All of a sudden, I'm not a buyer.
+<Larry King> <Negative> So you're not the wanted person.
+<Donald Trump> <Negative> I'm not a wanted person.
+<Larry King> <Neutral> This show began with 16 young entrepreneurs, 8 men, 8 women, divided into two teams. Then you started mixing up the teams. That changed, right?
+<Donald Trump> <Positive> Right.
+<Larry King> <Positive> And members of the losing team were summoned to the boardroom in a showdown with Trump. Here, let's take a look at how one got fired. Watch.
+<Donald Trump> <Positive> Nick, I don't know why you think you're such a great salesman. Your performance was terrible. Erica, you never had a strong game plan. You were frantic under pressure. And worst of all, you let your emotions dictate who came into the boardroom. Erica...
+<Unidentified Female> <Positive> Don't say it, Mr. Trump.
+<Donald Trump> <Negative> You're fired. [End Clip]
+<Larry King> <Neutral> How do you react to the -- quoted in Newsweek
+<Donald Trump> <Positive> Well, that's why he works at Yale instead of the Wharton School of Finance, which is a much better school. Which I imagine is where you went. I never heard -- I did go there, actually. It is the best business school. But it's Harvard...
+<Larry King> <Negative> How do you react... [Crosstalk]
+<Donald Trump> <Neutral> ... mandatory watching at Harvard, at Wharton, at all the business schools and most of the business schools...
+<Larry King> <Negative> Where's he wrong?
+<Donald Trump> <Positive> ... perhaps not -- well, I don't think it's deceptive. I think it's life. I think it's real life. I mean, the city is a vicious place. It's a beautiful place. New York City is the toughest place in the world. It's also the most beautiful place. It's also the ugliest place. it's got every characteristic you can -- you know that.
+<Larry King> <Positive> Correct.
+<Donald Trump> <Positive> You know it very well. But it's a tough place, and the city has eaten these kids alive. And they're geniuses, but it's just eaten them up and spit them out, and it's been tough on them. I mean, they've gone -- we have doctors. We have Harvard MBAs who are doctors simultaneously. I mean, these are brilliant kids, and they get eaten up by the city of New York. And I think that's one of the magical moments of the show, and I think that's why the show does so well.
+<Larry King> <Negative> How much of the planning is you, the description of where they go, what they're going to do? The Trump ice last night, right?
+<Donald Trump> <Positive> Yes. A lot of the planning...
+<Larry King> <Neutral> Who decides that?
+<Donald Trump> <Positive> ... is me, but it's -- a lot of it's me and it's Mark and it's Mark's staff. And I've gotten to be very good friends with Mark. And I think Mark's coming onto the program in a little...
+<Larry King> <Neutral> Yes, he'll be on at the end.
+<Donald Trump> <Positive> ... while. And I like his two boys even more than I like Mark. They're adorable, just like yours I just met. But a lot of it's me and -- you know, coming up with ideas, coming up with tasks. And we all get together and we come up with some things. NBC just renewed, which is not a great, you know, thing to figure out why. They just renewed for another year. And we had a one-time shot. You know, this is a one-time shot. They thought it would go on, it would be OK, and they never expected that the show would end up at No. 1 in the demographic and be such a big hit.
+<Larry King> <Negative> How did you get to be exec producer, rather than just a paid host?
+<Donald Trump> <Positive> Well, I own 50/50 with Mark. We own the company. And we went out to bid, and every network wanted it and -- because of Mark and Mark's success with Survivor and other things You've had a better time with them than CBS, huh? Well, I never liked...
+<Larry King> <Negative> Why were you so critical of Les Moonves and CBS?
+<Donald Trump> <Positive> You mean calling him the most overrated man in Hollywood? I like Les Moonves. I have to tell you, I do like him. And he called me, and we are very good friends. So you know...
+<Larry King> <Neutral> You settled.
+<Donald Trump> <Positive> Hey, look, he's done a nice job and he's a good guy.
+<Larry King> <Negative> But he dropped [Inaudible]
+<Donald Trump> <Positive> But we're very -- no, he didn't drop it. He didn't drop it. He said he dropped it after I chose another network, but he didn't drop it...
+<Larry King> <Neutral> Ah.
+<Donald Trump> <Negative> ... which is one of the reasons I was a little bit upset with him. And I said to somebody, Wasn't that terrible, what he said? He said, Donald, supposing you took something away. What would you do? Would you do the same thing? I said, You know, come to think of it, I would have said the same thing as him. It's like when you got dropped by a beautiful woman, you never say you got dropped, you say...
+<Larry King> <Negative> Oh, I dumped her.
+<Donald Trump> <Negative> ... I left her. [Laughter]
+<Larry King> <Positive> All right, now, as the show conceived -- do you work hard at it, or is it something where you come in at the end for the firing?
+<Donald Trump> <Positive> Well, Mark said the most time that he'd need me was three hours a week.
+<Larry King> <Neutral> Because you're busy.
+<Donald Trump> <Negative> Hey, look, I'm the biggest developer in New York, by far. There's nobody close. I'm building buildings all over the place. I'm building a big building in Chicago, one of the largest buildings built in Chicago -- the largest building since the Sears tower. In Los Angeles now, I'm doing a big development in Palace Verdes, big golf course...
+<Larry King> <Neutral> Oh, yes.
+<Donald Trump> <Positive> ... which will put -- hopefully, put Pebble Beach to shame. I mean, it'll be better than -- it's two miles along the Pacific Ocean, 300 acres. It's going to be amazing, with 75 -- I'm doing stuff all over the place. I don't have time for this.
+<Larry King> <Neutral> So three hours a week is all you give it.
+<Donald Trump> <Negative> Yes. Except it took 30 hours, OK, not 3 hours.
+<Larry King> <Neutral> Every week?
+<Donald Trump> <Negative> Yes. Mark totally misrepresented to me, OK.
+<Larry King> <Neutral> So you're working...
+<Donald Trump> <Negative> I have to talk to him.
+<Larry King> <Negative> You're working hard every week.
+<Donald Trump> <Positive> Well, now we really have a system where I go into the boardroom, I rant and rave like a lunatic to these kids, and I leave and I go off and build my buildings. And then it gets good ratings, and they pay me. I mean, can you believe this?
+<Larry King> <Positive> We'll be right back with -- I know you need it. We'll be right back with Donald Trump , the host, executive producer of The Apprentice
+<Donald Trump> <Negative> Versicore went to the boardroom, where tensions flared between Bill and the women.
+<Unidentified Female> <Negative> I know he could have gotten a higher number not from [Inaudible] but from a lot of other [Inaudible]
+<Unidentified Male> <Negative> Then why didn't you step in?
+<Donald Trump> <Neutral> Katrina doesn't think you did a great job negotiating.
+<Unidentified Male> <Positive> Well, and she's entitled to that opinion.
+<Donald Trump> <Negative> And Tammy was questioned about her loyalty. Why did you say we were duped? What do you think? Was she honest, or was she disloyal?
+<Unidentified Female> <Negative> I believe she was disloyal.
+<Donald Trump> <Negative> Tammy, the disloyalty has been so obnoxious in this particular case that I have to say you're fired. [End Clip]
+<Unidentified Male> <Positive> Nine dollar, nine dollar, nine dollar. All right, forget it.
+<Unidentified Male> <Negative> Bowie, tell him to tone it down.
+<Unidentified Male> <Negative> He is attacking.
+<Donald Trump> <Negative> You're not going to believe this. The men are at that smelly Fulton Fish Market, trying to sell lemonade. It's a terrible location, and there's nobody here.
+<Unidentified Male> <Negative> It's a really slow town for lemonade sales. [End Clip]
+<Larry King> <Positive> We're back with Donald Trump Donald Trump of The Apprentice. In the next segment Do you think that some complaining about women use their gender to advantage in this, or is that also part of life?
+<Donald Trump> <Positive> Women? I mean, do women use sex? Absolutely not. You've never known a woman to use sex, right? On my show, I get criticized when they use sex. The rest of the world, nobody gets criticized. You know, amazingly, these people were chosen. They're young people, and they were chosen for their brain, but they happen to be attractive. I mean, the women, some of the women, happen to be very attractive. And they have used their sexuality to win certain tasks, as we call them. And hey, that's part of life, I guess. In real life, that happens, too. I've known it. I've seen it happen. It's actually happened to me a couple of times, Larry.
+<Larry King> <Neutral> What's your...
+<Donald Trump> <Negative> It's happened to you many times.
+<Larry King> <Neutral> What's your judgment factor? What's the key to who stays, who goes?
+<Donald Trump> <Positive> Well, it's an instinct. I watch what happens. I have two very smart people, George Ross and Carolyn Capture, that work for me. And they are -- they really are smart and very aware. And they go and they follow these people doing the task, and they come back and report back, and that has a big impact on me. And at the end of the whole event, I sit down in the boardroom, we discuss it, and I fire the person that I think has not done the job.
+<Larry King> <Positive> But it is carefully discussed. This is not a whim.
+<Donald Trump> <Negative> Very carefully. No, no. We don't play games. This is a very serious thing. And you know, it's being imitated by so many people now. I see ESPN is having something...
+<Larry King> <Negative> Yes, they're... [Crosstalk]
+<Donald Trump> <Neutral> ... for an announcer...
+<Larry King> <Positive> Well, that's the name of the game.
+<Donald Trump> <Negative> ... and Matt Lauer and Katie were -- yes, I guess that's happened to you, too, actually, hasn't it, when you think of it.
+<Larry King> <Positive> So there's a few shows like this, right?
+<Donald Trump> <Negative> I see a couple of shows that have the same background you [Inaudible] Where's Larry? What happened to Larry? But it happens, and I guess that's, you know, a form of flattery. But it really is happening a lot.
+<Larry King> <Positive> What does the winner get?
+<Donald Trump> <Positive> The winner works for me on a large salary for a period of one year, and at the end of the year, if I like that person and if that person likes me, they'll stay, or they'll go out and become a billionaire or a millionaire or whatever they're going to become.
+<Larry King> <Positive> An entrepreneur.
+<Donald Trump> <Positive> An entrepreneur. And actually, if the winner is the right person, probably they wouldn't want to stay beyond a year. They want to learn whatever they have to learn, and then they want to go out and do their thing and...
+<Larry King> <Positive> What kind of job are you angling for the winner? Like, is...
+<Donald Trump> <Positive> It depends on who it is. Really, it depends on who it is. I mean, of the 16 people, literally all 16 I could hire and do very well with. They're really...
+<Larry King> <Neutral> So there are no bad -- there are no schnooks.
+<Donald Trump> <Positive> Oh, no. There's nobody bad. I mean, you take somebody like Sam -- Sam is a really smart guy. He's a character and, honestly, great television and all that, but he's a really smart guy. And you could make a lot of money with a guy like Sam.
+<Larry King> <Neutral> So he'd fit in a certain place, but another guy would...
+<Donald Trump> <Negative> Yes, but different places. I mean, for Sam I'd do something. For somebody else -- Amy, let's say, or this one or that one -- you put them in different places.
+<Larry King> <Neutral> What about with CEOs not in the highest regard today, with Enron and scandals and indictments and -- do you think the show has an effect on that, people wanting to get ahead in a business where business is held low esteem?
+<Donald Trump> <Positive> I think business is held in low esteem, but I've known so many businesses that are some of the finest people you'll ever meet. And they're very tough, very smart...
+<Larry King> <Negative> A few rotten apples...
+<Donald Trump> <Positive> ... businessmen.
+<Larry King> <Negative> ... spoil the basket.
+<Donald Trump> <Negative> It's very bad. And it's -- you know, it's a shame. And you see what's going on in the world today, with all of the indictments of now, finally, the Enron people, and they were bad news.
+<Donald Trump> <Negative> I mean, there's no question about it. And there was so much thievery. And those are the ones that get all the ink.
+<Donald Trump> <Negative> It's not all of the good ones that have done a great job over many years. So it's a little bit tough. That's one of the things we were worried about with the show because this a very business-oriented show in Manhattan. And we were a little bit worried, Does this rub off, and do people say, He we don't want to watch this kind of a thing? And interestingly, they said women wouldn't watch the show at the beginning. The critics said, Well, women won't watch the show. And women are the No. 1 watcher of the show, by far.
+<Larry King> <Neutral> And what do you account for that?
+<Donald Trump> <Negative> Well, I don't know. They said they wouldn't watch it because of me, because, you know, I'm a person...
+<Larry King> <Negative> You're macho.
+<Donald Trump> <Positive> ... that likes women, so therefore, because I like women, women aren't going to watch. And it's just turned out to be the opposite. I mean, our No. 1 viewer is women, and I think that's a very important element. You have to have...
+<Larry King> <Negative> I want to ask you about...
+<Donald Trump> <Neutral> ... women.
+<Larry King> <Negative> ... a couple of other things before we go to calls, take a break and go to calls. Donald's show is The Apprentice. It's every Thursday night. The Martha Stewart trial -- the judge tossed out one serious charge today, the most serious. That was securities fraud. There are three other charges. What do you make of that? What's your overview?
+<Donald Trump> <Positive> Well, I -- she's a friend of mine.
+<Larry King> <Negative> Mine, too. You know her well.
+<Donald Trump> <Negative> I am devastated that Martha didn't testify! I would have said testify. Now, I might be wrong, and if she's exonerated, I'll say, OK, I'm wrong. But I think this jury...
+<Larry King> <Negative> You think the public expects her to...
+<Donald Trump> <Positive> Well, not the public, the jury. Right now, it doesn't matter what the public thinks. It matters what that jury thinks.
+<Larry King> <Positive> Correct, 12 people.
+<Donald Trump> <Negative> And I think that jury of 12 people is saying, like, Tell us you didn't do it. Don't -- we don't want to hear from all the secretaries and everything else, many of whom were nullified and badly nullified. You got to get up on the stand! And I know it's tough. Hey, it's tough coming on the show with you. Who the hell wants to do this in front of potentially millions of people?
+<Larry King> <Neutral> They're there.
+<Donald Trump> <Negative> But really. You know, you get -- you do it. It's life, and you have to do it. She has to get up on the stand and she has to say, I didn't do it. I'm innocent. But you know, when she said and her lawyer said Martha Stewart is not going to testify, the whole jury went like this, as I read, and rightfully so. She -- I wish I could have been there. I would have insisted that she testify. In all cases, no. Hey, I know Mike Tyson very well, and Mike Tyson was going to be innocent, and then he testified. It was a disaster. His testimony...
+<Larry King> <Neutral> You got to know your client.
+<Donald Trump> <Negative> No, no. You got to know who you're dealing with. Mike was a disaster. Mike was found guilty. The jury came out and said if he didn't testify, he would have been OK.
+<Larry King> <Neutral> By the way...
+<Donald Trump> <Negative> But when he testified -- but Martha should have testified!
+<Larry King> <Negative> You promoted Mike in fights.
+<Donald Trump> <Positive> I know Mike very well.
+<Larry King> <Negative> How do you feel about him being broke?
+<Donald Trump> <Negative> I feel -- I think it's terrible. I think it's terrible. But you know, I paid Mike a lot of money for a fight, and they never found the check. I gave him a check for a lot of money when he was really hot... [Crosstalk] I handed it to him. I gave it to him. I thought it'd be a nice thing. So I handed him a check for millions of dollars. And like, about a month and a half later, my accountant came and said, Mr. Trump, that check never was cashed. They never found it. I said, That's OK. [Laughter] Ultimately, they did find it, but...
+<Larry King> <Neutral> What do you make of this battle for Disney, Eisner under fire?
+<Donald Trump> <Positive> It's time for Michael Eisner to get out. It really is. I mean, he's been...
+<Larry King> <Neutral> Try to be direct...
+<Donald Trump> <Neutral> ... there for a long time.
+<Larry King> <Neutral> ... with your answers, will you?
+<Donald Trump> <Positive> No, it's time for him to get out. [Crosstalk] It's enough. It's enough already. It's time to get out. And that's not so bad. He's been there a long time. But you know, it's time.
+<Larry King> <Positive> You mean, for everybody, it's time? Is there going to be a time when...
+<Donald Trump> <Positive> It's always time. There's going to be a time when you're going to have to get out, Larry.
+<Larry King> <Positive> Is there going to be a time when Trump leaves?
+<Donald Trump> <Negative> You're not thinking... [Crosstalk]
+<Larry King> <Positive> What about Trump? Is there going to be...
+<Donald Trump> <Positive> There'll be a time. There'll be a time. I mean, there's always a time. Maybe...
+<Larry King> <Positive> Why is this Eisner's time?
+<Donald Trump> <Negative> People are just not happy with the job he's done, and the shareholders aren't happy and the stock price -- I mean, it's only high because somebody's trying to take over the company. But it really seems to be time for -- I like Michael. I know Michael. It's time. There's nothing wrong with that.
+<Larry King> <Positive> We'll be right back with Donald Trump , and we'll take your phone calls. And then later, we'll meet the man who started this whole idea, Mark Burnett. And what a success story he's been. And he'll join us later. We'll take calls for Donald Trump right after this.
+<Unidentified Female> <Negative> Stay out of my face.
+<Unidentified Female> <Negative> I didn't say anything, though! For you to say that [Inaudible] passed out falling asleep!
+<Unidentified Female> <Positive> She's trying to make me her prey. She's done it to Tammy and she's done it to me.
+<Unidentified Female> <Negative> When I'm attacked like that, I don't have anything else to do but to go back at her.
+<Unidentified Female> <Negative> Now I'm done! You threatened me! It's over! I tried so hard today... [Crosstalk]
+<Unidentified Female> <Negative> ... to stay out of your way because of the team, not because I'm scared of you. Know that now!
+<Unidentified Female> <Negative> I know you're [Inaudible]
+<Unidentified Female> <Negative> Being a bitch is going to be your problem. You have to live with that for the rest of your life! [End Clip]
+<Donald Trump> <Negative> As you both know, we have an elevator that goes up to the suite and an elevator that goes down to the street. One of you will stay and one of you will be sent home. And David, I'm going to ask to you take the down elevator. You're fired. [End Clip]
+<Larry King> <Negative> Is that hard to do?
+<Donald Trump> <Neutral> No. It's what I do.
+<Larry King> <Positive> Not hard to -- it's what -- yes, but you like these people.
+<Donald Trump> <Negative> I do like them, but it's what I do, and I have to do. And you know, it was never meant to be, the word you're fired. This was going to...
+<Larry King> <Neutral> Now they're saying it on the street. It's become...
+<Donald Trump> <Negative> Oh, forget it. It's become -- They have T-shirts all over the universe. But it's been -- it's been [Inaudible]
+<Larry King> <Negative> You can't patent those.
+<Donald Trump> <Neutral> I did, actually. I did.
+<Larry King> <Negative> What do you mean? I can't have a T-shirt...
+<Donald Trump> <Neutral> Mark and I...
+<Larry King> <Neutral> ... that says You're fired?
+<Donald Trump> <Negative> I'm going to try. I don't know. How do you patent the words You're fired?
+<Larry King> <Negative> I don't know.
+<Donald Trump> <Negative> But we're going to try.
+<Larry King> <Positive> Kelowna, British Columbia. Hello.
+<Caller> <Positive> Good evening, Mr. Trump.
+<Donald Trump> <Positive> Hello.
+<Caller> <Neutral> Yes. How are you, sir?
+<Donald Trump> <Positive> Good. Thank you.
+<Caller> <Positive> It's a pleasure to talk to a giant like yourself. I'm from Canada, as you can hear, and it's a pleasure to know a giant and...
+<Larry King> <Neutral> What's your question?
+<Caller> <Negative> Question is, when you make one decision to let one go there, to be fired, is it absolutely your decision or do you lean heavily on your partners? And secondly, the other question is, have you got anything to do or going to have anything to do with the new twin towers?
+<Donald Trump> <Negative> Well, the second question, no. It's in the hands of a man named Larry Silverstein, who's a friend of mine, who's a great developer in New York and a really good guy. And I hate the design, and I don't think Larry likes the design. It was foisted upon him. It's a 50-story building that looks like it's 120 stories. It's a skeleton. And that's the last thing we need in New York is a skeleton of -- representing the World Trade Center. I think that it is not an appropriate design. I don't like it. But Larry's a good developer. He'll get it built, I think. And it's tough. You know, it depends on the market. The market in New York is not particularly...
+<Larry King> <Neutral> Are you the final decision on the firing, though?
+<Donald Trump> <Neutral> I'm the...
+<Larry King> <Neutral> You consult with the other two.
+<Donald Trump> <Positive> Absolutely. I don't really consult with anybody. I talk to people, but I'm absolutely the final decision.
+<Larry King> <Negative> Where were you on 9/11?
+<Donald Trump> <Positive> I was home watching a certain show, where Jack Welch, who's a great guy, was being interviewed. And they interrupted the program to say that this had happened. It was, you know, 8:45 or so in the morning, and I was listening to Jack, who I love.
+<Donald Trump> <Positive> I think he's a great guy. And I'm saying, What's this? And they showed a picture of the World Trade Center with this incredible flame pouring out of the side. And you know, you knew it couldn't be a boiler.
+<Donald Trump> <Negative> That's down in the basement. You know, you're saying, What is this? What could be possibly this? And of course, as the second plane hit, which I witnessed because the building I was in was very high and looked directly at the World Trade Center, you said, Well, now you know what it is. But what a terrible, terrible period of time that was. Ever.
+<Larry King> <Negative> Did you fear your own building?
+<Donald Trump> <Negative> Never, never in history has there been anything like this. Pearl Harbor was bad, but at least that was soldiers and sailors. These were innocent people.
+<Larry King> <Positive> Everett, Washington. Hello.
+<Caller> <Positive> Hello. Mr. Trump, have you considered doing a book or video tie-in to your show? Because it's very educational. And I love both of you and both of your shows. Thank you.
+<Donald Trump> <Positive> Well, thank you.
+<Larry King> <Positive> Thank you.
+<Donald Trump> <Positive> Thank you very much. Yes, Mark Burnett is thinking about it and...
+<Larry King> <Neutral> A book?
+<Donald Trump> <Positive> A book about it. I'm doing a book, a separate book. I'm doing a book How to Get Rich with Random House and...
+<Larry King> <Positive> Get a million-dollar advance? That's true?
+<Donald Trump> <Negative> I got -- no, much more than that, over $5 million.
+<Larry King> <Neutral> An advance?
+<Donald Trump> <Negative> Yes, but I don't want to talk about it. You know why? Because Oprah will be angry at me. I happen to love Oprah, and I'm doing -- I'm giving Oprah the exclusive on the book. I gave her the exclusive...
+<Larry King> <Negative> You mean, the first when it comes out?
+<Donald Trump> <Neutral> Yes, as soon as it comes out, which is in about two weeks.
+<Larry King> <Negative> [Inaudible] telling us how much you got?
+<Donald Trump> <Negative> No, it's about two weeks. Yes, over $5 million advance.
+<Larry King> <Neutral> What's it called?
+<Donald Trump> <Positive> It's called How to Get Rich -- Trump: How to Get Rich. And you know
+<Larry King> <Positive> Cleveland, Ohio. Hello.
+<Caller> <Positive> Hi. My question is for Mr. Trump.
+<Larry King> <Neutral> Sure.
+<Caller> <Neutral> When the winner is picked, it is said that that person will have a year contract with you.
+<Donald Trump> <Neutral> Yes.
+<Caller> <Negative> What happens if in that year's time, you find that they're not working out? Can you fire them before their year is up?
+<Donald Trump> <Negative> Well, first of all, you know what the losers get, right? They get three years. [Laughter] No.
+<Larry King> <Neutral> If you fire them, they get paid, right?
+<Donald Trump> <Negative> If they get fired, if I think they're bad and if they're just not doing it, I'll let them know and they still get paid.
+<Larry King> <Positive> We'll take a break and be back with more calls for Donald Trump . And then in our last two segments, Mark Burnett, the executive producer, will join us. He conceived other shows. He's got more coming, as well. Don't go away. [Commercial Break]
+<Donald Trump> <Negative> I guess you have visions of something big, something glamorous, but that's not going to be it. We're bringing you back to basics. You're going to go outside and you're going to sell lemonade. [End Clip]
+<Larry King> <Positive> Is that fun?
+<Donald Trump> <Positive> It's been fun.
+<Larry King> <Positive> I mean lemonade.
+<Donald Trump> <Positive> It was a good task. I didn't agree with that task. Mark liked that one. I didn't like it as much. Mark's reasoning was good and it really proved out to be right. The first thing we all do is sell lemonade. We're 4, 5 years old, we go in front of the house and we sell lemonade. So, I'm at the New York Stock Exchange with all the killers on the floor screaming, Donald! Donald! And the bell is going off and we're telling these kids to go out and sell lemonade on Wall Street.
+<Larry King> <Positive> Turned out great.
+<Donald Trump> <Positive> But it was good.
+<Larry King> <Neutral> Tenino, Washington, hello.
+<Caller> <Positive> Hello, thank you for taking my call. I got a couple of questions. Now, I know you can't answer anything but yes or no, but were you aware of the undercurrent with Ama Rosa and all of the other people going on?
+<Donald Trump> <Positive> Well, could you see there was a tremendous undercurrent and by the way, there still is. People don't like her. The women in particular just did not like her. And she is a smart, tough, cunning woman, but boy, you talk about an undercurrent, that is a big undercurrent.
+<Larry King> <Neutral> Second question?
+<Caller> <Positive> And my second question is, is there really Trump Ice and will it get to the west coast?
+<Donald Trump> <Positive> There is Trump Ice. KING; Now, what is that? Water, right? You can get it by calling 212-832-2000 and just order as much as you want and they send it to you.
+<Donald Trump> <Positive> KING; Trump Ice. Trump Ice. It's water. It's spring water. It's great spring water. It looks great.
+<Larry King> <Neutral> Legit product?
+<Donald Trump> <Neutral> Oh, it's a legit product. 212-832-2000 and just order as much as you want.
+<Larry King> <Neutral> Albany, New York, hello.
+<Caller> <Positive> Hello. Mr. Trump, I'd like to know how much of an influence Mark Burnett has on your selection as far as who gets fired, looking at who makes for better TV?
+<Donald Trump> <Positive> Well, Mark...
+<Larry King> <Neutral> Mark Burnett. He's interested in TV.
+<Donald Trump> <Neutral> We had 215,000 people apply for the job. Now, I have to tell you, that was the first indication we got that the show was going to be a monster hit.
+<Larry King> <Negative> Wanted to be apprentices.
+<Donald Trump> <Neutral> More than anybody has applied in the history of television for a show, 215,000 and out of that, they took 16. Now, I have to tell you just to go into this for the new show, they actually put on an ad for television which you probably saw during the apprentice. We have over 500,000 applicants for the new show, because we're doing an Apprentice 2.
+<Larry King> <Neutral> When does that start?
+<Donald Trump> <Positive> That starts shooting a couple of months. It's going to be on in the fall. And it'll be terrific.
+<Larry King> <Neutral> When do we know the winner, what month?
+<Donald Trump> <Positive> April 15, tax day. That's going to be live from New York City. If you'd like to do that show I'd love to give it to you. You should do it rather than me.
+<Larry King> <Negative> No, you.
+<Donald Trump> <Positive> Live television for two hours choosing the winner. It's going to get big ratings. What can I tell you. They tell me that does even better than a nonlive show. Would you say that's right?
+<Larry King> <Negative> Nothing's better than live.
+<Donald Trump> <Neutral> You think so?
+<Larry King> <Negative> Because the audience watching at home -- we're live now. Anything can happen.
+<Donald Trump> <Positive> That's true.
+<Larry King> <Positive> Anything can happen. That's right, could you hit me.
+<Donald Trump> <Positive> That's right.
+<Larry King> <Positive> But does he have a say, because I like the way that person looks, leave him on.
+<Donald Trump> <Positive> Mark and the staff chooses with me but I'm doing other things, chose out of the 215,000 the 16 people. Once the 16 people were in my board room, it was my decision. In all fairness to Mark, he wanted it to be my decision. He never once came to me and said, you know, this one's great for showbiz. This is great for ratings. You got to keep this one or that one. And he is a very legitimate guy, Mark. He is a great guy.
+<Larry King> <Positive> Floral Park, New York, hello.
+<Caller> <Positive> Hello.
+<Larry King> <Positive> Yes, go ahead.
+<Caller> <Positive> Hi, Larry, and Mr. Trump. First of all, thank you for taking my call.
+<Larry King> <Neutral> Sure.
+<Caller> <Positive> My question is to Mr. Trump, why did Mr. Trump invest so much time to a television show, was it for money or personal satisfaction or was it for both?
+<Donald Trump> <Negative> Well you know, it's interesting. Certainly wasn't for the money and most people tell me don't do it, because 95 percent of the shows that go on television fail. So by all standards it should have been a failure.
+<Larry King> <Negative> And you don't want to be associated with failures.
+<Donald Trump> <Negative> I don't want to be associated with failures. I don't have failures. I like to have success, not failures. So, a lot of people that are with me say, don't do it because statistically it's going to fail. Well, it turned out to be that it didn't. Now what happened is the second show is a very profitable, for Mark and myself, because of the fact that we hit so big on the first one and obviously NBC wanted to do a second one. And they're doing a second one, and it's going to be -- I can't say bigger and better.
+<Larry King> <Neutral> Your reason for doing it was?
+<Donald Trump> <Positive> Fun. Hey, I'm building buildings all over the place. Let's do something different. It's fun. I'm having fun doing it.
+<Larry King> <Neutral> By the way, before we take the next call, you considered, once, running for the presidency.
+<Donald Trump> <Positive> Well, I didn't consider it long. I had a group. They did a poll and the poll came -- I did a favor for a trend friend of mine in New Hampshire. He went to the Wharton School of Finance. He said, Donald, would you come up and make a speech to a business group. I came up to New Hampshire as a favor to him. I made a speech. And everyone thought I was running for president.
+<Larry King> <Negative> You didn't say I am not.
+<Donald Trump> <Positive> No I kept it going for about two weeks. But I wasn't running. I love what I'm doing.
+<Larry King> <Neutral> You think it will be a close election?
+<Donald Trump> <Negative> I think it's going to be very close. I think it's going to be John Kerry against Bush. I know them both. They're both good guys and I think will be a close race.
+<Larry King> <Negative> What do you make of the problems that Michael Jackson's facing?
+<Donald Trump> <Positive> You know I know him very well.
+<Larry King> <Negative> That's why I asked.
+<Donald Trump> <Neutral> He lives in my buildings, more than one. He lives in various of my buildings. I mean, he sort of follows me around in the sense of he likes what I have.
+<Larry King> <Positive> Good tenant.
+<Donald Trump> <Negative> He's been great. He's never been a problem. I hear all of the horror stories. He's never been a problem. And I would know, believe me. I ask the doormen, I ask the concierge, I ask the elevator operators. Michael Jackson has never been a problem, but it's too bad. It's very sad.
+<Larry King> <Positive> Toronto, hello.
+<Caller> <Positive> Hi, Larry. Mr. Trump, I believe my question may have already been answered. When you're considering which contestants should be fired is your decision based strictly on that contestant's performance of their assigned task or is your also based on which contestants are more valuable to keep on the show from an entertainment perspective.
+<Donald Trump> <Negative> It has been asked but, basically it's purely on the task. But I'll go a step further, that task, it may be how they've done over the preceding weeks, that certainly enters into the equation also but has nothing to do with the entertainment value.
+<Larry King> <Positive> To Washington D.C., hello.
+<Caller> <Negative> Hi. Donald Trump , I have a question for you. I'm here at Georgetown University. And all of us want to know if your hair is real, or it's a toupee or if it's comb-over, died amalgamation or mix of one of the above?
+<Larry King> <Neutral> One of the most asked questions in America. Let's talk first.
+<Donald Trump> <Neutral> Come on, let's go.
+<Larry King> <Neutral> It is not a toupee.
+<Donald Trump> <Neutral> Would you please inform the public.
+<Larry King> <Negative> It is not a toupee. Now, hold on, lean forward a little. No, it's not a toupee. It's not a comb over.
+<Donald Trump> <Negative> Don't mess it up too much.
+<Larry King> <Negative> It's not a comb over.
+<Donald Trump> <Negative> It's really not that much of a comb over. I get killed in this hair. I'm getting killed...
+<Larry King> <Negative> Why?
+<Donald Trump> <Positive> You know the show has gotten great reviews. I've gotten great reviews, everything gotten great reviews, except for one thing, my hair, gets bad reviews.
+<Larry King> <Neutral> What do you make of it?
+<Donald Trump> <Negative> It's a mess.
+<Larry King> <Negative> As long as I've known you've comb it that way. Do comb it?
+<Donald Trump> <Negative> You know what I do. I take a shower, I wash it, I then comb it and set it and I spray it and it's good for the day, but I'm getting killed on my hair.
+<Larry King> <Neutral> Are you thinking, make news here, Donald, changing it?
+<Donald Trump> <Negative> Well, if I did I think Mark wouldn't let me because the ratings would probably go way down. Do you agree with that Mark? The ratings would go down and he'd say please go back to your old hair style.
+<Larry King> <Negative> So, that's the reason? No personal desire to change it?
+<Donald Trump> <Negative> I don't care. It's not a big deal. But I don't think so. It's worked.
+<Larry King> <Neutral> It's different.
+<Donald Trump> <Negative> Yes. I don't feel it's even different. It's been the way I've always combed it.
+<Larry King> <Neutral> York, California hello.
+<Donald Trump> <Negative> It can't be good. It's certainly not my strength.
+<Caller> <Positive> My question, obviously, is for Donald. I think your show is great but I got to tell you, the question I have for about your family. I am amazed. First of all, thank you so much for sharing your stories with your children with us.
+<Donald Trump> <Positive> Thank you.
+<Caller> <Positive> And what it does for me is it shows the human side of you, and I would love to know, Donald, with all that you have and all that your children have, how did you bring them up to be so great versus the Hilton sisters?
+<Donald Trump> <Negative> Well, first of all, I know the Hilton sisters and they're good kids. I think they're getting a bum wrap. She was with this one dog named Solomon, and I'd like to represent them against him. I would like to really sue his ass off and they're such nice people. I haven't even sued him yet. I was with them the other night and they're holding for me a party for me tomorrow night at Baron Hilton's house.
+<Larry King> <Positive> I'm going to go.
+<Donald Trump> <Neutral> And you're going. And everybody in Hollywood is going. And they're going because of The Apprentice
+<Larry King> <Neutral> She asked about raising the family.
+<Donald Trump> <Positive> And they're nice girl, the Hilton girls are nice girls. And my family is terrific. I mean, they really are. Now, they're highly educated. My family is highly educated. I'm highly educated, which until The Apprentice most people didn't know. They thought I was a barbarian. But I'm highly educated.
+<Larry King> <Positive> Did you work at it with them? I mean, were you an attentive father?
+<Donald Trump> <Negative> I think I worked at it. I think I worked at it. I was tough. I was firm with them. I didn't give them too much money. But you know, when they walk in and their boyfriend comes over to Marolagro, and that's the lobby of their, you know, let's pick up Ivanka for a date, and they walk into Marolagro, it's a little bit different. But you know, she's a very well-grounded girl, and all the other kids are great.
+<Larry King> <Negative> Were they always good kids? Never had a problem?
+<Donald Trump> <Negative> I [Inaudible] wood -- is this wood or formica? It looks more like formica.
+<Larry King> <Negative> In other words, never had drugs, never had...
+<Donald Trump> <Negative> No, I've never had a problem with my kids.
+<Larry King> <Positive> Scottsdale, Arizona, hello.
+<Caller> <Positive> Hi.
+<Larry King> <Positive> Hi, go ahead.
+<Caller> <Neutral> My name is Christi.
+<Larry King> <Positive> Hi, what's your question?
+<Caller> <Negative> I own a small but quite profitable cellular phone business. I have owned it for about 10 years. I have an interested buyer, but they want to put half cash down and half is an earnout or a buyout over three years, based on their sales performance. And I'm struggling with...
+<Donald Trump> <Negative> I don't like that. I don't like that deal, unless the cash they're putting down is worth more than the whole company anyway and it's just a shot in the dark to get the rest. Otherwise, I wouldn't make that kind of a deal.
+<Larry King> <Positive> Baltimore, hello. Are you there?
+<Caller> <Positive> Hello.
+<Larry King> <Positive> Yes, go ahead.
+<Caller> <Positive> Yes, hi. I wanted to say first of all, Mr. Trump, your show, besides being entertaining, it's educational.
+<Donald Trump> <Positive> It's true. Thank you.
+<Caller> <Negative> My question is two-fold. What actually is the amount of time that the contestants spend in New York during the show? And the second question, is what is -- if there is an age limit, and why is there an age limit on the contestants?
+<Donald Trump> <Positive> Right. They spend about three months doing the show. And again, the winner has not been picked. There have been numerous episodes that have been picked, but the winner has not been picked. That's going to be live.
+<Larry King> <Neutral> Age limit?
+<Donald Trump> <Negative> Because we just can't take a chance on somebody finding out, and it's more exciting. The age limit, generally speaking, is going to be younger people, because these are people...
+<Larry King> <Neutral> Apprentices.
+<Donald Trump> <Negative> ... that are apprentices, but not only that; these are supposed to be people with potential. If a guy hasn't made it by the time he's 50, I know [Inaudible] discriminate, OK?
+<Larry King> <Neutral> There are no 50-year-old apprentices.
+<Donald Trump> <Negative> But if a guy hasn't made it by the time he's 50, guess what? I don't want him to be my apprentice.
+<Larry King> <Positive> We'll be back. And when we come back, we'll be joined by the guy who conceived all this, a true television genius, Mark Burnett will join us right after this.
+<Donald Trump> <Neutral> Hey, Sam...
+<Unidentified Male> <Neutral> Yes?
+<Donald Trump> <Neutral> I hear you're in charge.
+<Unidentified Male> <Positive> I am in charge, Mr. Trump. I am the coach of this team. How are you doing today?
+<Donald Trump> <Positive> Well, we're going to see, because the men are taking a big beating. Are you going to turn it around?
+<Unidentified Male> <Neutral> I already turned it around.
+<Donald Trump> <Negative> I never knew you were so short. Come here.
+<Unidentified Male> <Neutral> You want to shake my hand?
+<Donald Trump> <Negative> I want to shake your hand.
+<Unidentified Male> <Neutral> You really?
+<Donald Trump> <Negative> Come here. [Crosstalk] OK. Give me your hand. How is he doing fellow, all right?
+<Unidentified Male> <Negative> [Inaudible] taking charge.
+<Donald Trump> <Negative> Do you think they maybe made you the team leader to get rid of you?
+<Unidentified Male> <Neutral> That is possible.
+<Donald Trump> <Positive> Well, you know how that doesn't happen, if you win? Good luck.
+<Unidentified Male> <Positive> Thank you. Have a good day.
+<Unidentified Male> <Negative> That was one of the biggest moments of my life, shaking that man's hand. [Commercial Break]
+<Donald Trump> <Neutral> What makes you think you have charisma?
+<Unidentified Male> <Positive> I think I do. I think I bring a certain energy to the place.
+<Donald Trump> <Neutral> More so than the other three?
+<Unidentified Male> <Neutral> Yes.
+<Donald Trump> <Negative> Who do you think, Nick, did the worst job?
+<Unidentified Male> <Negative> Erica. Specifically, a leader can never, ever look frazzled in front of the troops, and for her to behave like that at the end of the day when it is crunch time is I believe unacceptable.
+<Unidentified Female> <Negative> I was fixing your mistakes. [End Clip]
+<Larry King> <Positive> We now welcome along with Donald Trump , Mark Burnett, the co-executive producer of The Apprentice. He's the Emmy Award winning executive producer of Survivor. And he's got another show coming
+<Mark Burnett> <Positive> I'm working on a new show called The Contender.
+<Larry King> <Neutral> With Sylvester Stallone.
+<Mark Burnett> <Positive> Something we all love, right? Boxing.
+<Larry King> <Negative> Boxing.
+<Mark Burnett> <Negative> [Inaudible]...
+<Larry King> <Negative> And they're going to eliminate people every week by knocking them out?
+<Mark Burnett> <Positive> Yeah, that's right.
+<Larry King> <Neutral> How did you come up with this idea?
+<Mark Burnett> <Positive> The Apprentice? Well, you know, quite frankly, when I came to America, Larry, I was a young entrepreneur with no money, I was selling t-shirts among other things on Venice Beach, and a lawyer skated by on rollerblades -- only in California it would happen, right -- and gave me a book and said, hey, you want to be a big businessman, read this book. It was The Art of the Deal.
+<Larry King> <Neutral> But you did Survivor first...
+<Mark Burnett> <Neutral> Yeah.
+<Larry King> <Negative> ... you had a hit on your hands. That started where, in London, right?
+<Mark Burnett> <Negative> No, no, no, actually it started in America. A lot of people think that. Survivor is an American developed show. Before that
+<Mark Burnett> <Positive> You know, I do things I like to do. I like adventure, and I like business, and so I'm in the business I like, and we're having a great time. We've become great buddies. We hang out.
+<Larry King> <Negative> Are you going to do a show on business with Jeff Katzenberg, too?
+<Mark Burnett> <Negative> No, that was a joke in an elevator that people overheard.
+<Larry King> <Neutral> I read it in papers.
+<Mark Burnett> <Positive> Well, can you believe what you read? I was in an elevator. And I said, hey, Katzenberg, you're in season three of The Apprentice. And he says
+<Larry King> <Neutral> Are you going to do The Apprentice in other countries?
+<Mark Burnett> <Positive> Well, we've already sold, actually, as a business -- Don and I are 50/50 partners -- we've got some of the highest prices ever for television sold overseas for this show.
+<Larry King> <Neutral> You've got to pick a host, though, right? Like you're going to pick out a French businessman, a British businessman?
+<Mark Burnett> <Negative> First of all, Larry, we insisted that they buy the American show first and air the American show, Donald Trump , and then after that, they sort of format cells, a double cell, American tapes and formats. [Crosstalk]
+<Donald Trump> <Negative> Whatever he wants to do.
+<Larry King> <Neutral> How he has been like to work with? Because he's used to running the show.
+<Mark Burnett> <Positive> Honestly, we haven't had one argument. Right?
+<Donald Trump> <Positive> That's true.
+<Mark Burnett> <Positive> Not one argument. I think we are -- I'm a mini-Trump, or I want to be a mini-Trump. You know? And we're both decision- makers, we both are gut instinct. What it has confirmed for me is that I'm doing it right. Because I don't have all the answers, I go on gut instinct, and he always tells me, if it feels right, do it, Mark.
+<Larry King> <Neutral> What's his genius, Donald ?
+<Donald Trump> <Positive> He's a great conceptualizer. He knows what people want. He's doing the show The Contender. I never spoke to him I mean, he's just a great conceptualizer. And I'll tell you something else, and I say it in a very positive way, he's an amazing salesman. I told you before, he said, Donald, you've got to do it, Mr. Trump, you've got to do it. It will take you three hours a week and maybe less. You know, 37 hours later I'm saying what the hell happened to the three hours? He's an unbelievable salesman. But beyond the salesman stuff, because, you know, salesmen are salesmen. He's a brilliant guy, a great producer and just got it.
+<Larry King> <Positive> On The Contender
+<Mark Burnett> <Neutral> Yeah, absolutely, end of each week.
+<Larry King> <Negative> Someone knocks someone -- someone defeats someone?
+<Mark Burnett> <Positive> Yeah. Absolutely. There's a boxing match at the end of each episode. And I mean, one thing -- I know you love boxing, you love boxing. I did this because I feel like it needs to be cleaned up. It's a great thing.
+<Larry King> <Negative> Is Stallone your exec producer?
+<Mark Burnett> <Positive> Yes, Stallone is my partner, along with a cast of all executive producers, and Stallone is on camera. He loves boxing. He's not doing this for the money, Larry. He just loves boxing. It gave him something big in his life.
+<Larry King> <Positive> This guy is going to go on, he's going to keep doing things.
+<Donald Trump> <Positive> He's good. He's good. He's going to go on, and I'm going to go back to building buildings, which I really look forward to.
+<Mark Burnett> <Negative> Take me with you. I want to be your apprentice.
+<Larry King> <Neutral> You're building a building, the second tallest building in Chicago?
+<Donald Trump> <Positive> I'm building actually the largest building in the Midwest since the Sears Tower, 2.7 million square feet at the Sun-Times site on the river. It's going to be mostly apartments and hotels and it's going to be, we already sold $40 million of apartments and we haven't started building the building.
+<Larry King> <Positive> Do you live in the Trump building?
+<Donald Trump> <Negative> No, I don't. I live in Los Angeles. I stay in the Trump building when I was in New York.
+<Larry King> <Positive> Is it a good building?
+<Donald Trump> <Negative> You know, Larry. When you're with Trump you can only stay in Trump buildings. [Commercial Break]
+<Larry King> <Positive> We'll be back with the remaining moments of Donald Trump and the co-executive producer of The Apprentice
+<Donald Trump> <Negative> I'm going to make a decision on probably during the month of February, and that will be based on whether or not I think I can win. I'm not looking to get 20 percent of the vote. If I think I can win, we may very well have a very positive decision. [End Clip]
+<Larry King> <Negative> Donald, the almost candidate. Show's No. 1?
+<Mark Burnett> <Positive> Actually, this week for the first time we equalled CSI. So equal first place in the most important demo. That's amazing. To be up against CSI.
+<Larry King> <Neutral> Would you change his hair?
+<Mark Burnett> <Positive> I would never ever change Donald Trump's hair. I've got two words to say. Samson and Delilah. One of my best stories. Don't touch the hair.
+<Larry King> <Positive> Brooklyn, New York. Hello.
+<Caller> <Positive> Mr. Trump, I have two quick questions for you. The first is would you happen to have a job for a very sharp, savvy, nice Jewish girl but down on her luck from New York City? And the second one is whether for better or worse and with all due respect I'm wondering which is bigger your bank account or your ego? Thanks.
+<Larry King> <Positive> You have a healthy ego.
+<Donald Trump> <Positive> Have you ever met anybody -- so do you, by the way. A lot of times you try to hide it. But you have a big ego. I know you very well. Have you ever met a successful person...
+<Larry King> <Negative> You can hide it...
+<Donald Trump> <Negative> Have you ever met a successful person without a big ego? Not recently.
+<Larry King> <Positive> They show up in different ways. There are very shy people with enormous egos. Correct. To Bowling Green. Hello.
+<Caller> <Positive> Hello.
+<Larry King> <Positive> Go ahead.
+<Caller> <Neutral> Is this Bowling Green?
+<Larry King> <Positive> Go ahead.
+<Caller> <Positive> Mr. Trump, we love your show. I'd like to know what person has had the most profound influence on your life?
+<Donald Trump> <Positive> Always my father. I mean I had a wonderful father, he's a builder in Brooklyn, in Queens. He built moderate income housing and he was just a great guy and I learned a lot from him and he was a great guy. He was my best friend.
+<Larry King> <Positive> Last call, Burlington, New Jersey quickly. Hello.
+<Caller> <Positive> Thank you for my taking my call. Donald, I'm very smitten to be talking to you...
+<Larry King> <Neutral> What's your question, we're running out of time.
+<Donald Trump> <Negative> Let her go on. That sounds very...
+<Caller> <Negative> I'm sorry you had to take that insignificant question about your hair because I think you look great.
+<Larry King> <Negative> You're going to run out of time, dear, with all these...
+<Caller> <Negative> I'd like to know how you handle your stress.
+<Donald Trump> <Negative> I try and tell myself it doesn't matter. Nothing matters. If you tell yourself it doesn't matter, like you do shows, you do this, you do that and then you have earthquakes in India where 400,000 people get killed. Honestly, it doesn't matter. That's how I handle stress.
+<Larry King> <Neutral> How do you handle it?
+<Mark Burnett> <Negative> You know, water rolls off my back like a duck's back. Honestly, the same thing. I came from nothing.
+<Larry King> <Neutral> You two are made for each other.
+<Mark Burnett> <Positive> We have a great time.
+<Larry King> <Positive> Donald, thank you, my man. Mark. Donald Trump and Mark Burnett, the show, the incredibly successful The Apprentice on NBC Thursday nights.
+<Larry King> <Positive> Before we go special congratulations to one of our favorites Blake Edwards He and his equally talented wife Julie Andrews have been great friends of this program over the years. But you want to talk about a richly deserved honor. Blake Edwards made Breakfast at Tiffany's and The Pink Panthers.
+<Larry King> <Positive> We could stop right there and he's in the hall of fame. But Blake Edwards also brought us classics like Days of Wine and Roses and 10 and S.O.B. and Victor and Victoria. The screenplay for that one got him his only Oscar nomination. Mazel tov Thanks for joining us on this edition of Larry King Live. Stay tuned for more news on CNN, your most trusted name in news.
+<Larry King> <Positive> Tonight: Donald Trump. Need we say more? Next on Larry King Live.Good evening.
+<Larry King> <Positive> Our guest tonight for the full hour is Donald Trump. The program was taped earlier today for broadcast tonight so that Mr. Trump could be at a big dinner tonight with Jesse Ventura.
+<Donald Trump> <Positive> With Jesse, that's right.
+<Larry King> <Neutral> Is he the guy that started all this for you?
+<Donald Trump> <Positive> Well, I guess the polls started it. The polls came out, and they said if I ran, I'd do very well.
+<Larry King> <Negative> Why were you even mentioned in the polls, though, since you never...
+<Donald Trump> <Positive> I don't know, I just don't even know. I mean, they put people's name -- they put various celebrities' names in, and I did very well in polls, and, all of a sudden, people started calling. One of the people is Jesse, who I've known for a longtime, who's a terrific guy, a real character and a real smart guy. And Jesse called, and they all called, and tonight I'm having dinner with Jesse, which a look forward to.
+<Larry King> <Positive> Is this the first time since all this started that you'll be together?
+<Donald Trump> <Positive> This is really the first time. We've spoken, but this is the first time we'll be together.
+<Larry King> <Neutral> Has he tantamount to ask you to run?
+<Donald Trump> <Negative> Well, I don't want to say that. I mean, you would really have to ask Jesse.
+<Larry King> <Negative> What has he said?
+<Donald Trump> <Positive> But we have a very, very great relationship. He wrestled at one of my places quite a while ago.
+<Larry King> <Negative> Is that where it started?
+<Donald Trump> <Positive> And I will tell you, he's definitely the strongest governor in the history of the world because he was able to lift 350 pound men over his shoulders and drop them into the fourth row, and very few people can do that. But he's really a bright guy, and I just like him. I've always liked him.
+<Larry King> <Negative> Disappointed in the "Playboy" interview?
+<Donald Trump> <Negative> Well, I don't know if I believe the "Playboy" interview. You know, I got myself in trouble with a "Playboy" interview...
+<Larry King> <Negative> They misquoted you?
+<Donald Trump> <Negative> Well, they take things a little bit out of context, and I had a real problem with them, and I think maybe some of that happened with Jesse, too.
+<Larry King> <Negative> Because he said what he meant was that he didn't mean it as criticism to say people are weak minded if they go to church or if they lean on God. He meant it as a kind of feeling badly for them.
+<Donald Trump> <Positive> Well, look, he's an extraordinary guy. He's done an extraordinary job. I really think it was taken out of context from what I've understood, and he will be absolutely fine, there's no doubt about that.
+<Larry King> <Neutral> In other words, he'll go up again as a popular governor.
+<Donald Trump> <Positive> He's going to be a -- I mean, he's already up. I mean, his ratings went from 78 down to 55, 55 isn't so bad, right? And he'll be right back up.
+<Larry King> <Positive> Now, let's touch a lot of bases. The first thing we keep hearing is you're going to announce in January, right? Or make some sort of decision by January.
+<Donald Trump> <Negative> Well, I'm going to announce whether or not I decide to run or whatever, and I have...
+<Larry King> <Neutral> What are you doing to make that?
+<Donald Trump> <Positive> I mean, all that's happening now, is people are coming out with polls. It was so interesting, the one sort of negative polls I had was on "Newsweek," and the put me on the cover. So I said: How can you write a poll -- how could you do a poll like this, and I'm on the cover of "Newsweek"? And, you know, it was just one of those things, but the polls have been unbelievable. So I am going to form a presidential exploratory committee, I might as well announce that on your show, everyone else does, but I'll be forming that and effective, I believe, tomorrow. And we'll see. I mean, we're going to take a very good, strong look at it.
+<Larry King> <Positive> Well, that's pretty -- most people who form exploratory committees, that's that major step toward going.
+<Donald Trump> <Positive> Well, it's a step.
+<Larry King> <Neutral> Can you say it is a major step.
+<Donald Trump> <Positive> I don't think I can say it's a major step, I'm looking at it very seriously. I have a lot to lose, Larry. I mean, I'm the biggest developer in New York by far. I'm doing more, as you know from being here a lot, I'm doing more than any -- I'm building 90- story buildings all over the place. And we're just doing a lot, and we're doing great. I mean, the city is the hottest city, and I'm the biggest developer in the hottest city in the world right now. Other guys, you know, they run. Pat Buchanan, what is he -- you know, he's not giving up anything. What's he doing? And politicians, when they run, they run from one office to another, it's the same thing. They, you know, answer different calls. I'm giving up a lot if I decide to run. So we're going to look at it. We're going to explore it. We're doing the committee, and we'll see how it comes out.
+<Larry King> <Neutral> And the committee is going to look into all areas, talk to people...
+<Donald Trump> <Neutral> All areas.
+<Larry King> <Neutral> ... financing?
+<Donald Trump> <Negative> But really, really the big thing they're going to look in -- as -- is: Can you win? Can a Reform Party candidate win? Because I believe I could get the Reform Party nomination. I don't even think it would be that tough. It's going to be Buchanan, and I think Buchanan just blew himself out with the book and his love affair with Adolf Hitler. I mean, you know, how he said this is beyond believe. But I really want to see, if you get that nomination, what happens from there? If I couldn't win, if I felt I couldn't win, I wouldn't run. I absolutely would not run. I'm not looking to get more votes than any other independent candidate in history, I'd want to win. So we'll see. And we're doing...
+<Larry King> <Negative> So this exploratory committee we announce tonight starts tomorrow?
+<Donald Trump> <Neutral> That will start tomorrow.
+<Larry King> <Neutral> And the decision by some time in January?
+<Donald Trump> <Neutral> Sometime January or February, early part of February.
+<Larry King> <Neutral> Two, three months in there, right?
+<Donald Trump> <Neutral> I would say about that, yes, Larry.
+<Larry King> <Neutral> OK. Are you excited?
+<Donald Trump> <Negative> Well, I've never been inundated. You know, I've been somebody that, for better or worse, has always gotten a lot of press. I mean, I go back to the office after lunch or after an interview like this, which is an hour, and I'll have 40, 50, 60 calls from the biggest people in media wanting to do interviews. And, you know, in the meantime, I'm running a very big business. And to run it well, you what to be running it, you what to be there. So I could do this all day long, but I just don't chose to do it.
+<Larry King> <Negative> Now, let's get into some things. The Reform Party, by its name, means reform. You will be leaving, if you run this -- you believe in, what, the Republican Party I believe?
+<Donald Trump> <Negative> I'm a registered Republican. I'm a pretty conservative guy. I'm somewhat liberal on social issues, especially health care, et cetera, but I'd be leaving another party, and I've been close to that party.
+<Larry King> <Negative> Why would you leave the Republican Party?
+<Donald Trump> <Negative> I think that nobody is really hitting it right. The Democrats are too far left. I mean, Bill Bradley, this is seriously left; he's trying to come a little more center, but he's seriously left. The Republicans are too far right. And I don't think anybody's hitting the cord, not the cord that I want hear, and not the cord that other people want to hear, and I've seen it. Plus, I think there's a great lack of spirit in this country. You know, what happened over the last four years is disgusting, and I just think there's a tremendous lack of spirit, and I think the spirit has to be brought back.
+<Larry King> <Neutral> And it will come through a third party?
+<Donald Trump> <Positive> Well, I think maybe we have no choice, and I think that the third party and the Reform Party has done an amazing job, but it's a new party. It's very, very tough to get elected from the Reform Party, we know that, but it's a possibility, and we're going to look into it.
+<Larry King> <Neutral> Do you give credit to Ross Perot in that area?
+<Donald Trump> <Positive> I give him a lot of credit. I think he'll go down -- his legacy, really, will be the Reform Party much more so than, you know, we make money; he makes money, I make money, we make a lot of money. But the legacy that he's created, the Reform Party, is a great tribute to him, and I think he'll go down, and I think he'll be given great credit for it.
+<Larry King> <Positive> Pat Buchanan said he agreed with Warren Beatty. I wonder if you do. Warren Beatty said: "We don't have a three-party system, we have a one-party system. We need a second party." Do you agree with that?
+<Donald Trump> <Neutral> Well, I don't think so. I think that...
+<Larry King> <Negative> You don't think that the Republicans and Democrats are alike?
+<Donald Trump> <Negative> I don't think so. I think that their views are different, somewhat different, but they're maybe almost too divergent. If you really know the real Bill Bradley or the real Gore, you're really talking about a very, very liberal cast of characters. And I think that the Republicans are more conservative.
+<Larry King> <Negative> Is George W. Bush real conservative?
+<Donald Trump> <Positive> I think he's getting toward the middle. I think he's done a good job in sort of distancing himself from some of the radical views in the party, and I think he's doing all right.
+<Larry King> <Negative> You've been an activist Republican, haven't you? I mean, you support candidates...
+<Donald Trump> <Positive> I've actually been an activist Democrat and Republican. I support almost equally -- I really support people. I support people like Senator Torricelli, who's fantastic, from New Jersey. And I support, on the other hand, Rudy Giuliani, who's been the best mayor in the history of the city of New York; or George Pataki, who's been just a terrific governor and a great guy. You know, they -- I just support people...
+<Larry King> <Neutral> So it's the person?
+<Donald Trump> <Negative> I really go for the people rather than the party.
+<Larry King> <Neutral> Donald Trump, announcing tonight the formation tomorrow of a committee to look into the possibility of his running for the presidency of the United States. We'll be back with lots more, don't go away. (COMMERCIAL BREAK)
+<Larry King> <Positive> We're back with Donald Trump. We're going to be all over the board tonight talking about lots of issues as he announces the formation of exploratory committee to possibly seek the candidacy of the Reform Party. Do have a vice presidential candidate in mind?
+<Donald Trump> <Neutral> Well, I really haven't gotten quite there yet.
+<Larry King> <Neutral> It's just, you know...
+<Donald Trump> <Positive> Oprah, I love Oprah. Oprah would always be my first choice.
+<Larry King> <Neutral> Oprah?
+<Donald Trump> <Positive> Oprah. Your competitor, right?
+<Larry King> <Negative> No. Oprah is a competitor to no one.
+<Donald Trump> <Positive> You know what? I tell you, she's really a great woman, though. She is a terrific woman. She is somebody that is very special. I have not even thought about it. I guess we'll see, we'll see. Maybe that's part of the whole process.
+<Larry King> <Negative> Would she be someone -- I mean, kidding aside, that you might think about?
+<Donald Trump> <Positive> If she'd do it, she'd be fantastic. I mean, she's popular, she's brilliant, she's a wonderful woman. I mean, if she would ever do it. I don't know that she would ever do it. She's got, you know...
+<Larry King> <Neutral> You would ask her.
+<Donald Trump> <Neutral> She would be sort of like me. I mean, I have a lot of things going, she's got a lot of things going, in terms of...
+<Larry King> <Neutral> What a ticket that would be.
+<Donald Trump> <Positive> That would be a pretty good ticket. But she's a very exceptional woman.
+<Larry King> <Positive> What makes a good president?
+<Donald Trump> <Negative> Well, I think the leadership qualities. You know, the sad part about President Clinton, who I happen to like a lot, but he could have had a great presidency if the whole thing with Monica and Paula Jones and the worst of all is, you know, Linda Tripp. I mean, this woman, where she came from I have no idea, but this is the woman from hell.
+<Larry King> <Negative> But he didn't have anything to do with Linda Tripp.
+<Donald Trump> <Negative> No, no, he didn't but she always seems to surface. And she's just became a part of the administration.
+<Larry King> <Neutral> But can't you'd say in all honesty, as Reagan asked, when running against Carter: Haven't you done better the last -- under Clinton -- you, Donald Trump, would you say you've done a lot better?
+<Donald Trump> <Positive> Well, you know what, the truth is that Rubin and Alan Greenspan and, you know, those appointments that he was making.
+<Larry King> <Positive> It's on his watch.
+<Donald Trump> <Negative> And it is on his watch. And the sad part is, and what I'm saying is, is that he could of gone down as a really very good and maybe even a great president.
+<Larry King> <Positive> So, you will admit you have done well and the country's done well?
+<Donald Trump> <Positive> I have done well and the country has done well from an economic standpoint, there's no question about that. And now you're going to see what happens over the next period of a year. Because, you know, when the election takes place, if things aren't doing well Larry, your Reform Party candidate has a major chance of doing something major. We'll have to see what happens.
+<Larry King> <Negative> Why does Gore inherit this character question?
+<Donald Trump> <Negative> Well, Gore is a man that I've said before is a very underrated man. But if he keeps going the way he's going, which has been terrible, he's no longer going to be underrated, he's going to be...
+<Larry King> <Negative> What's he doing wrong?
+<Donald Trump> <Negative> Nobody knows. It's just, I think he's relying on too many people. I think he probably raised too much money and he, therefore, it's being taken away by too many different consultants. I mean, everybody's got a piece of him. If he would just back to being the regular guy that he was, I think it would do him -- I mean, if he got to be vice president of United States by being Gore, and now all of a sudden you have 15 people tugging on his shoulders and taking money from his various contributions. I mean, if he spent $20 million, I've spent exactly $20 million less, and...
+<Larry King> <Negative> What do you want in a president? You said, OK, Clinton could have been a great president if not for the character issue, and you are saying the character issue...
+<Donald Trump> <Positive> Well, I think it's very important. I mean, Ronald Reagan, to me, was a great president. And, whether you are liberal or you're conservative, people really view him as a great president. He'll go down as a great president and not so much for the things he did, it's just, there was a demeanor to him and a spirit that the country had under Ronald Reagan that was really phenomenal. And, you know, there was just a style and a class, and that a big part of the president, I mean, that's a really big part of being president. Ronald Reagan had it. Eisenhower, now Eisenhower -- I don't see him too much on lists of great, great presidents -- but there was a nice time in the country, the country had a prestige and he had a certain, you know, demeanor. He was a quality, class act. There are certain people that have that. Unfortunately, with all of the scandal in the last four years -- and what happening with Gore is he is really tainted by it, and he is probably the last one to be involved in that kind of a scandal. But he is still tainted by it, it is a tough fact.
+<Larry King> <Negative> So, fair or unfair, it's a fact.
+<Donald Trump> <Positive> Well, I mean, if he were really on his game, he would get one off his senator friends to go and run against Bradley and him so that you could divide up the anti-Clinton/Gore vote, and he would get in very easily, I suspect. At least he would get the nomination.
+<Larry King> <Neutral> And give somebody else a turn -- strategy.
+<Donald Trump> <Negative> Well, no, it has to be strategy because it's not that Bradley is good. Bradley's not great. I know Bradley very well from New Jersey. I think I'm the largest employer in the state of New Jersey, and I know Senator Bradley. And, you know, he was going to be thrown out of office. This guy was not going to be re-elected. And then he made the statement that I'm going not to run, and the Senate is a terrible place, and everybody in the Senate is terrible. It wasn't that he didn't want to run. The guy was going to lose. He was going to lose badly.
+<Larry King> <Positive> Well, Perot told us back in '92 the kind of president he would be if elected. That he would be decisive, he would be uninterested in pomposity, he would be at work at 8:00 in the morning. These are things he would do. He didn't like, not a big ribbon cutter. What kind of president would Donald Trump be?
+<Donald Trump> <Positive> Well, again, all those things are fine. But, you know, again, you go back to Reagan, and there is a certain pomposity and there was a certain ribbon cutting stature that is important for the president. I think that the whole style and look of him was just really...
+<Larry King> <Neutral> Are you saying that's the kind of person you want to be?
+<Donald Trump> <Negative> Well, I don't say that. And I don't like to be compared to anybody. And maybe it would be unfair to them, to be honest with you. But, the president has to be a great leader, and you have to lead by example. But, you need leadership in this country. And we're just not having it right now. And this is going to be Gore's problem, because he is very much associated with four very ugly years, despite an economy. I mean, if you had a bad economy at this point, it would be a disaster out there. But you do have the one thing, you have a good economy.
+<Larry King> <Neutral> We'll be back with lots more of the Donald Trump, don't go away. (COMMERCIAL BREAK)
+<Larry King> <Positive> We're back with Donald Trump. You mentioned real estate. Hillary's here, they're going to move to New York. You live here. They're going to run. Did they get a good deal on that house?
+<Donald Trump> <Negative> I mean, they really got ripped on the house.
+<Larry King> <Negative> Ripped?
+<Donald Trump> <Neutral> The house is right next to one of my golf courses, and, you know, I just wish I could have maybe represented him in buying the house, and her, because I think I could save them about $600,000 or $700,000.
+<Larry King> <Neutral> That much?
+<Donald Trump> <Negative> They really paid a high price. It's good for the neighborhood, and it's good for the area and everything else, but they really paid -- they overpaid for the house. One of my people, who actually runs my golf course, which is literally a couple of minutes away from where they're living, came up and said: Why did they pay so much for that house? And...
+<Larry King> <Neutral> That was the asking price, right? A million...
+<Donald Trump> <Neutral> Yes, but the asking price doesn't mean that's what you pay.
+<Larry King> <Neutral> I know.
+<Donald Trump> <Negative> I mean, the asking price could be a lot different from what you end up paying.
+<Larry King> <Negative> Why is it that way?
+<Donald Trump> <Negative> I really wish I could of represented them on the purchase of that house.
+<Larry King> <Negative> What would have done?
+<Donald Trump> <Negative> I will tell you, their representatives did a very bad job, very bad.
+<Larry King> <Negative> Did they get good financing, at least?
+<Donald Trump> <Neutral> Well, the financing looked good; somebody was going to put up the money, but I see that fell through.
+<Larry King> <Neutral> What do you make of the Hillary-Giuliani -- I know you're a big fan of Giuliani.
+<Donald Trump> <Positive> I am, and I like her very much, but I think Rudy -- and as I said before, he's been the greatest mayor in the history of the city of New York. This city is the hottest place the world, and that's why, you know, I'm so honored to be doing so well and to be the biggest developer in the city. But he really helped the city, and he's been a great mayor. And people -- maybe some people don't like him and some people love him totally. I happen to be in love because the guy -- not because I love Rudy, because he's got an incredible job. And I think it would be unfair if somebody did that kind of a great job and, then, for the next office, got rejected.
+<Larry King> <Neutral> So, if there is a -- if you're on the Reform Party ballot, Trump/Winfrey, whatever, whoever it is, you're on the Reform Party ballot in New York, you would publicly endorse Giuliani?
+<Donald Trump> <Positive> He's the best. I mean, he's just done a great job.
+<Larry King> <Negative> How can a Reform Party president lead when nobody in the House or Senate is in his party?
+<Donald Trump> <Positive> Well, maybe I'll have to go around and hire some of the lobbyists that I use already in Washington; they've done a very good job for me. I think I could probably do very well. You know, I'm a very big contributor, by the way. I'm a very big contributor to the various people and over the years. Never did I think my contributions would go toward helping me getting votes as president.
+<Larry King> <Neutral> So you're saying you could bring them together.
+<Donald Trump> <Negative> I think I could bring them together.
+<Larry King> <Neutral> Would you call up the congressmen who you have contributed to?
+<Donald Trump> <Neutral> Excuse me, I've been friends with these guys for years, most of them. I mean, I know so many of them and so many of the senators.
+<Larry King> <Neutral> So you've contributed to their campaign?
+<Donald Trump> <Positive> I've contributed -- I think I'm like the largest or one of the largest contributors. I'm maxed out every year.
+<Larry King> <Positive> So, as president, you could pick up the phone on a health bill and say, Senator so-and-so, remember I gave you...
+<Donald Trump> <Negative> Remember, I've been dealing with these people for years.
+<Larry King> <Negative> No, I mean, is that part of the...
+<Donald Trump> <Positive> And I haven't done so badly with them, I mean, in all fairness, you know, they're wonderful people as far as I'm concerned. I've done very nicely. And I've been dealing with them for years, and I would be able to bring them together, I have no doubt about that.
+<Larry King> <Positive> Patients' Bill of Rights: You mentioned health care as one of the social issues; you for it?
+<Donald Trump> <Negative> I think you have to have it, and, again, I said I'm conservative, generally speaking, I'm conservative, and even very conservative. But I'm quite liberal and getting much more liberal on health care and other things. I really say: What's the purpose of a country if you're not going to have defensive and health care? If you can't take care of your sick in the country, forget it, it's all over. I mean, it's no good. So I'm very liberal when it comes to health care. I believe in universal health care. I believe in whatever it takes to make people well and better.
+<Larry King> <Neutral> So you believe, then, it's an entitlement of birth?
+<Donald Trump> <Negative> I think it is. It's an entitlement to this country, and too bad the world can't be, you know, in this country. But the fact is, it's an entitlement to this country if we're going to have a great country.
+<Larry King> <Neutral> So you would be for this measure?
+<Donald Trump> <Negative> I am for whatever it takes. We have the money. The fact is, that the world is ripping off this country: Germany is ripping us off big league; Saudi Arabia is ripping us off big league; France, I mean, they're the worst team player I've ever seen in my life. You look at what's happened, Japan, for years, I mean, we're like a whipping post for Japan.
+<Larry King> <Negative> But you can't, as president, run -- I mean, you can't be a liberal then?
+<Donald Trump> <Negative> No, no. What you can do is you can negotiate fair trade agreements. So that instead of billions and billions of dollars going out, you can reduce your taxes by having it come back in. You know, I know the best negotiators. I would put the right people in charge of negotiation. We've been ripped as a country by virtually every country we do business with.
+<Larry King> <Negative> You shared Mr. Perot and Mr. Buchanan and Mr. Nader's belief with regard to NAFTA, right? You were an opponent of NAFTA?
+<Donald Trump> <Negative> I am. And the reason NAFTA looks OK now is because the economy is strong, but when the economy is not strong, which, unfortunately, will at some point happen, NAFTA is going to look like a disaster.
+<Larry King> <Negative> Are you as much of an isolationist in that area as Buchanan is? That we need...
+<Donald Trump> <Negative> I'm not an isolationist. What I am, though, is I think that you have to be treated fairly by other countries. If other countries are not going to treat you fairly, Larry, I think that those countries should be -- they should suffer the consequences.
+<Larry King> <Negative> So this isn't fair trade? Free trade isn't fair trade?
+<Donald Trump> <Negative> No, free trade is a wonderful thing, and I believe in free trade, but, at the same time, it's got to be fair trade. You look at some of these -- I mean, look what Japan does with the cars and the subsidies and everything else, and look at Korea, with the ships and the subsidies they get. I mean, it's very unfair to this country. What is happening throughout the world in a business sense is very unfair. We could reduce taxes and take care of health care, and it would be beautiful, and you would have plenty of money left over.
+<Larry King> <Positive> Talk about honesty in the presidency with Donald Trump right after this. (COMMERCIAL BREAK)
+<Larry King> <Positive> We're back with Donald Trump. Honesty, Carter once said I'll never lie to you. Would you say that to the American people?
+<Donald Trump> <Positive> I would never lie. And I just, you know, one of the things that people do get -- if I ever decide to do this, which is really, who knows? But, they have known me for a long time, I've been really a public figure for a long time. I think everything is known about me. It's...
+<Larry King> <Neutral> Yes, I would say.
+<Donald Trump> <Positive> ... interesting. I've been out there a long time.
+<Larry King> <Positive> So you -- but you could definitely say: I would not lie.
+<Donald Trump> <Positive> I would not lie, I would absolutely not lie. And you know, Carter, who is a very nice man who I've gotten to know a little bit. I mean, I think he was much better after the presidency than he was during the presidency.
+<Larry King> <Positive> Great former president.
+<Donald Trump> <Neutral> But, he was a great former president.
+<Larry King> <Neutral> He is.
+<Donald Trump> <Positive> And he really was, he's done a wonderful job after the presidency. I'm not sure I agreed with him at all during the presidency, to be totally honest, but, he was an honest guy, and in that sense, I think we had a man who at least we said: Pretty honest guy.
+<Larry King> <Negative> Do you think being in gaming could hurt you?
+<Donald Trump> <Negative> No, I own casinos. I'm the largest, by far the largest person in Atlantic City, which is actually doing more business now than the entire Las Vegas strip, which surprises people when they here it. We are actually doing more business. And I have a big percentage of that market.
+<Larry King> <Neutral> Atlantic City does better than Vegas?
+<Donald Trump> <Negative> Atlantic City does more business than the entire Las Vegas strip, which very few people understand, very few people know, but it's really...
+<Larry King> <Negative> You mean more dollars go in there?
+<Donald Trump> <Negative> More dollars in there, than goes into the Las Vegas strip.
+<Larry King> <Neutral> But more building goes into Las Vegas?
+<Donald Trump> <Positive> Well, more building, they keep building and building, but Atlantic City does more business.
+<Larry King> <Negative> But do you think the term "gaming," which is gambling, will hurt you?
+<Donald Trump> <Negative> No, I don't think so at all. And certainly, my business, again, in New York I'm very large, to put it mildly, and in Atlantic City I'm very large. And I'd obviously have to do something with a trust where I put my businesses into a trust at least during this term.
+<Larry King> <Neutral> Are you going to be a one term president if you ran?
+<Donald Trump> <Negative> Well, I think you have to solve the problems, and I believe in it. I'm not sure I believe in it that strongly because ultimately the term limits are imposed by the people. If they don't like the job you're doing, they vote you out. But I do like the concept of one term, I want to run one term, and I want to do the right job: straighten out Social Security, get the trade deficits in order, and lower taxes.
+<Larry King> <Negative> A businessman president, pluses and minuses, there have to be some minuses, right? You've got to stop thinking profit and loss, the government is not in the bottom line business.
+<Donald Trump> <Positive> Well, I'm tired of politicians being president, because I see the lousy job they do, and I'm just tired of it. And I think a lot of other people are. And, you know, you can do a great job as a businessman, nothing wrong with it. If Jack Welch, who runs General Electric brilliantly for 22 years, I mean, he should be a president, he should be president, he's great. Now, he wouldn't run, he wouldn't want to run. But, he's a brilliant man who has done an amazing job. He would be a fantastic president.
+<Larry King> <Neutral> Esquire magazine did an article years ago called "100 People Who Could be Great Presidents Who You May Never Have Heard Of"...
+<Donald Trump> <Positive> That's true.
+<Larry King> <Positive> And their point was that people who can lead executives well or great lawyers -- Edward Bennett Williams might have been a great one -- great lawyer...
+<Donald Trump> <Positive> Absolutely, he was a great guy.
+<Larry King> <Negative> ... who show leadership ability. But, we don't know the -- for example, you and Kosovo. Would you have done what Clinton did?
+<Donald Trump> <Negative> Well, I would have done it a little bit differently. And I know this would sound terrible. But look at the havoc that they have wreaked in Kosovo. I mean, we could say we lost very few people. Of course, we had airplanes 75,000 feet up in the air dropping bombs. But, look at what we've done to that land and to those people and the deaths that we've caused. Now, they haven't been caused with us and the allies because we were way up in the air in planes. But, at some point, you had to put troops in so not everybody could go over the borders and everything else, and a lot of people agree with that. Now, would people have been killed? Perhaps, perhaps more. But, at least ultimately, you would have had far fewer deaths. And you wouldn't have had the havoc and the terror that you've got right now. So, you know, I don't know if they consider that a success because I can't consider it a success.
+<Larry King> <Negative> You don't.
+<Donald Trump> <Negative> They bombed the hell out of a country, out of a whole area, everyone is fleeing in every different way, and nobody knows what's happening, and the deaths are going on by the thousands.
+<Larry King> <Positive> How well, business-wise, do you delegate?
+<Donald Trump> <Positive> I think I delegate pretty well. I mean, I have a great team in New York. I mean, I have just an amazing team in New York. My casinos in Atlantic City are number one. The Trump Taj Mahal is number one by far.
+<Larry King> <Neutral> The president has to be able to do that.
+<Donald Trump> <Neutral> Yes, you have to be able to...
+<Larry King> <Negative> In other words, your manager of your hotel can make a decision today, he doesn't have to call you on it.
+<Donald Trump> <Positive> You know, I know the smart people. I really know the smart people. I deal with the smart people. I know the smartest people on Wall Street. And I will say that Alan Greenspan has done an amazing job. He's been a great -- he's been great at what he's done.
+<Larry King> <Neutral> You would reappoint him?
+<Donald Trump> <Positive> I would reappointment him, I think he's a terrific guy. A lot of that is confidence. You and me have confidence in Greenspan. People had confidence in Volcker, in all fairness. I mean, a lot of that position is confidence. When he speaks, you have confidence. He knows what he's doing.
+<Larry King> <Positive> Our guest is Donald Trump, announcing tonight the formation of a presidential exploratory committee. This is Larry King Live. We'll be right back. (COMMERCIAL BREAK)
+<Larry King> <Positive> We're back with Donald Trump. By the way, you mentioned the golf course, can the Clintons play there?
+<Donald Trump> <Positive> I'd love to have them, it would be my honor. There only a few minutes away in their new house, and it will be my honor to have the president. But it is pretty sad when you think the president of United States will be out of office fairly soon, and he can't get into a golf course in Westchester. OK, now, Westchester is tough...
+<Larry King> <Negative> Why?
+<Donald Trump> <Negative> I don't know. I mean, why, because of the scandals is why. I mean, why? Because he's just having a hard time getting in. He can come in...
+<Larry King> <Negative> A former president can't get into a golf club?
+<Donald Trump> <Negative> He can come into my golf club. It's pretty sad. He can come into my golf club.
+<Larry King> <Positive> Now, can you the president and -- honestly, you're president, and not think about the Trump building at the General Motors site, and not think about how did Atlantic City do today because you've got to divorce yourself. Clearly, we know how much you love...
+<Donald Trump> <Positive> I love real estate, I love buildings. I'm building the tallest residential tower the world right opposite the United Nations now. I love it. I love going there. I love being with the workers. I love walking in the concrete. I mean, it's hard to believe. And those are the people who vote for me actually, the people building those buildings, all of those buildings all over the country. The workers are the ones that really like me. I've often said: The rich people hate me and the workers love me. Now, the rich people that know me like me, but the rich people that don't know me, they truly dislike me.
+<Larry King> <Negative> But do you suddenly not have an interest in that?
+<Donald Trump> <Positive> Look, I guess you always have an interest in the sense that you love it. I love it aesthetically. I love building great buildings. I own the General Motors building.
+<Larry King> <Positive> No, but can you suddenly say -- because as president you have to put some of that in trust, right? I mean, I guess, can you call everyday and say: How's the 14th floor?
+<Donald Trump> <Positive> I guess the answer is, I wouldn't be doing it. I'd put in trust, and I'd just say: Lots of luck. And, you know, frankly, it would do very good. I mean, I have the best locations, I have the best buildings, they'll do fine, they'll do fine without me.
+<Larry King> <Neutral> There's a lot of jokes about your ego. Should a president have an ego?
+<Donald Trump> <Positive> I think you have to have -- you know, I don't consider myself to have a big ego. The fact is, I have never, however, met a person who's successful who didn't have an ego or a fairly substantial -- there's nothing wrong with having an ego.
+<Larry King> <Neutral> And you express it a lot.
+<Donald Trump> <Positive> I don't even express it. I mean, I put my name on buildings because it sells better. I don't do it because, gee, I need that. I mean, I get more per square foot in New York than anybody else by far. I get -- if you build a building here, and I build a building there, and not to use you, but I will get substantially more per square foot in that building than the person building the building across the street for almost the same building. Now, it's not almost the same building. I build a better building. I use better finishes. It's just a better product. But I get more than other people. So when I put my name on it, people say: Oh, gee, he put his name on it. The General Motors building is an example. I'm partners with Conseco, a great -- Steve Hilbert -- a great insurance company. They're so happy. I mean, we're getting numbers that nobody will ever believe.
+<Larry King> <Negative> They don't what the Canseco building?
+<Donald Trump> <Neutral> No, because they know the Trump factor. I mean the Trump factor -- because they want to make money.
+<Larry King> <Positive> So we'll have a Trump White House?
+<Donald Trump> <Positive> No, I won't go there, I promise. I pledge on your show, that's the second think I pledge on your show. I will not rename the White House.
+<Larry King> <Positive> We will not have a first lady. Who will be? I'm thinking ahead. Who's in charge of social affairs?
+<Donald Trump> <Positive> Well, we could have one in 24 hours. We actually -- it would be very interesting.
+<Larry King> <Negative> There's a line out there?
+<Donald Trump> <Negative> But we could have one quickly.
+<Larry King> <Neutral> Are you telling us something?
+<Donald Trump> <Negative> No, not all. But I'm saying, if there was a, you know, prerequisite, 24 hours, it's done. You know...
+<Larry King> <Neutral> A single president.
+<Donald Trump> <Negative> ... first of all, you don't know that there wouldn't be a first lady.
+<Larry King> <Positive> Well, as of now.
+<Donald Trump> <Negative> You just don't know. As of this moment, there isn't, but you don't know that. I don't know that it's that necessary. I think that, nowadays, a lot of things have changed, just changed so drastically over the last years. I mean, Gary Hart, in all fairness, somebody was sitting on his lap, and he was run out of office like a dog. And, then, you go through the whole Clinton thing, and it's like, this is major league stuff.
+<Larry King> <Negative> So you don't think it matters?
+<Donald Trump> <Positive> I don't think it matters at all. You know, I have some really fantastic -- I've had over the years some really fantastic relationships and with some really spectacular women and wonderful women and nice women. And, you know, I don't think it matters, but, you know, you never know what happens.
+<Larry King> <Neutral> Perot used his own money in the main. What about dollars in Trump?
+<Donald Trump> <Negative> Well, I'd used my own money. If there were matching funds, if there's government subsidy, you always take it because you don't want to be a total schmuck. I mean, you're dealing with Republicans, you're dealing with Democrats, they've been entrenched for so long, for hundreds of years. They get all sorts of -- they have -- I mean, the big problem the Reform Party is that no matter who runs the office, there are certain Democrats that would just vote Democratic, it doesn't matter if they like the candidate, and you're talking about 20, 25 percent. Same thing with the Republicans Party. I mean, you have to take every advantage you can get because it won't be easy. And, again, I wouldn't run if I didn't think I could win the election. I wouldn't run just to get 21 percent of the vote, and say: I got more votes than anybody.
+<Larry King> <Negative> No.
+<Donald Trump> <Negative> It wouldn't do it for me.
+<Larry King> <Neutral> How about campaign-finance reform?
+<Donald Trump> <Negative> I think nobody knows more about campaign finance than I do, because I'm the biggest contributor.
+<Larry King> <Negative> OK, but what about reform? Does it need reform? You're the Reform Party?
+<Donald Trump> <Positive> Well, it's a very complex -- you know what? It's a very complex thing. As an example, I'm allowed to give $1,000 to every senator, right?
+<Larry King> <Positive> Right.
+<Donald Trump> <Positive> Do you know how little that is, and this was 20 years ago, $1000. Now, I love it, because, you know, I'm capped out at a $1,000 per senator and they all love me for it. You know, I give them $1,000, it's great.
+<Larry King> <Negative> But you can reform where you have soft money, hard money, PAC money.
+<Donald Trump> <Positive> Well, no, you have other ways. But the one thing I feel strongly about -- you know, I have heard Bradley and others talking about the government should pay for the elections, and I totally disagree. If you like a candidate, you should be able to contribute to that candidate. Now, they should let it be known that you're contributing, but you should be able to contribute and help that candidate. Otherwise, you're taking away the whole American system.
+<Larry King> <Positive> But as someone said -- that may be true -- but don't you think, if I give you a million dollars, you owe me something for that.
+<Donald Trump> <Negative> You know what? That's true, but, I'll tell you, it gets a lot tougher when you have to announce, perhaps, on the Internet or in various forms of whatever announcement that so-and-so gave a lot of money to such-and-such a candidate; then, it's a lot tougher. I mean, I had Ed Koch tell me that I can't -- that he can't do something for me because I was a contributor to his campaign. And I never liked him after that, to be honest with you. I said: You mean, I would have been better off being an enemy. He said: Well, I don't know how you... I said: You mean, I contribute to your campaign, and now you can't help me with something because I was a contributor. I'm much better off not contributing. So there is that...
+<Larry King> <Neutral> We're going to ask Donald Trump in a minute about guns and tobacco after this. (COMMERCIAL BREAK)
+<Larry King> <Neutral> Gun control.
+<Donald Trump> <Negative> If you could take the guns away from the bad guys, and there are plenty of them out there, I'm all for it, but you can't. Now, if you had a law that says no guns, the people that are law abiding are going to go by that law, but the bad guys aren't, so they're going to have all the guns and the good guys aren't. It's very simple.
+<Larry King> <Negative> But the countries that has that don't have gun killings.
+<Donald Trump> <Negative> Well, the countries that have it don't have as many bad guys as us, OK? The fact is...
+<Larry King> <Negative> We have more bad guys than other?
+<Donald Trump> <Positive> I'll tell you what, you take a look. I mean, what we have now with guns is not that I'm a big fan at all.
+<Larry King> <Neutral> You agree with the NRA?
+<Donald Trump> <Neutral> I don't agree entirely, but I do agree that you should have the power to have a weapon, because other people do and other people are not necessarily...
+<Larry King> <Neutral> Would you favor...
+<Donald Trump> <Positive> ... the nicest people in the world.
+<Larry King> <Negative> ... long checks and how people get the guns? You don't favor easy access?
+<Donald Trump> <Negative> Yes, yes, no, I favor -- I favor you have to go through a process, but the fact is that the bad ones already have one, and they're not going to go through a process either; they're not going to go through any process. Look, there's nothing I like better than nobody has them, but that's not going to happen, Larry. So, as long as that's not going to happen, I say you have to be allowed to have a gun.
+<Larry King> <Negative> The government's suing tobacco, states suing tobaccos have already-done deals. The gun dealers are doing deals to, gun manufacturers are doing deals with states. Would you come down tough on tobacco?
+<Donald Trump> <Negative> Well, I'd come down, but I'd also come down tough on alcohol. I don't know why everyone's suing tobacco, which is terrible, and I love that they're suing and I love that they're paying a big price, but why aren't they suing the alcohol companies, because alcohol -- I mean, I lost a brother to alcohol. I've never had a drink in my life because of the fact that I had a brother that had a problem with alcohol.
+<Larry King> <Negative> Really? Is that why you don't drink? I know you don't drink. Is that why?
+<Donald Trump> <Neutral> I don't drink for that reason. I mean, I had a fabulous...
+<Larry King> <Negative> Your brother died on a...
+<Donald Trump> <Positive> ... handsome, brilliant, just the nicest guy in the world -- much nicer guy than me, to be totally honest with you. I mean, the guy was great...
+<Larry King> <Neutral> How old was he?
+<Donald Trump> <Negative> ... but he got into the alcohol stuff, and it really destroyed his life...
+<Larry King> <Neutral> How old?
+<Donald Trump> <Positive> ... and he was just a great deal. He was 10 years older than me. And he was just a great guy, and...
+<Larry King> <Negative> So you want to do the...
+<Donald Trump> <Positive> Well, I'd like to see the same thing happen to the alcohol companies, because...
+<Larry King> <Neutral> But they are taxed. They're taxed...
+<Donald Trump> <Negative> No, no, no. They're taxed. I'd like to see them sued. You know what I don't -- I hope a lot of lawyers are watching tonight. Why is it that everybody is suing the tobacco companies and nobody sues the alcohol companies. I mean, you have the car crashes and the kids that get killed by some drunk that's, you know, riding on the road. It's just terrible. So, I would like to see something happen with alcohol.
+<Larry King> <Negative> And how about tobacco, though? Would you be tough on them?
+<Donald Trump> <Negative> I would be very tough. I think tobacco's terrible. I mean, I have friends that are smart and tough, and they can't stop. It's a terrible drug. It's a terrible drug.
+<Larry King> <Negative> It is a drug?
+<Donald Trump> <Positive> Oh, absolutely.
+<Larry King> <Negative> How about allowing the Food and Drug Administration to control it, which the Supreme Court is going to listen to? Would you list it as a drug?
+<Donald Trump> <Negative> It wouldn't -- well, it should be listed as a drug, obviously. I mean, when I have friends that are the toughest, smartest people you'll ever meet and they can't stop smoking, they start shaking if you tell them they can't have a cigarette. And I've had them in the house, I said, do me a favor, don't smoke in my house, and you see these tough guys start to shake like babies. I've never seen anything like it. So, it's a terrible drug, and it ultimately destroys your lungs and destroys your insides, and there's no question about it. I don't -- it's inconceivable why people start smoking, but they do?
+<Larry King> <Positive> How is your health?
+<Donald Trump> <Positive> Well, I think my health is very good, and as far as that, I've never had a cigarette, I've never had a glass of alcohol...
+<Larry King> <Neutral> Do we owe...
+<Donald Trump> <Neutral> I've never had a cup of coffee. I -- coffee's not the greatest thing in the world, but...
+<Larry King> <Neutral> Does -- do all candidates owe us their medical reports?
+<Donald Trump> <Negative> I think so. I think you don't want to get into a situation where you elect someone and then you find he's terminally ill and he'll be in office for about three more months. You know, I think that...
+<Larry King> <Negative> It might have happened with Senator Tsongas.
+<Donald Trump> <Negative> Well, that could have happened with Senator Tsongas, and if you look at what happened, it would have, you know, it would have been very tragic. And he was a good man...
+<Larry King> <Positive> Oh, a great man.
+<Donald Trump> <Positive> But he was a very -- he was a very sick guy, and you know, he kept running, and it was very brave, but -- and he got a lot of votes where people said: Boy, that's great, and isn't he incredible, and I'm going to vote for him. But the fact is, it would have been, you know...
+<Larry King> <Positive> All right. Does George W. Bush owes us to tell us: I never used drugs ever, or, I did it one time, or what is your read on all of this?
+<Donald Trump> <Negative> I don't know. I like him, but I don't like his answer. I hated the answer on seven years: I haven't had drugs in seven years. I mean, give me a break. I think he probably owes it. I think he owes even the alcoholism, because alcohol...
+<Larry King> <Negative> But he's discussed that, hasn't he?
+<Donald Trump> <Negative> Well, alcohol is something that does recur, it can recur under stress and under pressure, and I guess probably the American people are really going to -- perhaps they'll learn or perhaps they won't, but if he suffered from problems with alcohol, perhaps we should know...
+<Larry King> <Negative> We don't know if he was an alcoholic, right? He might have had a...
+<Donald Trump> <Negative> We don't know, but he had a problem, and perhaps we should know that problem.
+<Larry King> <Negative> Because of the fear they could go back to it?
+<Donald Trump> <Negative> Because of the fear that people go back. I mean, I'm -- this is perhaps not politically correct, but who the hell cares? I mean, it -- they know...
+<Larry King> <Positive> Well, the alcoholic, the true alcoholic always says: I'm an alcoholic every day, right?
+<Donald Trump> <Neutral> Absolutely, so I think when somebody's running, if there is a potential problem with alcohol or with drugs, I think the people have to know about it.
+<Larry King> <Neutral> Will you be a travelling -- will you be a president who's out there?
+<Donald Trump> <Negative> I think so. I think I'd be very open. And again, you know, I've been sort of growing up with the public. I've been very out there. As a businessman, probably nobody was -- has been more out there than Donald Trump.
+<Larry King> <Neutral> A lot of press conferences, lot of...
+<Donald Trump> <Positive> Oh, I don't know. It depends. I mean, sure, you would have your press conferences, and I would be open, and I would be out there, and I think the country would really have spirit, I think we would have a great spirit in this country that we haven't had, really, in a long time, and I think...
+<Larry King> <Neutral> That's one of the things you would campaign on?
+<Donald Trump> <Positive> I think I'd keep -- I think I'd keep the economy going strong and maybe even stronger, and I'd be able to cut taxes, and other countries would be paying the price.
+<Larry King> <Positive> All right. I'm going to ask you in a minute what a president can do about a word like "spirit." Our guest is Donald Trump. We'll be right back. (COMMERCIAL BREAK)
+<Larry King> <Positive> OK. Everybody who's ever run for office says things like: This is a great country, we're a tremendous people -- although tonight you said: We may have more people who use guns -- but, no, we're a great people and the spirit of America and we all hear that, and everyone says: What can the president do about a country's, that ethereal word, spirit?
+<Donald Trump> <Negative> How do you define leadership? I mean, leadership is a very strange word because, you know, some people have it, some people don't and nobody knows why. I mean, Winston Churchill was an unbelievable leader. Why? He was born with a speech impediment, he had all sorts of problems, he certainly wasn't a handsome man, and, yet, he was a great leader. Why was he a great leader? Nobody knows, he was a great leader.
+<Larry King> <Negative> Vince Lombardi.
+<Donald Trump> <Positive> I have always been -- Vince Lombardi was a great leader. I mean, he was just a great leader. I mean, there are numerous cases, but...
+<Larry King> <Neutral> So?
+<Donald Trump> <Positive> ... I've always been able to lead. I've always been able to lead, and I've led with spirit. I've just always been able to create spirit. I mean, I built a great wealth by my -- the spirit that I created.
+<Larry King> <Positive> Are there -- you say there are people who would walk through walls for Donald Trump?
+<Donald Trump> <Positive> Yes, I think so. I mean, I think I have people that are with me that would do that, yes, and I wouldn't want to ask them to.
+<Larry King> <Neutral> Now, how do you bring that to Omaha and to Lansing and to L.A. and to Dallas?
+<Donald Trump> <Negative> You just have to lead by example. You just -- things have to happen that are different. It's just been dead out there, there's been something wrong, something missing. And, again, Larry, if the economy goes bad. You know, we're all sort of semi-happy now, but we're only semi-happy because the economy has been pretty good, not great, but it's been pretty good. If that economy tubes, you're going to see the most depressed country that you've ever seen.
+<Larry King> <Neutral> If it is you versus Buchanan for the Reform Party nomination, and Pat is expecting to make some announcement by the end of this month, and you, with an exploratory committee now, with an announcement -- if it is you versus him, what would be the primary issues to the Reform Party voter?
+<Donald Trump> <Positive> Well, for one thing, I'm not in love with Adolf Hitler, OK? That's a pretty big difference right there. I think you could probably run your campaign on that.
+<Larry King> <Negative> You are saying you didn't like Hitler?
+<Donald Trump> <Negative> I didn't like him, and what I'm saying is that this guy is obviously enamored with him, and it's ridiculous. I mean, what he's saying: Hitler would have never attacked us, Hitler would have gone a different direction, Hitler...
+<Larry King> <Neutral> Hitler would be an issue?
+<Donald Trump> <Negative> I think it's the dumbest thing I've ever read. I don't get it.
+<Larry King> <Neutral> It would be an issue? You would bring it up?
+<Donald Trump> <Negative> Well, I think Hitler has to be an issue. Certainly it's got to be an issue for some people. I mean, I can tell you one thing, he's not going to raise a lot of money from Jewish folks in New York City. I mean the guy...
+<Larry King> <Neutral> Would you debate him?
+<Donald Trump> <Neutral> Yes, I would debate him, I would debate him, if it was appropriate.
+<Larry King> <Negative> What would be a major issue? Hitler is going to be an issue.
+<Donald Trump> <Negative> I think it is personality. I think he's a very -- you know, it's almost gotten to a point where I'm not even so sure he's far right, I think he's beyond far right, and, then, on other issues he's just all over the place. I don't think he'll get any votes. Look, Pat Buchanan will get a certain number of votes, just to sort of correct, but that's it. He's not going to win anything. Now, if the Reform Party wants to nominate somebody that's going to get five or six percent of the wacko vote, they can do that, and they'll get five or six percent, but they're not going to win the election. Pat Buchanan is not winning the election. I'll tell you what Buchanan will do, Bush will lose the election if Pat Buchanan becomes the Reform Party candidate. Bradley or Gore, in my opinion, will become the next president because almost all of those votes are going to come from the Republican Party. Now, the people that would vote for Buchanan, probably their second choice would be Bush. So all they're doing is losing a vote for Bush, and he'll probably lose the election. But I think that the Republicans have seen in their own polls, that if Buchanan gets the Reform Party nomination, not that Buchanan does anything great, but he takes all of the votes away from the Republicans.
+<Larry King> <Negative> OK, for Trump to win against Bush and Gore or Bush and Bradley or McCain in this mix, he has to do what?
+<Donald Trump> <Positive> Well, look, again, you're starting off with a base that's really been there for a very short period of time, OK?
+<Larry King> <Negative> You begin down.
+<Donald Trump> <Negative> You're not starting off from, gee, I just got the Democratic or the Republican nomination.
+<Larry King> <Neutral> But Perot once led in the polls.
+<Donald Trump> <Neutral> He was doing very well in the polls. I mean, had he not dropped out...
+<Larry King> <Neutral> He might have won.
+<Donald Trump> <Negative> ... and, then, announced, practically a couple days later on your show -- I was -- it's very interesting because I was watching that show, and I like him, and I'm watching the show, and I'm saying: I don't believe it. I think he wants to get back into the race. This was after he had dropped out two days before.
+<Larry King> <Neutral> Yes, I remember that night.
+<Donald Trump> <Positive> And, you know, I'm pretty good at seeing what people want.
+<Larry King> <Neutral> So who do get?
+<Donald Trump> <Neutral> I -- who do I get in terms of what, Larry?
+<Larry King> <Negative> Voters. I mean, you've got the Republican base and the Democratic base.
+<Donald Trump> <Positive> I think what I get is I get the working base. I get the middle-class base. For some reason, those are the people that really like Donald Trump. And I think I do well, and I think I get a lot of votes. But if I thought I was going to get the Reform nomination, and, then, get 21 or 22 percent of the votes, I'm not interested, Larry.
+<Larry King> <Negative> You said that, even though that would be the largest ever, 19?
+<Donald Trump> <Neutral> I'm just not interested -- it wouldn't matter. And you know what happens? The next day I'm back at my office.
+<Larry King> <Positive> We'll be back with our remaining moments with Donald Trump and going to read a very interesting letter Donald got. Don't go away. (COMMERCIAL BREAK)
+<Larry King> <Negative> We're back what our remaining moments with Donald Trump on this rather historic night, the announcement of a presidential exploratory committee. This letter that you got from JFK, September 19th -- August 19th -- July 19, '99, your father passed away when, in July?
+<Donald Trump> <Positive> Right, JFK Jr., that's exactly correct. He just -- I mean, it must have been one of the last things he did. He was a great guy, he was a friend of mine.
+<Larry King> <Positive> Dear Donald, I read over the weekend of your father's passing and I just wanted to drop you a note. No matter where you are in life, losing a parent changes you. I know you had an active relationship and I hope you'll get ample time to reflect. He sounds like a fascinating man from what I read in the 'Times.' I like that he would go over his...
+<Donald Trump> <Neutral> His "various."
+<Larry King> <Positive> ... various work sites and pick up stray nails and returned them, and clearly, he never lost his perspective. My condolences to you and your family. Sincerely, John Kennedy.
+<Donald Trump> <Positive> This was a tragedy that he died, because he had so much going. He was -- he was a fabulous guy. I mean, he was really, truly a handsome, wonderful, great, bright guy.
+<Larry King> <Neutral> Is that line correct, "No matter where you are in life, losing a parent changes you"?
+<Donald Trump> <Negative> Oh, it's tough, it's tough. My father was special.
+<Larry King> <Negative> Did losing your father change you?
+<Donald Trump> <Positive> Well, he was -- he taught me so much. He was just a special guy. You know, he was a firm guy, but just a special guy.
+<Larry King> <Neutral> He built homes where I grew up, that's where he started.
+<Donald Trump> <Positive> He built homes in Brooklyn. He started in Brooklyn. He was so happy.
+<Larry King> <Neutral> Some homes.
+<Donald Trump> <Negative> He said: Don't go to Manhattan, it's too tough, it's too tough. But, you know, he was just a spectacular guy.
+<Larry King> <Negative> What would he think of this presidential possibility?
+<Donald Trump> <Negative> Well, he was really my biggest fan. I mean, he was -- everybody, there was nobody that was a fan of -- you know, a lot of parents are jealous, if the son goes out and does something...
+<Larry King> <Neutral> Better than the father.
+<Donald Trump> <Negative> ... more. I've seen it, I see it often times, where they have fights because of the sons and the fathers and the sons. My father was my biggest fan, and anything I wanted to do, he just loved it. He was terrific. He never went into Manhattan, he never wanted to go into Manhattan real estate, because, to him, the land was too expensive.. You know, in Brooklyn, you buy it for $1 a foot, and in Manhattan you pay $10,000 a foot. Forget it, it's the same land. But, it was just a different thinking. But, he was really proud when I did these big jobs in Manhattan. They worked out so incredibly well. He was just proud of me. So, he would have been...
+<Larry King> <Neutral> He would have liked this.
+<Donald Trump> <Positive> ... the first one that would have said: Boy, this is great.
+<Larry King> <Negative> Thus far, Perot has stayed out of it. If you were the nominee of the party, if you were running with a nominee, would you expect both Perot, Ventura to support you?
+<Donald Trump> <Positive> Well, I'd like that. I mean, I respect them both. Jesse is a spectacular guy. And, as I said, Ross Perot has really left a great legacy in having created a third party, and a very viable third party.
+<Larry King> <Negative> This committee was going to look into a lot of things, you seem primed, you seem ready, it's got to be this momentous for you. I mean seemingly out of nowhere, despite the jokes, I mean, we're not kidding here.
+<Donald Trump> <Positive> Well, we had a...
+<Larry King> <Neutral> It's the future, you know.
+<Donald Trump> <Positive> The polls have come out so incredibly well. And again, that's why -- that's why it happened.
+<Larry King> <Negative> But we had a bad one today, though.
+<Donald Trump> <Negative> They had a little bit of a bad one in "Newsweek," but they put me on the cover of "Newsweek," it's the craziest deal. But, I mean, the polls generally speaking, the "National Enquirer" did a poll that is unbelievable, that says I win, that you beat everybody. And I'm trying to figure out -- you know, I haven't even started campaigning yet. Now, maybe when I start campaigning, I'll do worse. Perhaps I shouldn't campaign at all, I'll just, you know, I'll ride it right into the White House.
+<Larry King> <Positive> Thanks, Donald.
+<Donald Trump> <Positive> Thank you very much.
+<Larry King> <Neutral> Donald Trump, on this edition of Larry King Live.

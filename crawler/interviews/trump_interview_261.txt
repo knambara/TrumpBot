@@ -1,0 +1,330 @@
+<Howard Stern> <Neutral> Donald Trump's on the phone. Let me see what he's got to say. Hey, Donald.
+<Donald Trump> <Neutral> Howard.
+<Howard Stern> <Neutral> What do you say, bro?
+<Donald Trump> <Neutral> How are you?
+<Howard Stern> <Neutral> Hey, man.
+<Donald Trump> <Negative> Howard, you have to work on tom so I get that fight.
+<Howard Stern> <Positive> I know. Listen, it's working out to be very big in fact not only is it going to be a Pay-per view event but also the some of the undercard events which we're working on are going to be really great.
+<Gary Dell'Abate> <Positive> I heard that. It's -- It's great.
+<Donald Trump> <Positive> You know doing it in the evening I think is great. You can use my helico -- I have the best helicopter there is. It's yours for the week. You do whatever you want to do. But you got to you got to get that fight to the Taj.
+<Howard Stern> <Positive> All right. Well, I'm working on Tom.
+<Donald Trump> <Positive> Tell Tom -- Tom likes golf. I just built the finest golf course that opens in a little while. I'll work out something when he gets five free rounds of golf. We really have to get that.
+<Howard Stern> <Positive> You know where I want to go is this place --
+<Donald Trump> <Positive> Where do you want to go?
+<Howard Stern> <Positive> I want to go where Donald Trump built in Florida, Mar-a-Lago.
+<Donald Trump> <Positive> Yeah. Mar-a-Lago's great.
+<Robin Quivers> <Neutral> He didn't built that.
+<Donald Trump> <Negative> By the way, you can go there any time. But you know, seriously, I want to get that fight.
+<Howard Stern> <Positive> My daughter went their. My daughter went there. Friend brought her, her friend's grandparen'ts, and members.
+<Donald Trump> <Neutral> Right.
+<Howard Stern> <Negative> She said, I think I died and went to heaven.
+<Robin Quivers> <Positive> Yeah. That was somebody's estate. Whose estate was that?
+<Donald Trump> <Neutral> That was the estate of E. F. Hutton and Marjorie Merryweather and they spent $25 million building it in 1925.
+<Robin Quivers> <Neutral> So, it must be incredible.
+<Donald Trump> <Neutral> And it is, Robin. And how are you?
+<Robin Quivers> <Positive> I'm just fine.
+<Howard Stern> <Neutral> You know where I wanna go?
+<Donald Trump> <Neutral> Where?
+<Howard Stern> <Neutral> Donald Trump's bedroom and see Melania.
+<Robin Quivers> <Positive> Yeah. That's what I was going to -- [Inaudible]
+<Donald Trump> <Positive> That's actually the most exciting place.
+<Gary Dell'Abate> <Neutral> She is hot, man.
+<Howard Stern> <Neutral> She's very hot. I saw her over at the -- that Friars Roast.
+<Donald Trump> <Neutral> Right.
+<Howard Stern> <Neutral> I wanted to bang her but
+<Donald Trump> <Neutral> Where she saw your girlfriend.
+<Howard Stern> <Positive> Yes.
+<Donald Trump> <Positive> You know, she deals in beautiful women. And I must tell you, she thought your girlfriend was incredibly beautiful. So, she told me that and I told you that.
+<Robin Quivers> <Neutral> Maybe you two could do a little ah --
+<Howard Stern> <Neutral> Swinging. What about a little swinging action?
+<Donald Trump> <Negative> That would be I tough one.
+<Howard Stern> <Neutral> Me and the Trumpster
+<Donald Trump> <Neutral> So Howard, am I getting the fight?
+<Howard Stern> <Positive> Well, let me ah -- You know, do you wa --
+<Robin Quivers> <Positive> It would be very exciting for it to be a Trump event.
+<Howard Stern> <Positive> It would be a great thing --
+<Donald Trump> <Neutral> If you go down, it's in Atlantic City on a Friday night. Is it a Friday night?
+<Robin Quivers> <Positive> Yes.
+<Howard Stern> <Neutral> A Friday night.
+<Donald Trump> <Positive> It would be unbelievable, Howard.
+<Howard Stern> <Neutral> Tom wants to tell you that he'll call you -- Will he call him today?
+<Gary Dell'Abate> <Neutral> Can't you go sit on-the-air, Tom?
+<Howard Stern> <Neutral> Tell him you'll call today?
+<Tom Stern> <Positive> Yes.
+<Donald Trump> <Positive> You know Tom is a good negotiator, Howard. I tell you, well-represented. In all faireness, he's killing us. He's very very well represented
+<Robin Quivers> <Negative> So far there's no fight.
+<Howard Stern> <Negative> So far we have no venue.
+<Donald Trump> <Neutral> Hey Tom, I'm gonna meet you on the golf course of Saturday morning.
+<Gary Dell'Abate> <Positive> Cain I ask you a question. Is -- is -- is the fight going to be with the listeners where you get free tickets, or they're gonna buy tickets?
+<Howard Stern> <Negative> No, no. It's going to be a, you know, we'll give away some tickets too, because we always do that. But we have to --
+<Robin Quivers> <Neutral> We've got to sell.
+<Howard Stern> <Neutral> We've got to sell some tickets. This is something we've got to do.
+<Donald Trump> <Positive> Well, Atlantic City is the most exciting venue, Howard. And we'll have a lot of fun.
+<Howard Stern> <Positive> And not only do we have to sell tickets because we can still get the undercard and stuff, I wanna paid people not like what Fox did. I wanna pay people more than that. And I also wanna get -- You know, I want to get attracters, some really good undercard. So, you know, we got some good stuff going here. I want to be the Don King of celebrity boxing.
+<Robin Quivers> <Neutral> Can we get some sponsorships?
+<Donald Trump> <Negative> You know, it was interesting that Paula Jones fight, she was not very talented.
+<Howard Stern> <Negative> No, no.
+<Donald Trump> <Negative> That was pretty pathetic. Of course the other one's a tough little cookie.
+<Howard Stern> <Positive> Yeah.
+<Robin Quivers> <Positive> That was so funny because Paula Jones would get hit she'd run.
+<Donald Trump> <Positive> Yeah, she would run and she didn't run like that from Bill.
+<Howard Stern> <Neutral> I need some real brawlers.
+<Robin Quivers> <Positive> Yeah.
+<Howard Stern> <Neutral> All right. Listen, we're going to -- you're going to talk to Tom later.
+<Donald Trump> <Neutral> Right.
+<Howard Stern> <Positive> And hopefully we'll be seeing you on the 17th.
+<Donald Trump> <Positive> Well, I hope so out because -- It will have a lot of fun.
+<Robin Quivers> <Negative> Well, you'll come to the fight anyway.
+<Donald Trump> <Neutral> I'll be there. It's up my place. I'm going to be there.
+<Howard Stern> <Neutral> He's got to be there.
+<Donald Trump> <Positive> If it's not my place, I might even be there. You wanna know the truth.
+<Howard Stern> <Neutral> I'm going to Donald Trump for expert commentary.
+<Donald Trump> <Positive> We're going to have a lot of fun, Howard. So, I hope we get it.
+<Howard Stern> <Neutral> And will you bring Melania?
+<Donald Trump> <Neutral> I'll bring Melania
+<Howard Stern> <Neutral> I'll interview her.
+<Donald Trump> <Neutral> Hundred percent. I will bring Melania.
+<Howard Stern> <Neutral> Add an extra hour to the show. Melania's going to be there because I'll need to interview her extensively.
+<Robin Quivers> <Neutral> For long time, huh?
+<Howard Stern> <Negative> That's right. Hey, what about when Melania fight -- If I could get Marla Maples to go in the ring with Melania.
+<Donald Trump> <Positive> Well, they don't just like each other enough. That's the only problem.
+<Robin Quivers> <Neutral> How about Iva -- Ivana.
+<Howard Stern> <Neutral> How about you and Ivana.
+<Donald Trump> <Neutral> Now, the Ivana with Marla might work out.
+<Robin Quivers> <Positive> Yeah. There you go.
+<Howard Stern> <Positive> Yeah. What do you think about that?
+<Donald Trump> <Positive> I don't know that would be very interesting fight. That one I would probably go to watch.
+<Howard Stern> <Positive> You want to take out A. J. Benza once and for all, I can line that up.
+<Donald Trump> <Positive> A. J. is a nice guy.
+<Howard Stern> <Neutral> All right. So, you guys aren't shooting. [Inaudible]
+<Donald Trump> <Negative> He really is. But you know, John showed me -- Hey, Howard. John showed me something that would A. J. genuine nuts. I mean, John's got a lot of heart.
+<Howard Stern> <Positive> Oh, yeah.
+<Donald Trump> <Positive> I think John's a pretty tough cookie.
+<Howard Stern> <Positive> I've got 10 grand on John
+<Donald Trump> <Positive> I don't know Cabbie. I heard he did great in the last fight. Cabbie. But John's got a lot of heart too. It's going to be a very good fight.
+<Howard Stern> <Positive> It's going to be excellent. It's going to be --
+<Donald Trump> <Negative> You make sure we get it at the Taj, Howard. I'm counting on you. Tom, don't disappoint me, Tom.
+<Artie Lange> <Positive> I tell you what, there's a great Italian joint in the Taj, a restaurant.
+<Donald Trump> <Neutral> There is.
+<Artie Lange> <Neutral> I eat once --
+<Howard Stern> <Positive> Yeah. Cause he's always on a diet.
+<Robin Quivers> <Neutral> Already, he's thinking about the food.
+<Donald Trump> <Positive> Go Marco Polo. It's a great -- We have all good restaurants there but the place is packed and you know on a Friday night forget it. It would be a scene.
+<Howard Stern> <Positive> Yeah.
+<Donald Trump> <Positive> Well, I hope we get it, Tom.
+<Howard Stern> <Positive> Yeah, I'll need the luxury suite with the -- Donald's guy at the Taj, you got some of these rooms for the high rollers?
+<Donald Trump> <Positive> Yes.
+<Robin Quivers> <Neutral> Isn't that the place where Ralph took a bath?
+<Howard Stern> <Negative> I took Ralph over there with a bunch of other guys and we all went down to gamble. No this wasn't at the Taj, we were at Donald's other place.
+<Robin Quivers> <Positive> Okay. So we go over there, and we're in and we get hooked up with a really great room. But, I just go downstairs and I'm gambling, cause I'm only there for a couple hours. Ralph goes, I'm going to stay in the room and luxuriate.
+<Howard Stern> <Positive> Are you a girl or what? What do you mean luxuriate? [Inaudible] I come back, I find out Ralph, not only was in the tub the whole time, but he pleasured himself in the tub. And it sickens me because you know no one else could use the tub, because this is got this big like Jacuzzi in the room. It's beautiful.
+<Gary Dell'Abate> <Positive> How did you know that pleasured --
+<Howard Stern> <Neutral> He told me.
+<Gary Dell'Abate> <Negative> So, warned you at least.
+<Howard Stern> <Positive> He goes, Oh, I got carried -- I felt so good, I touch myself and I-. Can you imagine this? I'm going to give you the room number you got to clean that one.
+<Robin Quivers> <Neutral> [Inaudible] sandblast.
+<Howard Stern> <Positive> I'm gonna sandblast. I want you to remove that tub
+<Gary Dell'Abate> <Neutral> Demolish the place.
+<Howard Stern> <Positive> But that's a beautiful hotel.
+<Donald Trump> <Neutral> Who do you think you're going to have -- Howard, who will you have on the undercard?
+<Howard Stern> <Neutral> You know -- I don't -- I -- I -- I --
+<Robin Quivers> <Positive> Do you want to announce or not?
+<Howard Stern> <Positive> I'm just about to sign some very interesting matches, including what I think is going to be the first topless female boxing match ever in history of boxing.
+<Robin Quivers> <Negative> That's dangerous.
+<Howard Stern> <Negative> Oh, yes. There's nothing pleasant about it.
+<Gary Dell'Abate> <Neutral> What's dangerous?
+<Robin Quivers> <Positive> Hey, you could busted and play. I'm sure.
+<Donald Trump> <Positive> People love this stuff so much. I was so embarrassed because we were going out that night at the night of Fox, and you saw the ratings, they got ratings that went through the roof and I wasn't surprised. But we're going out and I was asking Melania, Would you do me a favor would you please tape the bust [Inaudible] But I really want her it to tape so we taped it I watch it when I got home. But it is great stuff
+<Howard Stern> <Negative> But you know, years ago I -- The first time I did Celebrity Boxing, a bunch of years ago I got Geraldo Rivera to fight Frank Stallone.
+<Gary Dell'Abate> <Positive> It was great fight.
+<Robin Quivers> <Negative> And it was stupid [Inaudible] We didn't have it broadcast.
+<Howard Stern> <Positive> You're not kidding. It was a great fight. Not a good fight. A great fight. Anyone who remembers that.
+<Donald Trump> <Positive> And Frank Stallone, and -- and you know Geraldo took a pretty big deal, he has a lot of guts.
+<Howard Stern> <Positive> It was amazing.
+<Robin Quivers> <Negative> Oh, my God. Broken noses.
+<Donald Trump> <Neutral> He had a lot of guts.
+<Howard Stern> <Negative> It was scary. And I said at that time, I said to people in this company let's televise these celebrity fights I can put together. They was like, no, no, no, no, no.
+<Robin Quivers> <Positive> One time thing nobody want to do it. Right, right.
+<Howard Stern> <Negative> And then I did the John -- The Angry Black-Cabbie fight, that was huge. And now it's like, when I saw Fox do it I said, you know, damn. That's what I've been wanting to do for years. They did it, but they kind of --
+<Robin Quivers> <Negative> They messed it up.
+<Howard Stern> <Negative> I'll tell you how they messed it up. They taped it ahead of time and then they didn't do it live and they changed the ending, so it wasn't a real fight.
+<Donald Trump> <Neutral> Oh, I didn't know that.
+<Howard Stern> <Positive> Yeah.
+<Donald Trump> <Negative> I'm suggesting what we do is live real fights, real people fighting. Get in there and really get some good match ups going. But you're doing it in the evening, Howard.
+<Howard Stern> <Positive> Yes.
+<Donald Trump> <Positive> I think that's much better.
+<Howard Stern> <Positive> Yep.
+<Donald Trump> <Positive> I like that much.
+<Howard Stern> <Positive> And this way my whole audience can see it and these Pay-per-view guys are hard to deal with, I mean, it's impossible thing coordinate quickly. We're all trying to make sure that it's done properly. But -- I'll give you more details as it goes along.
+<Donald Trump> <Positive> At the Taj we have a boxing arena that seats 5,000 people are designed specifically for boxing. This thing will be unbelievable.
+<Artie Lange> <Positive> I will tell you what, I went to that Marco Polo and had to play it at fettuccini operator once.
+<Howard Stern> <Neutral> What's with you in the Marco Polo, I'm talking boxing.
+<Donald Trump> <Positive> Oh, no. That -- but the restaurant and his joint is great.
+<Howard Stern> <Neutral> Really?
+<Artie Lange> <Positive> I like it very much
+<Howard Stern> <Neutral> Do they deliver to the room?
+<Donald Trump> <Positive> They do whatever you want.
+<Gary Dell'Abate> <Neutral> I can't get this whole point with Artie. It's about all meal
+<Donald Trump> <Positive> Yeah. We got to back to the Marco Polo
+<Artie Lange> <Positive> Tha Taj, I got to say, is my favorite hotel in the whole world to gamble at. It really is and the food there is amazing.
+<Donald Trump> <Positive> Well, you know what, we just finished the numbers just came out, we just finished number one in Atlantic City by quite a bit actually. If we could just number one in Atlantic City we beat out everybody. And it's just a hot place. But I just want to get this fight.[Inaudible] a little bit.
+<Howard Stern> <Positive> I'd love to see Ivana. I'd love to see -- I'd love to see -- I'd love to see an Ivana-Marla Maples. I bet you, Ivana would win.
+<Robin Quivers> <Positive> Oh, yeah. I think she could take --
+<Donald Trump> <Positive> Ivana will do very well.
+<Robin Quivers> <Neutral> But wait a minute,wait a minute. Donald, you actually saw them square off.
+<Howard Stern> <Positive> Yeah. You did, right?
+<Donald Trump> <Positive> Well, It wasn't a real square off.
+<Howard Stern> <Positive> But you were worth it.
+<Donald Trump> <Negative> I was standing on the mountain in Aspen like an idiot right --
+<Robin Quivers> <Neutral> Right in the middle of the snow.
+<Donald Trump> <Negative> That was not a great feeling. I was standing there, Robin, like a total idiot. [Inaudible]
+<Howard Stern> <Neutral> Did you have a camera at least? Did you have a camera we could've -- we could've televised it.
+<Robin Quivers> <Negative> No, The Inquirer had the camera.
+<Donald Trump> <Negative> But, you know Howard, you know, one story that I've never told. I was standing in the middle of these two. I was screaming and there's 500 people up at Little Nell's. And there's this big fat bald headed guy, nice guy, standing there, he must've weigh 400 lbs. And he said you know it could be worse, Mr. Trump I haven't had a girl in over 20 years. You know it make me feel a little bit better. But there was a very rough day.
+<Howard Stern> <Positive> Who do you think was more aggressive and a better fighter? In that one.
+<Donald Trump> <Positive> I think they're both pretty tough.
+<Howard Stern> <Neutral> Really?
+<Robin Quivers> <Positive> Well, wait a minute. Let's be honest, Ivana was taken by surprise.
+<Howard Stern> <Neutral> Right.
+<Donald Trump> <Neutral> Right.
+<Robin Quivers> <Negative> So, you know, if she knew an attack was coming, maybe she'd be more prepared.
+<Donald Trump> <Positive> Well, Marla was taken by surprise also that must be it
+<Howard Stern> <Positive> There was a surprise on them on both sides.
+<Donald Trump> <Positive> You know what, they're both very nice. I wouldn't certainly would want to see them fight.
+<Howard Stern> <Neutral> What happened? You guys were in Aspen?
+<Donald Trump> <Neutral> Right.
+<Howard Stern> <Positive> Beautiful setting you were there with Marla
+<Robin Quivers> <Neutral> He was there with this family.
+<Donald Trump> <Neutral> I was there with sort of a lot of people.
+<Robin Quivers> <Negative> No, he was with his family.
+<Donald Trump> <Negative> People of no idea how many people.
+<Robin Quivers> <Neutral> And he had Marla.
+<Howard Stern> <Neutral> The kids too?
+<Donald Trump> <Neutral> Do we have to repeat this story, Robin? What do you think
+<Robin Quivers> <Neutral> I know the whole story.
+<Howard Stern> <Neutral> Go ahead, let me hear.
+<Robin Quivers> <Neutral> He was there with the family because it's Christmas time. It's a family vacation.
+<Howard Stern> <Neutral> Right.
+<Robin Quivers> <Neutral> And she stashes Marla --
+<Howard Stern> <Neutral> Oh, Ivana was there too.
+<Robin Quivers> <Positive> Oh, yeah.
+<Howard Stern> <Neutral> And she stash Marla.
+<Robin Quivers> <Neutral> And she stash Marla away because [Inaudible]
+<Howard Stern> <Positive> I love you. That takes balls.
+<Robin Quivers> <Positive> He was skiing with the family on the top of the mountain.
+<Howard Stern> <Neutral> Right.
+<Donald Trump> <Positive> And Marla's like, what am I doing sitting in this room.
+<Robin Quivers> <Positive> And she comes out to the ski slope as well.
+<Howard Stern> <Negative> Oh, what an idiot.
+<Robin Quivers> <Negative> And confront Ivana.
+<Howard Stern> <Neutral> How dare she.
+<Gary Dell'Abate> <Neutral> What a dingy broad.
+<Donald Trump> <Neutral> You don't know when you got rid of her?
+<Howard Stern> <Positive> Good move.
+<Donald Trump> <Negative> Well that was actually a little fight.
+<Howard Stern> <Neutral> Isn't that the ultimate dope to take the family on vacation with the wife and then have your girlfriend stance. You know only rock stars do that.
+<Robin Quivers> <Neutral> But Donald doesn't tell.
+<Donald Trump> <Positive> They're nice beautiful women.
+<Howard Stern> <Negative> When you're with Melania where will you hide the new one?
+<Donald Trump> <Positive> That was the rather, I will say this out, that was a rather tough afternoon. Not an easy afternoon folks.
+<Howard Stern> <Neutral> Let me ask you something.
+<Donald Trump> <Positive> You don't recommend it.
+<Howard Stern> <Negative> Would you fight Leona Helmsley?
+<Donald Trump> <Negative> Well I fight her plenty. I just sold the land under the Empire State building.
+<Robin Quivers> <Neutral> I know.
+<Donald Trump> <Negative> Yeah. And actually I sold it to her enemy. You know these gentlemen that I sold it to --
+<Howard Stern> <Positive> You love that.
+<Donald Trump> <Positive> Which I sort of like. Yeah, that was cool.
+<Howard Stern> <Positive> Oh, that's great.
+<Donald Trump> <Positive> That was sort of cool. But it worked out, really. It was a great deal. But my great deal is going to be getting you down to Atlantic City, Howard. Okay?
+<Howard Stern> <Positive> Yeah. I'm hoping that that all works out and I'm going to push Tom to call you today.
+<Donald Trump> <Positive> Push Tom -- And honestly Tom has done an amazing job. He is breaking our ass.
+<Howard Stern> <Neutral> Dominic wants a bet you. Let me see with this.
+<Donald Trump> <Neutral> Go ahead.
+<Howard Stern> <Neutral> What is it Dominic?
+<Dominic Barbara> <Negative> Donald, let's set up a fight.
+<Donald Trump> <Neutral> Who do you want?
+<Dominic Barbara> <Negative> Well, If I hold the fight, I shouldn't be betting.
+<Howard Stern> <Neutral> Why?
+<Donald Trump> <Negative> I don't know. You know, they talk about ethical rules. You're not supposed to bet if you're in a fight. I'll tell you what though. You know it's to me I only know John so it's no insult the Cabbie, because I have heard the Cabbie is terrific.
+<Howard Stern> <Neutral> Right.
+<Donald Trump> <Neutral> But I think John's got a lot of heart, Howard.
+<Howard Stern> <Neutral> And you think you're going to go with John?
+<Donald Trump> <Positive> Well, I mean he weighs 100 lbs less.
+<Howard Stern> <Neutral> Right. John's got the heart.
+<Donald Trump> <Neutral> Now Cabbie did say one thing. He said that I was -- What's the name of the thing he's on?
+<Howard Stern> <Neutral> Trimspa.
+<Donald Trump> <Positive> He said, Donald Trump is on it like a month ago. I never even heard of it. And I was listening. But I can probably use it so maybe if it works I'll do anything.
+<Howard Stern> <Positive> I want you to -- I don't want you to answer me now, but I want you to think about something.
+<Donald Trump> <Neutral> Go ahead.
+<Howard Stern> <Negative> You versus Mike Bloomberg. Battle of the billionaires.
+<Donald Trump> <Positive> You know, he's like a great friend of mine. I was with him the other night for dinner. By the way. I think he's doing a great job as mayor.
+<Howard Stern> <Neutral> I do too.
+<Robin Quivers> <Positive> So far so good.
+<Howard Stern> <Positive> So far, great.
+<Donald Trump> <Negative> You can only fight somebody you hate.
+<Artie Lange> <Negative> Who do you hate.
+<Howard Stern> <Neutral> Leona Helmsley.
+<Donald Trump> <Negative> Yeah. It's close to that. She's 82 years old and a woman. That's a fight I wouldn't be afraid of, at least.
+<Artie Lange> <Negative> Hey, Dom. Do you want to fight Ed Koch.
+<Donald Trump> <Neutral> He's on it.
+<Howard Stern> <Positive> That wouldn't be good.
+<Donald Trump> <Neutral> You know what, he's doing his thing.
+<Howard Stern> <Positive> That wouldn't be good.
+<Donald Trump> <Neutral> We have to figure that out.
+<Artie Lange> <Neutral> How about, Tom? [Inaudible]
+<Donald Trump> <Positive> I'm like Tom, I'd rather fight on the golf course. Much easier.
+<Howard Stern> <Neutral> Celebrity golf. That's our next pay-per-view event.
+<Donald Trump> <Positive> That's not a bad thing. No, no. But there's nothing like the fight.
+<Howard Stern> <Positive> Right. It's gonna be great. It's going to be great. And I hope we do it with you.
+<Donald Trump> <Positive> Well, we we are going to really put a little play in. But you have to give Tom every single ounce of your energy. Hey, Tom. Are you there?
+<Robin Quivers> <Neutral> He's not in the room.
+<Howard Stern> <Positive> Believe me. If he was here, well, I'm out.
+<Donald Trump> <Neutral> Let me ask you, Howard. Who calls that chat? You or Tom?
+<Howard Stern> <Neutral> That's Tom's
+<Donald Trump> <Neutral> Really?
+<Howard Stern> <Neutral> Because that's tied in with the radio station. I guess what they're trying to do is cover expenses on production. There's a whole thing going.
+<Donald Trump> <Positive> You know, when MTV -- when any of these places do it their number one venue that they like the best is in Atlantic City. The reason is because of the time.
+<Howard Stern> <Positive> And I want to go Atlantic City.
+<Donald Trump> <Positive> You know, you don't have the three hour time delay like Vegas et cetera, et cetera. So whenever they can. They like to do it in Atlantic City. And will be seen on a Friday night.
+<Howard Stern> <Positive> They got some offers from some places in Vegas but I would love to hold it in Atlantic City.
+<Donald Trump> <Neutral> It's far away. You know, you can be down there 28 minutes on the helicopter.
+<Howard Stern> <Positive> I love that. I love the use of the helicopter.
+<Donald Trump> <Neutral> You have it. A hundred and -- It's an incredible -- You have it.
+<Howard Stern> <Neutral> Robin we need to chopper in.
+<Robin Quivers> <Neutral> There you go.
+<Artie Lange> <Neutral> Can you get me fettuccine on a helicopter.
+<Donald Trump> <Positive> Yes. Whatever you guys want.
+<Howard Stern> <Neutral> Really?
+<Donald Trump> <Positive> Well, let me tell you, it is funny though, my guys called me up, and they called me like a month ago, and I listen to the show but they call me. They said, you've got to do something, you're friend of Howard, you've got to get us that fight.
+<Howard Stern> <Neutral> Right.
+<Donald Trump> <Positive> And we turned down big fights all the time. You know we have a lot of fights but a lot of times I mean, there's no interested great fighters
+<Howard Stern> <Neutral> Right.
+<Donald Trump> <Positive> But it's two guys that are great fighters but you never heard of him.
+<Howard Stern> <Neutral> Right.
+<Donald Trump> <Negative> And we turned them down, we say nobody is going to want to come. This fight, I don't know,
+<Howard Stern> <Neutral> This is gonna be big.
+<Donald Trump> <Positive> Let's -- let's assume these two guys are great fighters, but they're good fighters.
+<Howard Stern> <Positive> It's going to be a three ring circus. Trust me. I think it's going to be an amazing event.
+<Donald Trump> <Positive> It is going to be amazing trust me I've got a lot planned for this. All right. Listen, Donald I'll I'll get Tom on the stick with us. Don't disappoint me, Howard.
+<Howard Stern> <Neutral> Hey, hey, hey. I would never do that. We just need that chopper. All right.
+<Donald Trump> <Positive> Have good time, Howard.
+<Howard Stern> <Positive> All right. Take care.
+<Robin Quivers> <Neutral> Bye, Donald.
+<Howard Stern> <Positive> That's great man when he had Marla Maples stashed
+<Robin Quivers> <Positive> That was one of my favorite stories.
+<Howard Stern> <Positive> That was cool.
+<Robin Quivers> <Positive> And she comes out of her room. Yes you don't want to sit there while he's skiing with the family.
+<Howard Stern> <Negative> So when they fought did they fisticuffs?
+<Robin Quivers> <Positive> Well, he was between them. That's what I'm saying. He would know who is giving him more of an impression that they could take her.
+<Howard Stern> <Neutral> Maybe he should've raft that if he was able to hold those two back.
+<Robin Quivers> <Negative> You know because they were like, you know, face-to-face screaming at each other. The good looking guy wrong, Donald, for a billionaire?
+<Howard Stern> <Positive> He's the best looking billionaire I've ever saw.
+<Artie Lange> <Neutral> That billion dollars.
+<Robin Quivers> <Positive> He's a good looking guy.
+<Howard Stern> <Neutral> I'm gonna spread him for Donald.
+<Robin Quivers> <Negative> Oh, no. Stop.
+<Artie Lange> <Neutral> I think, I'd spread him.
+<Howard Stern> <Neutral> She's all about the bling bling.
+<Artie Lange> <Neutral> She's all about the -- all about the bling bling.
+<Robin Quivers> <Positive> Speaking of the bling bling. What about that date on the Bachelor where he takes the girls shopping and gives her diamond.

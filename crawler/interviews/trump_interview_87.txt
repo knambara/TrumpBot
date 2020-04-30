@@ -1,0 +1,26 @@
+<Sacha Baron Cohen> <Positive> I's got some business idea that I would just want to tell you about, and I'll be a fool if --
+<Donald Trump> <Positive> Very quickly.
+<Sacha Baron Cohen> <Positive> What is the most popular thing in the world?
+<Donald Trump> <Neutral> Music.
+<Sacha Baron Cohen> <Negative> No.
+<Donald Trump> <Neutral> Tell me.
+<Sacha Baron Cohen> <Neutral> Ice cream.
+<Donald Trump> <Positive> Okay.
+<Sacha Baron Cohen> <Negative> Everyone has it. And what is the problem with ice cream?
+<Donald Trump> <Negative> I have no idea.
+<Sacha Baron Cohen> <Neutral> It drips.
+<Donald Trump> <Positive> Okay.
+<Sacha Baron Cohen> <Neutral> So me idea is what?
+<Donald Trump> <Neutral> To make a drip-proof ice cream.
+<Sacha Baron Cohen> <Negative> No. No, that's a fucking brilliant idea this -- okay, whatever, you ain't going to come out with that, though?
+<Donald Trump> <Negative> No, no I promise you I won't.
+<Sacha Baron Cohen> <Positive> Well, me idea is to come out with just like these ice cream gloves that make the ice cream not go in your hands, and make it all well sticky, and also keep your hands warm --
+<Donald Trump> <Positive> Okay.
+<Sacha Baron Cohen> <Neutral> When -- when you is eating the ice cream.
+<Donald Trump> <Positive> Okay.
+<Sacha Baron Cohen> <Neutral> Is you in or is you in?
+<Donald Trump> <Positive> Okay. Well it sounds like a good idea, and I hope you make a lot of money. Good luck folks. It's been nice seeing you. You take care of yourself, okay?
+<Sacha Baron Cohen> <Neutral> Is you going to be in on that?
+<Donald Trump> <Positive> Well, it sounds like an interesting idea.
+<Sacha Baron Cohen> <Positive> We just got that P. Diddy is gonna be in it.
+<Donald Trump> <Positive> Good.

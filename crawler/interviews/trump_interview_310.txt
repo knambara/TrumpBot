@@ -1,0 +1,142 @@
+<Howard Stern> <Positive> Tell you we're here and live and I'm in a coma. This has been exciting.
+<Robin Quivers> <Positive> Yes. We have to quickly get here our next guest. He is a very busy man, he decided to --
+<Howard Stern> <Neutral> Really.
+<Robin Quivers> <Positive> To stop by today just wish you a happy birthday. We haven't seen him in a while certainly not since he says he won $20 million in the Tyson Holyfield fight.
+<Howard Stern> <Neutral> Oh, there he is.
+<Robin Quivers> <Neutral> Here is Donald Trump .
+<Howard Stern> <Positive> Donald Trump. Always stopping by. Look at him. Yeah, I need to get to the bottom of that $20 million.
+<Robin Quivers> <Positive> Yeah. Let's see if we can get him to give us some of the money.
+<Howard Stern> <Neutral> There he is.
+<Robin Quivers> <Neutral> It was money he wasn't expecting anyway.
+<Howard Stern> <Negative> Hey, Donald. Get your hands off my mother's ass. What's the matter with you? You're a married man. Up is my sister, really into him.
+<Robin Quivers> <Positive> Oh, yeah. She loves him.
+<Howard Stern> <Negative> My sister thinks... Oh, oh. Donald, waking up my wife. Have sex with my wife, Donald. It's ok, man. I dig you. You can have her, go ahead. What, you lose a bunch of weight or something?
+<Robin Quivers> <Positive> Hi there. Yeah, you look great. How are you?
+<Howard Stern> <Positive> You look good. This is the richest man in America, Donald Trump . All right. Where were you, the sun? What happened? Yeah, sit down, sit down.
+<Robin Quivers> <Positive> Yeah, he's got too much [Inaudible] he doesn't work anymore.
+<Howard Stern> <Neutral> You're not working anymore?
+<Donald Trump> <Positive> Hello, Howard. Yes. Good.
+<Howard Stern> <Positive> How are you doing? Thank you, first of all, and brightening our day as you know you do.
+<Donald Trump> <Positive> Well, thank you very much.
+<Howard Stern> <Positive> You look like you've been in the sun. What are you on a vacation?
+<Donald Trump> <Positive> Well, I was actually playing tennis yesterday in Long Beach.
+<Howard Stern> <Positive> With who? It has got to be somebody famous. You can't just play tennis with anybody.
+<Donald Trump> <Positive> Somebody very attractive and reasonably famous.
+<Howard Stern> <Neutral> Who is that?
+<Donald Trump> <Neutral> I can't tell you.
+<Howard Stern> <Neutral> Your wife?
+<Donald Trump> <Positive> Yes.
+<Howard Stern> <Neutral> It was, right?
+<Donald Trump> <Neutral> That's right.
+<Howard Stern> <Positive> Yeah, right.
+<Donald Trump> <Positive> Look at your wife, she looks so great.
+<Howard Stern> <Positive> Go ahead, have sex with her. I don't care. You're Donald Trump, you can have her.
+<Robin Quivers> <Neutral> You've been offering it to everyone. What was it?
+<Donald Trump> <Neutral> And I heard that on the way up, you were offering it to many people.
+<Howard Stern> <Negative> No, you almost have everything in life.
+<Donald Trump> <Positive> You can't be serious. I mean, you know we don't play games.
+<Howard Stern> <Positive> You made love to beautiful women, of course, and your wife is very beautiful, but one thing you never have is my wife and I don't have a problem with that.
+<Donald Trump> <Positive> You don't do better than this.
+<Howard Stern> <Positive> That's right. You do not. Look at that, always a charmer.
+<Donald Trump> <Positive> I don't know how she takes it, but that's okay.
+<Howard Stern> <Positive> That's all right. As a matter of fact, I made love to my wife last night, Donald. How do you know?
+<Donald Trump> <Neutral> Yup.
+<Howard Stern> <Positive> My wife came in with a brand new outfit that she bought for me, and I tell everyone how good -- Tell Donald Trump how good it was.
+<Robin Quivers> <Neutral> We got his birthday present.
+<Howard Stern> <Positive> Yeah. A birthday present for her. My wife bought me a bunch of pajamas, none of them fit, and then I had to return everything, that was the end of the birthday celebration. I came home and went to sleep. So, anyway, what happened with the $20 million? Did you really win the $20 million? Or --
+<Donald Trump> <Positive> Well, you know, a reporter came up and said, Did you win $20 million?
+<Howard Stern> <Neutral> Right.
+<Donald Trump> <Negative> And I said, I absolutely have no comment.
+<Howard Stern> <Neutral> Really?
+<Donald Trump> <Negative> And they said, three or four times, Did you win? I said, I absolutely have no comment.
+<Howard Stern> <Neutral> Right.
+<Donald Trump> <Neutral> The next day I was quoted in every paper.
+<Howard Stern> <Neutral> Right. As saying?
+<Donald Trump> <Neutral> As saying that I did.
+<Howard Stern> <Neutral> Right,
+<Donald Trump> <Neutral> But in actuality, I'm in a very, very small bet.
+<Howard Stern> <Neutral> Right.
+<Donald Trump> <Negative> It was much less than that amount. And now Mike Tyson's angry.
+<Howard Stern> <Neutral> Right. Why?
+<Robin Quivers> <Neutral> Really?
+<Howard Stern> <Neutral> Why is he angry?
+<Robin Quivers> <Neutral> Because he bet against him.
+<Howard Stern> <Positive> Oh yeah, that's right. But you did bet against him.
+<Donald Trump> <Negative> Evander Holyfield is a little bit upset because I said I only made the bet because of the 20-1 odd.
+<Howard Stern> <Positive> Right, you like the odd.
+<Donald Trump> <Negative> So, they're calling, and they're all angry. I lost a lot of friends.
+<Howard Stern> <Neutral> But you have to bet because you're on casinos and stuff.
+<Donald Trump> <Neutral> Life is a bet.
+<Howard Stern> <Neutral> That's right. That's the way it is.
+<Donald Trump> <Neutral> Life is one big fat bet.
+<Howard Stern> <Positive> Let me ask you a question though when you bet and you win, do you still have to give some of that to Ivana, or you're done with that completely? Are you out of that hole now?
+<Donald Trump> <Positive> Well, she has developed a little cottage industry with, you know, Donald, Donald, Donald, works.
+<Howard Stern> <Neutral> That's right.
+<Donald Trump> <Positive> You know, you hand a girl -- a woman -- a lot of money
+<Howard Stern> <Positive> Oh, she's a girl, because she doesn't think like a woman.
+<Donald Trump> <Negative> Yeah, you've always said that. You never liked her.
+<Howard Stern> <Negative> I never liked her. I never liked her. And I stuck with you through the whole divorce. When a lot of people coming down on you, a lot of women's lived times for saying you should stick with your wife. Isn't that? I thought Ivana was a big pain in the ass, you got rid of her and you're doing just fine. I'll be honest, I ran from accents.
+<Donald Trump> <Positive> I will tell you he's been very consistent. It's a huge audience.
+<Robin Quivers> <Positive> It's been good, Donald. There's only been two people who stuck with him through the whole thing, and that was Marla and you.
+<Howard Stern> <Neutral> That's right.[Inaudible]
+<Donald Trump> <Neutral> Howard came to my wedding.
+<Howard Stern> <Positive> Yeah.
+<Donald Trump> <Neutral> And I ran back and turned on the television, cause we had lots of coverage. It was how they covered my wedding.
+<Howard Stern> <Neutral> That's right.
+<Donald Trump> <Neutral> Now Marla hasn't been there before, I've been there before. So, you know, I went to see how it was covered. And they had him -- He said there was a wet eye in the house.
+<Howard Stern> <Neutral> Right, right.
+<Donald Trump> <Neutral> It was 1-12.
+<Howard Stern> <Positive> Yeah.
+<Donald Trump> <Negative> Which was a total disaster. And the other thing he said, this is the night of the wedding, you know you're sitting, it's romantic, it's beautiful. He said, I give the wedding four months. Which was on every television station in the country. [Inaudible] I made him look bad.
+<Howard Stern> <Negative> That's the only reason you're still married, to prove him wrong. You would've been divorced a long time ago. It's just to prove him wrong. But of course, I'm not the only famous guest, O.J. was there. And of course, you provided the picture for the back of my book.
+<Donald Trump> <Positive> I should get a piece of that book. It's a very successful book.
+<Howard Stern> <Positive> Yes, it was. But I am not giving you anything.
+<Donald Trump> <Positive> And of course, you think O.J. is very innocent, I know that.
+<Howard Stern> <Positive> Yeah.
+<Robin Quivers> <Neutral> Why else is he on the back of the book?
+<Howard Stern> <Positive> Well, by the way, let me make a statement here, and this is a testament of, O.J. didn't kill anyone that night. That night of the wedding, you kept the -- O.J. in -- you kept him in line. That's right, you're really good, I was afraid. You were really good friends with all O.J. I mean, I mean, I was shocked by it.
+<Robin Quivers> <Positive> I mean, how good of a friend would you say he was?
+<Donald Trump> <Positive> Well, I used to play a lot of golf with O.J.
+<Howard Stern> <Positive> Howard/Robin Yeah.
+<Donald Trump> <Positive> And I was always a little bit surprised when I'd see that O.J. he was very arthritic and he wasn't able to possess a tee, I just played golf with him. I mean, you know.
+<Robin Quivers> <Negative> You never saw him he have a problem, huh?
+<Donald Trump> <Neutral> Seem to be anything [Inaudible]
+<Howard Stern> <Neutral> I think he take a lot of Advil, that was the thing.
+<Robin Quivers> <Neutral> How come they didn't call Donald?
+<Donald Trump> <Neutral> I will be next.
+<Howard Stern> <Positive> At the back I was standing next to O.J. when you were cutting the cake and O.J. says, Well, what kind of knife that is? is using. He was really curious, you know what I mean? It's pretty wild.
+<Donald Trump> <Neutral> But Dominique called me up. Where's Dominique?
+<Howard Stern> <Neutral> Dominique barber the bloat [Inaudible] over there.
+<Donald Trump> <Negative> He called me. He said, You've got to be, you've got to be here. And I missed last year, and I thought very well, I felt guilty about it, so I'm gonna be here.
+<Robin Quivers> <Positive> Is that right? Well, I'm glad to hear this.
+<Howard Stern> <Neutral> You should be here. It's tradition to be here on the birthdays.
+<Robin Quivers> <Negative> And you wouldn't feel too bad.
+<Howard Stern> <Neutral> That's right.
+<Robin Quivers> <Negative> About the fact that Ivana is suing the people who made her yacht or whatever.
+<Howard Stern> <Positive> Oh, I love that.
+<Donald Trump> <Positive> What people don't know, Ivana calls me constantly. I need a yacht, I want a boat, I want this. This is not a yacht, first of all, it's a cabin cruiser.
+<Howard Stern> <Neutral> Right. This is not a real yacht.
+<Donald Trump> <Neutral> I asked her not to buy it, don't buy it, but once you buy it you have it.
+<Howard Stern> <Neutral> Right.
+<Donald Trump> <Negative> Now you don't knock the hell out of it, so it's now it's got zero value. She's not gonna win the lawsuit, it's got zero value.
+<Robin Quivers> <Negative> You're saying she's not a good businessman?
+<Donald Trump> <Negative> So she lost $6 million of my money and I'm not happy about it.
+<Howard Stern> <Negative> She bought a yacht with your own money and lost the money.
+<Donald Trump> <Positive> She certainly did.
+<Howard Stern> <Positive> Yes she did.
+<Donald Trump> <Negative> Real problem
+<Howard Stern> <Neutral> You know I'm sitting on a plane I see this first wive's club and they got Ivana, and I'm --
+<Donald Trump> <Neutral> This is another thing.
+<Howard Stern> <Positive> She should go home and take care of the kids, take care of Donald's kids.
+<Donald Trump> <Positive> It does get out of control, but that's okay.
+<Howard Stern> <Positive> Right, but how do you feel about your daughter's modeling career? You okay with that?
+<Donald Trump> <Positive> She's doing great, and she's really -- you know, she likes it, Ivanka.
+<Howard Stern> <Neutral> Right.
+<Donald Trump> <Positive> And she's doing tremendously well.
+<Howard Stern> <Positive> And you're doing well, you were here, you remarried, your marriage is successful. Yes, it's true, the whole thing with Ivana was very public and all that, but as Donald taught me one very important lesson --
+<Robin Quivers> <Neutral> What did he teach you?
+<Howard Stern> <Positive> He took me a side of his wedding and he said to me, You know now I'm getting remarried, he said to me, Howard, vagina is expensive. That is what he said to me, and I'll never forget those words, and the guy was right.
+<Robin Quivers> <Neutral> Those were exact words.
+<Howard Stern> <Positive> Those were the exact words, ladies and gentlemen. And don't I know it, doesn't my wife keep reminding me of that. The great Donald Trump, everybody. Thanks for coming by in the birthday. . And do we take a break here?
+<Robin Quivers> <Positive> Yeah, we better.
+<Howard Stern> <Neutral> All right, we'll take a break.
