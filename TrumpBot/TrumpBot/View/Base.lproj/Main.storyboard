@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13122.16" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16096" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="5sZ-Io-N11">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13104.12"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16086"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -9,16 +10,149 @@
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="TrumpBot" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="808"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" xcode11CocoaTouchSystemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="TrumpBot" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HxM-bH-xHs">
+                                <rect key="frame" x="82.5" y="123" width="249" height="60"/>
+                                <fontDescription key="fontDescription" type="system" weight="black" pointSize="50"/>
+                                <color key="textColor" systemColor="systemOrangeColor" red="1" green="0.58431372550000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Image" translatesAutoresizingMaskIntoConstraints="NO" id="Eoe-N0-lMq">
+                                <rect key="frame" x="67" y="237" width="280" height="278"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Nd2-R8-Zin">
+                                <rect key="frame" x="100" y="686" width="214" height="48"/>
+                                <color key="backgroundColor" systemColor="systemTealColor" red="0.35294117650000001" green="0.7843137255" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <state key="normal" title="Start!">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <connections>
+                                    <segue destination="EDX-at-de7" kind="show" id="IYa-h6-t33"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Nd2-R8-Zin" secondAttribute="trailing" constant="100" id="Aaz-lH-pZ8"/>
+                            <constraint firstItem="HxM-bH-xHs" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="123" id="SBu-RY-jXx"/>
+                            <constraint firstItem="HxM-bH-xHs" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="cTk-Xa-uqG"/>
+                            <constraint firstItem="Nd2-R8-Zin" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="100" id="keq-ix-kHo"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Nd2-R8-Zin" secondAttribute="bottom" constant="40" id="vDZ-xb-fGk"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <navigationItem key="navigationItem" id="oOt-Ac-uuw"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="1106" y="127"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="GvR-Eg-AL1">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="5sZ-Io-N11" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" translucent="NO" id="6sx-35-Nbj">
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <color key="barTintColor" systemColor="systemOrangeColor" red="1" green="0.58431372550000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <textAttributes key="titleTextAttributes">
+                            <fontDescription key="fontDescription" type="system" weight="black" pointSize="25"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </textAttributes>
+                        <textAttributes key="largeTitleTextAttributes">
+                            <fontDescription key="fontDescription" type="system" weight="black" pointSize="25"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </textAttributes>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="P1q-Xj-uRM"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="M1v-Z3-ltq" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="137.68115942028987" y="126.5625"/>
+        </scene>
+        <!--TrumpBot 🇺🇸-->
+        <scene sceneID="zzZ-10-x9M">
+            <objects>
+                <viewController id="EDX-at-de7" customClass="ChatViewController" customModule="TrumpBot" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Yon-PY-eEs">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="808"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="Smv-na-C4q">
+                                <rect key="frame" x="0.0" y="-44" width="414" height="764"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="764" id="hQ3-tN-rid"/>
+                                </constraints>
+                                <prototypes>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="MessageCell" id="nXU-AJ-vMd">
+                                        <rect key="frame" x="0.0" y="28" width="414" height="43.5"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="nXU-AJ-vMd" id="lEz-dU-3Jk">
+                                            <rect key="frame" x="0.0" y="0.0" width="414" height="43.5"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                        </tableViewCellContentView>
+                                    </tableViewCell>
+                                </prototypes>
+                            </tableView>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="gXj-sx-Scg">
+                                <rect key="frame" x="20" y="740" width="314" height="40"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="314" id="Iyf-ma-pgO"/>
+                                    <constraint firstAttribute="height" constant="40" id="knl-G9-nDX"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ikP-YX-b5z">
+                                <rect key="frame" x="354" y="740" width="40" height="40"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="40" id="fL7-Y4-YfZ"/>
+                                </constraints>
+                                <state key="normal" title="Button" image="paperplane.fill" catalog="system"/>
+                                <connections>
+                                    <action selector="sendPressed:" destination="EDX-at-de7" eventType="touchUpInside" id="Nm8-7d-Lgf"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="Smv-na-C4q" firstAttribute="leading" secondItem="Vdb-mY-lsa" secondAttribute="leading" id="3yA-6S-muv"/>
+                            <constraint firstItem="gXj-sx-Scg" firstAttribute="leading" secondItem="Vdb-mY-lsa" secondAttribute="leading" constant="20" id="CKG-HK-bDR"/>
+                            <constraint firstItem="ikP-YX-b5z" firstAttribute="leading" secondItem="gXj-sx-Scg" secondAttribute="trailing" constant="20" id="KNO-kQ-zFA"/>
+                            <constraint firstItem="ikP-YX-b5z" firstAttribute="leading" secondItem="gXj-sx-Scg" secondAttribute="trailing" constant="20" id="Lhn-Af-MIa"/>
+                            <constraint firstItem="gXj-sx-Scg" firstAttribute="top" secondItem="Smv-na-C4q" secondAttribute="bottom" constant="20" id="RhJ-JG-exC"/>
+                            <constraint firstItem="Smv-na-C4q" firstAttribute="top" secondItem="Yon-PY-eEs" secondAttribute="topMargin" constant="-44" id="TlE-Ym-tMH"/>
+                            <constraint firstItem="Vdb-mY-lsa" firstAttribute="trailing" secondItem="ikP-YX-b5z" secondAttribute="trailing" constant="20" id="YWS-xj-8ap"/>
+                            <constraint firstItem="ikP-YX-b5z" firstAttribute="top" secondItem="Smv-na-C4q" secondAttribute="bottom" constant="20" id="bhk-04-4x0"/>
+                            <constraint firstItem="Smv-na-C4q" firstAttribute="centerX" secondItem="Yon-PY-eEs" secondAttribute="centerX" id="vKO-O0-cZQ"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="Vdb-mY-lsa"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="TrumpBot 🇺🇸" id="Y55-Lb-fKH"/>
+                    <connections>
+                        <outlet property="chatTableView" destination="Smv-na-C4q" id="vEG-QU-N1L"/>
+                        <outlet property="chatTextField" destination="gXj-sx-Scg" id="DEy-fD-Sz8"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="GWQ-Bl-adp" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2075.36231884058" y="126.5625"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="Image" width="170.5" height="170.5"/>
+        <image name="paperplane.fill" catalog="system" width="128" height="121"/>
+    </resources>
 </document>

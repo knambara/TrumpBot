@@ -3,19 +3,24 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		16BDECFDD8D12CB323DEE5D7 /* Pods_TrumpBot.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22573070C2699C4EC7B37C36 /* Pods_TrumpBot.framework */; };
 		D706E7852458F6FB00BF7BFB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D706E7842458F6FB00BF7BFB /* AppDelegate.swift */; };
 		D706E7872458F6FB00BF7BFB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D706E7862458F6FB00BF7BFB /* SceneDelegate.swift */; };
 		D706E7892458F6FB00BF7BFB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D706E7882458F6FB00BF7BFB /* ViewController.swift */; };
 		D706E78C2458F6FB00BF7BFB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D706E78A2458F6FB00BF7BFB /* Main.storyboard */; };
 		D706E78E2458F70100BF7BFB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D706E78D2458F70100BF7BFB /* Assets.xcassets */; };
 		D706E7912458F70100BF7BFB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D706E78F2458F70100BF7BFB /* LaunchScreen.storyboard */; };
+		D706E7AB245A0A9B00BF7BFB /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = D706E7AA245A0A9B00BF7BFB /* Message.swift */; };
+		D7D71C47245B097C001602F8 /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7D71C46245B097C001602F8 /* ChatViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		22573070C2699C4EC7B37C36 /* Pods_TrumpBot.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TrumpBot.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		78A8E2C1B033281AE8938B04 /* Pods-TrumpBot.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TrumpBot.debug.xcconfig"; path = "Target Support Files/Pods-TrumpBot/Pods-TrumpBot.debug.xcconfig"; sourceTree = "<group>"; };
 		D706E7812458F6FB00BF7BFB /* TrumpBot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrumpBot.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D706E7842458F6FB00BF7BFB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D706E7862458F6FB00BF7BFB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +29,9 @@
 		D706E78D2458F70100BF7BFB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D706E7902458F70100BF7BFB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D706E7922458F70100BF7BFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D706E7AA245A0A9B00BF7BFB /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
+		D7D71C46245B097C001602F8 /* ChatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
+		F99F512144B416DFDA652723 /* Pods-TrumpBot.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TrumpBot.release.xcconfig"; path = "Target Support Files/Pods-TrumpBot/Pods-TrumpBot.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,17 +39,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				16BDECFDD8D12CB323DEE5D7 /* Pods_TrumpBot.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0E7829052BA4E73A07D7C553 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				22573070C2699C4EC7B37C36 /* Pods_TrumpBot.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		47625F0B113BBBAB1D0B0AB9 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				78A8E2C1B033281AE8938B04 /* Pods-TrumpBot.debug.xcconfig */,
+				F99F512144B416DFDA652723 /* Pods-TrumpBot.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		D706E7782458F6FB00BF7BFB = {
 			isa = PBXGroup;
 			children = (
 				D706E7832458F6FB00BF7BFB /* TrumpBot */,
 				D706E7822458F6FB00BF7BFB /* Products */,
+				47625F0B113BBBAB1D0B0AB9 /* Pods */,
+				0E7829052BA4E73A07D7C553 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,13 +86,39 @@
 			children = (
 				D706E7842458F6FB00BF7BFB /* AppDelegate.swift */,
 				D706E7862458F6FB00BF7BFB /* SceneDelegate.swift */,
-				D706E7882458F6FB00BF7BFB /* ViewController.swift */,
-				D706E78A2458F6FB00BF7BFB /* Main.storyboard */,
+				D706E7AC245A0AB100BF7BFB /* Model */,
+				D706E79E2458F9CE00BF7BFB /* View */,
+				D706E79F2458F9D900BF7BFB /* Controller */,
 				D706E78D2458F70100BF7BFB /* Assets.xcassets */,
 				D706E78F2458F70100BF7BFB /* LaunchScreen.storyboard */,
 				D706E7922458F70100BF7BFB /* Info.plist */,
 			);
 			path = TrumpBot;
+			sourceTree = "<group>";
+		};
+		D706E79E2458F9CE00BF7BFB /* View */ = {
+			isa = PBXGroup;
+			children = (
+				D706E78A2458F6FB00BF7BFB /* Main.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		D706E79F2458F9D900BF7BFB /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				D706E7882458F6FB00BF7BFB /* ViewController.swift */,
+				D7D71C46245B097C001602F8 /* ChatViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		D706E7AC245A0AB100BF7BFB /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				D706E7AA245A0A9B00BF7BFB /* Message.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,9 +128,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = D706E7952458F70100BF7BFB /* Build configuration list for PBXNativeTarget "TrumpBot" */;
 			buildPhases = (
+				6081AD0CE0DA260EF052FCAE /* [CP] Check Pods Manifest.lock */,
 				D706E77D2458F6FB00BF7BFB /* Sources */,
 				D706E77E2458F6FB00BF7BFB /* Frameworks */,
 				D706E77F2458F6FB00BF7BFB /* Resources */,
+				B4151DCAE01282C236085E83 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -133,6 +189,48 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		6081AD0CE0DA260EF052FCAE /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TrumpBot-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B4151DCAE01282C236085E83 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-TrumpBot/Pods-TrumpBot-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-TrumpBot/Pods-TrumpBot-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-TrumpBot/Pods-TrumpBot-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		D706E77D2458F6FB00BF7BFB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -140,6 +238,8 @@
 			files = (
 				D706E7892458F6FB00BF7BFB /* ViewController.swift in Sources */,
 				D706E7852458F6FB00BF7BFB /* AppDelegate.swift in Sources */,
+				D706E7AB245A0A9B00BF7BFB /* Message.swift in Sources */,
+				D7D71C47245B097C001602F8 /* ChatViewController.swift in Sources */,
 				D706E7872458F6FB00BF7BFB /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -282,9 +382,11 @@
 		};
 		D706E7962458F70100BF7BFB /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 78A8E2C1B033281AE8938B04 /* Pods-TrumpBot.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ADNW9WY55G;
 				INFOPLIST_FILE = TrumpBot/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -293,15 +395,17 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.kentoiosapp.TrumpBot;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
 		D706E7972458F70100BF7BFB /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = F99F512144B416DFDA652723 /* Pods-TrumpBot.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ADNW9WY55G;
 				INFOPLIST_FILE = TrumpBot/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -310,7 +414,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.kentoiosapp.TrumpBot;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

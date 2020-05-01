@@ -1,0 +1,11 @@
+platform :ios, '9.0'
+
+target 'TrumpBot' do
+
+  use_frameworks!
+
+  # Pods for TrumpBot
+  
+  pod 'IQKeyboardManagerSwift'
+
+end
