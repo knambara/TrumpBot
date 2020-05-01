@@ -15,6 +15,8 @@
 		D706E78E2458F70100BF7BFB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D706E78D2458F70100BF7BFB /* Assets.xcassets */; };
 		D706E7912458F70100BF7BFB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D706E78F2458F70100BF7BFB /* LaunchScreen.storyboard */; };
 		D706E7AB245A0A9B00BF7BFB /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = D706E7AA245A0A9B00BF7BFB /* Message.swift */; };
+		D71AB000245C72E500C51B48 /* ChatManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D71AAFFF245C72E400C51B48 /* ChatManager.swift */; };
+		D71AB002245CA9D900C51B48 /* MessageData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D71AB001245CA9D900C51B48 /* MessageData.swift */; };
 		D7D71C47245B097C001602F8 /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7D71C46245B097C001602F8 /* ChatViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -30,6 +32,8 @@
 		D706E7902458F70100BF7BFB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D706E7922458F70100BF7BFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D706E7AA245A0A9B00BF7BFB /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
+		D71AAFFF245C72E400C51B48 /* ChatManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatManager.swift; sourceTree = "<group>"; };
+		D71AB001245CA9D900C51B48 /* MessageData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageData.swift; sourceTree = "<group>"; };
 		D7D71C46245B097C001602F8 /* ChatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
 		F99F512144B416DFDA652723 /* Pods-TrumpBot.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TrumpBot.release.xcconfig"; path = "Target Support Files/Pods-TrumpBot/Pods-TrumpBot.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -117,6 +121,8 @@
 			isa = PBXGroup;
 			children = (
 				D706E7AA245A0A9B00BF7BFB /* Message.swift */,
+				D71AAFFF245C72E400C51B48 /* ChatManager.swift */,
+				D71AB001245CA9D900C51B48 /* MessageData.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -238,7 +244,9 @@
 			files = (
 				D706E7892458F6FB00BF7BFB /* ViewController.swift in Sources */,
 				D706E7852458F6FB00BF7BFB /* AppDelegate.swift in Sources */,
+				D71AB002245CA9D900C51B48 /* MessageData.swift in Sources */,
 				D706E7AB245A0A9B00BF7BFB /* Message.swift in Sources */,
+				D71AB000245C72E500C51B48 /* ChatManager.swift in Sources */,
 				D7D71C47245B097C001602F8 /* ChatViewController.swift in Sources */,
 				D706E7872458F6FB00BF7BFB /* SceneDelegate.swift in Sources */,
 			);
