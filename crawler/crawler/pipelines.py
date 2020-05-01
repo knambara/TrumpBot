@@ -16,7 +16,8 @@ class TrumpPipeline:
             return
 
         id = item.get('id')
-        file_name = 'interviews/trump_interview_%s.txt' % (id)
+        # file_name = 'interviews/trump_interview_%s.txt' % (id)
+        file_name = 'remarks/trump_remark_%s.txt' % (id)
 
         with open(file_name, 'a+') as f:
             speaker = item.get('speaker').strip()
