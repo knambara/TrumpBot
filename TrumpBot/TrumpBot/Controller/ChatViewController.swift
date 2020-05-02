@@ -20,6 +20,7 @@ class ChatViewController: UIViewController {
         super.viewDidLoad()
         chatTableView.dataSource = self
         chatManager.delegate = self
+        chatTableView.register(UINib(nibName: "ChatCell", bundle: nil), forCellReuseIdentifier: "msgCustomCell")
     }
     
     @IBAction func sendPressed(_ sender: UIButton) {
@@ -51,9 +52,24 @@ extension ChatViewController: UITableViewDataSource {
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCell(withIdentifier: "MessageCell", for: indexPath)
+        let cell = tableView.dequeueReusableCell(withIdentifier: "msgCustomCell", for: indexPath) as! ChatCell
         let msg = self.messages[indexPath.row]
-        cell.textLabel?.text = msg.body
+        cell.messageLabel.text = msg.body
+        
+        //This is a message from the current user.
+        if msg.sender == "user" {
+            cell.trumpIcon.isHidden = true
+            cell.meIcon.isHidden = false
+            cell.messageView.backgroundColor = UIColor(named: "teal")
+            cell.messageLabel.textColor = UIColor.white
+        }
+        //This is a message from another sender.
+        else {
+            cell.trumpIcon.isHidden = false
+            cell.meIcon.isHidden = true
+            cell.messageView.backgroundColor = UIColor(named: "orange")
+            cell.messageLabel.textColor = UIColor.white
+        }
         return cell
     }
     
