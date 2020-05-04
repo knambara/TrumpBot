@@ -23,7 +23,7 @@ hyperparams = {
     "batch_size": 8,
     "window_size": 200,
     "accumulation_steps": 1,
-    "learning_rate": 2e-5
+    "learning_rate": 6.25e-5
 }
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
