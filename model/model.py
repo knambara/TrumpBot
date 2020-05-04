@@ -20,10 +20,10 @@ from torch.utils.data import DataLoader
 
 hyperparams = {
     "num_epochs": 3,
-    "batch_size": 8,
+    "batch_size": 16,
     "window_size": 200,
     "accumulation_steps": 1,
-    "learning_rate": 6.25e-5
+    "learning_rate": 2e-5
 }
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
@@ -196,15 +196,11 @@ class Model(nn.Module):
                         optimizer.zero_grad()
 
                         accuracy = accumulated_correct_preds / accumulated_valid_preds
-                        accumulated_incorrect_preds = accumulated_valid_preds - accumulated_correct_preds
                         experiment.log_metric(
                             'accuracy', accuracy.item())
                         experiment.log_metric(
                             'correct_pedictions',
                             accumulated_correct_preds.item())
-                        experiment.log_metric(
-                            'incorrect_pedictions',
-                            accumulated_incorrect_preds.item())
                         accumulated_correct_preds = torch.tensor(0.0)
                         accumulated_valid_preds = torch.tensor(0.0)
 
