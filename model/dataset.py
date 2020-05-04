@@ -78,7 +78,11 @@ class ChatDataset(Dataset):
             return (False, self.__random_answer())
 
     @staticmethod
-    def str2ids(text, tokenizer=default_tokenizer):
+    def str2ids(text,
+                tokenizer=default_tokenizer,
+                add_bos_token=False,
+                add_sep_token=False,
+                add_eos_token=False):
         """
         Converts a string in a sequence of ids (integer), using provided
             tokenizer.
@@ -94,8 +98,19 @@ class ChatDataset(Dataset):
 
         >>> ChatDataset.str2ids('I am fine')
         [40, 716, 3734]
+        >>> ChatDataset.str2ids('I am fine', add_bos_token=True)
+        [50256, 40, 716, 3734]
+        >>> ChatDataset.str2ids('I am fine', add_sep_token=True, add_eos_token=True)
+        [50256, 40, 716, 3734, 50256]
         """
-        return tokenizer.encode(text)
+        ids: list = tokenizer.encode(text)
+        if add_bos_token:
+            ids.insert(0, tokenizer.bos_token_id)
+        if add_sep_token:
+            ids.insert(0, tokenizer.sep_token_id)
+        if add_eos_token:
+            ids.append(tokenizer.eos_token_id)
+        return ids
 
     @staticmethod
     def ids2str(token_ids,
@@ -118,8 +133,9 @@ class ChatDataset(Dataset):
         """
         return tokenizer.decode(token_ids)
 
-    @staticmethod
-    def encode(prompt, answer, tokenizer=default_tokenizer, max_len=1024):
+    @classmethod
+    def encode(Class, prompt, answer,
+               tokenizer=default_tokenizer, max_len=1024):
         """
         Encode a prompt, answer pair with self.tokenizer
 
@@ -154,6 +170,11 @@ class ChatDataset(Dataset):
                 [0, 1], with 0 specifying special added tokens and 1 specifying
                 sequence tokens.
         """
+        prompt = Class.str2ids(prompt, add_bos_token=True)
+        answer = Class.str2ids(answer, add_sep_token=True, add_eos_token=True)
+        # three special tokens are added
+        max_len += 3
+
         encoding_obj = tokenizer.encode_plus(
             prompt,
             answer,
@@ -166,11 +187,16 @@ class ChatDataset(Dataset):
             return_special_tokens_mask=True
         )
 
+        input_ids = encoding_obj['input_ids'].squeeze()
+        special_token_ids = torch.tensor(list(set(tokenizer.all_special_ids)))
+        special_tokens_mask = input_ids.view(1, -1).eq(
+            special_token_ids.view(-1, 1)).squeeze()
+
         return (
-            encoding_obj['input_ids'].squeeze(),  # input_ids
+            input_ids,  # input_ids
             encoding_obj['attention_mask'].squeeze(),  # attention_mask
             encoding_obj['token_type_ids'].squeeze(),  # token_type_ids
-            encoding_obj['special_tokens_mask'],  # token_type_ids
+            special_tokens_mask  # special_token_masks
         )
 
     def __getitem__(self, index):
@@ -178,12 +204,13 @@ class ChatDataset(Dataset):
         prompt = pair['prompt']
         is_original, answer = self.__next_sentence_prediction(pair['answer'])
 
-        input_ids, attention_mask, token_type_ids, _ = ChatDataset.encode(
+        input_ids, attention_mask, token_type_ids, special_tokens_mask = ChatDataset.encode(
             prompt, answer, self.tokenizer, self.max_len)
 
         if is_original:
-            lm_labels = input_ids.clone().masked_fill_(token_type_ids == 0,
-                                                       -100)
+            lm_mask = token_type_ids.clone().masked_fill_(special_tokens_mask,
+                                                          0)
+            lm_labels = input_ids.clone().masked_fill_(lm_mask == 0, -100)
             mc_labels = torch.tensor(1.0)
         else:
             lm_labels = input_ids.clone().fill_(-100)
