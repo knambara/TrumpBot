@@ -11,10 +11,11 @@ default_tokenizer = transformers.GPT2Tokenizer.from_pretrained(
 )
 
 
-def load_dataset(target, batch_size, tokenizer=default_tokenizer):
+def load_dataset(target, batch_size, tokenizer=default_tokenizer,
+                 window_size=100):
     source = preprocess.unfreeze_dataset(target)
 
-    dataset = ChatDataset(source, tokenizer)
+    dataset = ChatDataset(source, tokenizer, window_size=window_size)
     train_dataset, validate_dataset, test_dataset = split_dataset(dataset)
     return (DataLoader(train_dataset, batch_size=batch_size,
                        shuffle=True, drop_last=True),
@@ -35,9 +36,14 @@ def split_dataset(dataset: Dataset, train_frac=0.8, validate_frac=0.1):
 
 
 class ChatDataset(Dataset):
-    def __init__(self, source, tokenizer: transformers.PreTrainedTokenizer):
+    def __init__(self,
+                 source,
+                 tokenizer: transformers.PreTrainedTokenizer,
+                 window_size):
         self.source = source
         self.tokenizer = tokenizer
+        self.window_size = window_size
+        self.max_len = min(self.window_size, self.tokenizer.max_len)
 
     def __len__(self):
         return len(self.source)
@@ -80,7 +86,7 @@ class ChatDataset(Dataset):
             prompt,
             answer,
             add_special_tokens=True,
-            max_length=self.tokenizer.max_len,
+            max_length=self.max_len,
             pad_to_max_length=True,
             return_tensors='pt',
             rerurn_token_type_ids=True,
