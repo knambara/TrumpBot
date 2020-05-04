@@ -11,8 +11,7 @@ default_tokenizer = transformers.GPT2Tokenizer.from_pretrained(
 )
 
 
-def load_dataset(target, batch_size, tokenizer=default_tokenizer,
-                 window_size=100):
+def load_dataset(target, batch_size, window_size, tokenizer=default_tokenizer):
     source = preprocess.unfreeze_dataset(target)
 
     dataset = ChatDataset(source, tokenizer, window_size=window_size)

@@ -16,7 +16,7 @@ from torch.utils.data import DataLoader
 hyperparams = {
     "num_epochs": 3,
     "batch_size": 8,
-    "window_size": 100,
+    "window_size": 200,
     "accumulation_steps": 4,
     "learning_rate": 2e-5
 }
@@ -185,11 +185,15 @@ class Model(nn.Module):
                         optimizer.zero_grad()
 
                         accuracy = accumulated_correct_preds / accumulated_valid_preds
+                        accumulated_incorrect_preds = accumulated_valid_preds - accumulated_correct_preds
+                        experiment.log_metric(
+                            'accuracy', accuracy.item())
                         experiment.log_metric(
                             'correct_pedictions',
                             accumulated_correct_preds.item())
                         experiment.log_metric(
-                            'accuracy', accuracy.item())
+                            'incorrect_pedictions',
+                            accumulated_incorrect_preds.item())
                         accumulated_correct_preds = torch.tensor(0.0)
                         accumulated_valid_preds = torch.tensor(0.0)
 
@@ -274,7 +278,7 @@ if __name__ == '__main__':
     target = args.dataset
     window_size = hyperparams['window_size']
     train_dataloader, validate_dataloader, test_dataloader = load_dataset(
-        target, batch_size, window_size=window_size)
+        target, batch_size, window_size)
 
     model = Model()
 
