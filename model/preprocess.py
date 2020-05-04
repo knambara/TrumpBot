@@ -100,8 +100,31 @@ def pair_prompt_and_answer(source, answerer='Donald Trump'):
     # ignore last unanswered prompt (if exists)
 
 
+def filter_too_short_prompt(source, threshold=3):
+    for pair in source:
+        prompt = pair['prompt']
+        if len(prompt.split()) >= threshold:
+            yield pair
+
+
+def filter_too_long_prompt_and_answer(source,
+                                      prompt_threshold=50,
+                                      answer_threshold=50):
+    for pair in source:
+        prompt = pair['prompt']
+        answer = pair['answer']
+        if len(prompt.split()) <= prompt_threshold:
+            if len(answer.split()) <= answer_threshold:
+                yield pair
+
+
+#  def trim_down_prompt_and_answer(pair, n_words_allowed_in_prompt=
+
+
 def parse_files(*filepaths, pipeline=[parse_sentences,
-                                      pair_prompt_and_answer]):
+                                      pair_prompt_and_answer,
+                                      filter_too_short_prompt,
+                                      filter_too_long_prompt_and_answer]):
     for filepath in filepaths:
         print(f'[i] Parsing {filepath}')
         with tqdm(open(filepath)) as file_reader:
