@@ -108,8 +108,8 @@ def filter_too_short_prompt(source, threshold=3):
 
 
 def filter_too_long_prompt_and_answer(source,
-                                      prompt_threshold=50,
-                                      answer_threshold=50):
+                                      prompt_threshold=100,
+                                      answer_threshold=100):
     for pair in source:
         prompt = pair['prompt']
         answer = pair['answer']
@@ -118,13 +118,25 @@ def filter_too_long_prompt_and_answer(source,
                 yield pair
 
 
-#  def trim_down_prompt_and_answer(pair, n_words_allowed_in_prompt=
+def trim_down_prompt_and_answer(source,
+                                prompt_threshold=40,
+                                answer_threshold=160):
+    for pair in source:
+        prompt_words = pair['prompt'].split()
+        if len(prompt_words) > prompt_threshold:
+            pair['prompt'] = ' '.join(prompt_words[-prompt_threshold:])
+
+        answer_words = pair['answer'].split()
+        if len(answer_words) > answer_threshold:
+            pair['answer'] = ' '.join(answer_words[:answer_threshold])
+
+        yield pair
 
 
 def parse_files(*filepaths, pipeline=[parse_sentences,
                                       pair_prompt_and_answer,
                                       filter_too_short_prompt,
-                                      filter_too_long_prompt_and_answer]):
+                                      trim_down_prompt_and_answer]):
     for filepath in filepaths:
         print(f'[i] Parsing {filepath}')
         with tqdm(open(filepath)) as file_reader:
