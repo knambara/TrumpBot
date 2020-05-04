@@ -9,6 +9,7 @@ default_tokenizer = transformers.GPT2Tokenizer.from_pretrained(
     'gpt2', add_prefix_space=True,
     bos_token='<prompt>', pad_token='<pad>', sep_token='<answer>'
 )
+default_special_ids = set(default_tokenizer.all_special_ids)
 
 
 def load_dataset(target, batch_size, window_size, tokenizer=default_tokenizer):
@@ -37,7 +38,7 @@ def split_dataset(dataset: Dataset, train_frac=0.8, validate_frac=0.1):
 class ChatDataset(Dataset):
     def __init__(self,
                  source,
-                 tokenizer: transformers.PreTrainedTokenizer,
+                 tokenizer,
                  window_size):
         self.source = source
         self.tokenizer = tokenizer
@@ -76,16 +77,88 @@ class ChatDataset(Dataset):
 
             return (False, self.__random_answer())
 
-    def __getitem__(self, index):
-        pair = self.source[index]
-        prompt = pair['prompt']
-        is_original, answer = self.__next_sentence_prediction(pair['answer'])
+    @staticmethod
+    def str2ids(text, tokenizer=default_tokenizer):
+        """
+        Converts a string in a sequence of ids (integer), using provided
+            tokenizer.
 
-        encoding_obj = self.tokenizer.encode_plus(
+        Arg:
+            text (str, List[str] or List[int]: The first sequence to be
+                encoded. This can be a string, a list of strings (tokenized
+                string using the tokenize method) or a list of integers
+                (tokenized string ids using the convert_tokens_to_ids method)
+            tokenizer: An instance of transformers.PreTrainedTokenizer.
+        Return:
+            A list of integers
+
+        >>> ChatDataset.str2ids('I am fine')
+        [40, 716, 3734]
+        """
+        return tokenizer.encode(text)
+
+    @staticmethod
+    def ids2str(token_ids,
+                tokenizer=default_tokenizer,
+                skip_special_tokens=False):
+        """
+        Converts a sequence of ids (integer) in a string, using the provided
+            tokenizer and vocabulary with options to remove special tokens.
+
+        Arg:
+            token_ids: list of tokenized input ids. Can be obtained using the
+                str2ids method.
+            tokenizer: An instance of transformers.PreTrainedTokenizer.
+            skip_special_tokens: if set to True, will replace special tokens.
+        Return:
+            A list of integers
+
+        >>> ChatDataset.ids2str(ChatDataset.str2ids('I am fine'))
+        'I am fine'
+        """
+        return tokenizer.decode(token_ids)
+
+    @staticmethod
+    def encode(prompt, answer, tokenizer=default_tokenizer, max_len=1024):
+        """
+        Encode a prompt, answer pair with self.tokenizer
+
+        Args:
+            prompt (str, List[str] or List[int] – The first sequence to be
+                encoded. This can be a string, a list of strings (tokenized
+                string using the tokenize method) or a list of integers
+                (tokenized string ids using the convert_tokens_to_ids method)
+            answer (str, List[str] or List[int] – The first sequence to be
+                encoded. This can be a string, a list of strings (tokenized
+                string using the tokenize method) or a list of integers
+                (tokenized string ids using the convert_tokens_to_ids method)
+            tokenizer: Tokenizer used for tokenizing input (default to
+                default_tokenizer)
+            max_len: Sequence length, shorter sequences will be padded. Default
+                to 1024
+        Return:
+            A tuple of shape
+
+                (
+                    input_ids,
+                    attention_mask,
+                    token_type_ids,
+                    special_tokens_mask
+                )
+
+            + input_ids: list of token ids to be fed to a model
+            + token_type_ids: list of token type ids to be fed to a model
+            + attention_mask: list of indices specifying which tokens should
+                be attended to by the model
+            + special_tokens_mask: if adding special tokens, this is a list of
+                [0, 1], with 0 specifying special added tokens and 1 specifying
+                sequence tokens.
+        """
+        encoding_obj = tokenizer.encode_plus(
             prompt,
             answer,
             add_special_tokens=True,
-            max_length=self.max_len,
+            max_length=max_len,
             pad_to_max_length=True,
             return_tensors='pt',
             rerurn_token_type_ids=True,
@@ -93,9 +166,20 @@ class ChatDataset(Dataset):
             return_special_tokens_mask=True
         )
 
-        input_ids = encoding_obj['input_ids'].squeeze()
-        attention_mask = encoding_obj['attention_mask'].squeeze()
-        token_type_ids = encoding_obj['token_type_ids'].squeeze()
+        return (
+            encoding_obj['input_ids'].squeeze(),  # input_ids
+            encoding_obj['attention_mask'].squeeze(),  # attention_mask
+            encoding_obj['token_type_ids'].squeeze(),  # token_type_ids
+            encoding_obj['special_tokens_mask'],  # token_type_ids
+        )
+
+    def __getitem__(self, index):
+        pair = self.source[index]
+        prompt = pair['prompt']
+        is_original, answer = self.__next_sentence_prediction(pair['answer'])
+
+        input_ids, attention_mask, token_type_ids, _ = ChatDataset.encode(
+            prompt, answer, self.tokenizer, self.max_len)
 
         if is_original:
             lm_labels = input_ids.clone().masked_fill_(token_type_ids == 0,

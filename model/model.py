@@ -1,4 +1,5 @@
 import argparse
+import math
 import os
 from datetime import datetime
 
@@ -8,8 +9,12 @@ import comet_ml
 import torch
 import transformers
 from comet_ml import Experiment
+from dataset import ChatDataset
+from dataset import default_special_ids as special_ids
+from dataset import default_tokenizer as tokenizer
 from dataset import load_dataset
 from torch import nn
+from torch.nn.functional import softmax
 from torch.optim import AdamW
 from torch.utils.data import DataLoader
 
@@ -17,7 +22,7 @@ hyperparams = {
     "num_epochs": 3,
     "batch_size": 8,
     "window_size": 200,
-    "accumulation_steps": 4,
+    "accumulation_steps": 1,
     "learning_rate": 2e-5
 }
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -32,6 +37,7 @@ class Model(nn.Module):
         + loss: a function to compute model loss on both tasks
     """
     def __init__(self,
+                 window_size=hyperparams['window_size'],
                  device=device,
                  lm_coeff=2.0,
                  mc_coeff=1.0,
@@ -41,6 +47,7 @@ class Model(nn.Module):
 
         self.model = transformers.GPT2DoubleHeadsModel.from_pretrained('gpt2')
 
+        self.window_size = window_size
         self.lm_coeff = lm_coeff
         self.mc_coeff = mc_coeff
         self.max_norm = max_norm
@@ -48,6 +55,9 @@ class Model(nn.Module):
         self.savedir = savedir
         self.device = device
         self.to(device)
+
+    def __lm_logits(self, input_ids, **kwargs):
+        return self.model(input_ids, **kwargs)[0]
 
     def forward(self, input_ids, mc_labels, **kwargs):
         lm_loss, lm_logits, mc_logits, _ = self.model(input_ids, **kwargs)
@@ -131,7 +141,8 @@ class Model(nn.Module):
     def load(self, filename='model.pt'):
         filepath = os.path.join(self.savedir, filename)
         print(f'loading model from {filepath}')
-        self.load_state_dict(torch.load(filepath))
+        model = torch.load(filepath, map_location=self.device.type)
+        self.load_state_dict(model)
 
     def accuracy(self, lm_logits, lm_labels):
         preds = torch.argmax(lm_logits, dim=2)
@@ -252,6 +263,114 @@ class Model(nn.Module):
         experiment.log_metric("final_perplexity", perplexity.item())
         experiment.log_metric("final_accuracy", accuracy.item())
 
+    def __top_filtering(self,
+                        lm_logits,
+                        top_k=0,
+                        top_p=0.9,
+                        threshold=-math.inf,
+                        filter_value=-math.inf):
+        """ Filter a distribution of logits using top-k, top-p (nucleus)
+                and/or threshold filtering
+            Args:
+                logits: logits distribution shape (vocabulary size)
+                    1d array representing the logits for last word
+                top_k: <=0: no filtering, >0: keep only top k tokens with
+                    highest probability.
+                top_p: <=0.0: no filtering, >0.0: keep only a subset S of
+                    candidates, where S is the smallest subset whose total
+                    probability mass is greater than or equal to the threshold
+                    top_p.
+                    In practice, we select the highest probability tokens whose
+                        cumulative probability mass exceeds the threshold
+                        top_p.
+                threshold: a minimal threshold to keep logits
+        """
+        # batch size should be 1
+        assert lm_logits.dim() == 1
+
+        # top p probability
+        if top_p > 0.0:
+            # Compute cumulative probabilities of sorted tokens
+            sorted_logits, sorted_indices = torch.sort(lm_logits,
+                                                       descending=True)
+            cumulative_probabilities = torch.cumsum(
+                softmax(sorted_logits, dim=-1), dim=-1)
+
+            # Remove tokens with cumulative probability above the threshold
+            sorted_indices_to_remove = cumulative_probabilities > top_p
+            # Shift the indices to the right to keep also the first token
+            #   above the threshold
+            sorted_indices_to_remove[..., 1:] = sorted_indices_to_remove[..., :-1].clone()
+            sorted_indices_to_remove[..., 0] = 0
+
+            # Back to unsorted indices and set them to filter_value
+            indices_to_remove = sorted_indices[sorted_indices_to_remove]
+            lm_logits[indices_to_remove] = filter_value
+
+        # top k elements
+        top_k = min(top_k, lm_logits.size(-1))
+        if top_k > 0:
+            # Remove all tokens with a probability less than the last token
+            # in the top-k tokens
+            indices_to_remove = lm_logits < torch.topk(
+                lm_logits, top_k)[0][..., -1, None]
+            lm_logits[indices_to_remove] = filter_value
+
+        indices_to_remove = lm_logits < threshold
+        lm_logits[indices_to_remove] = filter_value
+        return lm_logits
+
+    def __answer(self,
+                 prompt_ids,
+                 answer_ids=[],
+                 answer_min_len=2,
+                 answer_max_len=20,
+                 temperature=0.7,
+                 top_k=0,
+                 top_p=0.9,
+                 threshold=-math.inf):
+        with torch.no_grad():
+            for i in range(len(answer_ids), answer_max_len):
+                pair_maxlen = len(prompt_ids) + answer_max_len
+                max_len = min(pair_maxlen, self.window_size)
+
+                input_ids, attention_mask, token_type_ids, _ = ChatDataset.encode(
+                    prompt_ids, answer_ids, max_len=max_len)
+                # lm_logits: sequence_length * vocabulary_size
+                lm_logits = self.__lm_logits(input_ids,
+                                             attention_mask=attention_mask,
+                                             token_type_ids=token_type_ids)
+                lastword_logits = lm_logits[-1, :] / temperature
+                lastword_logits = self.__top_filtering(lastword_logits, top_k,
+                                                       top_p, threshold)
+                lastword_probs = softmax(lastword_logits, dim=-1)
+                wordid = torch.multinomial(lastword_probs, 1).item()
+
+                if i < answer_min_len and wordid in special_ids:
+                    while wordid in special_ids:
+                        if lastword_probs.max().item() == 1:
+                            print("Warning: model generating special token \
+                                  with probability 1.")
+                            # avoid infinitely looping over special token
+                            break
+                        wordid = torch.multinomial(lastword_probs, 1).item()
+
+                if wordid in special_ids:
+                    break
+                answer_ids.append(wordid)
+        return answer_ids
+
+    def answer(self, prompt: str, **kwargs):
+        prompt_ids = ChatDataset.str2ids(prompt)
+
+        answer_ids = self.__answer(
+            prompt_ids,
+            answer_ids=[tokenizer.sep_token_id],
+            **kwargs)
+
+        return ChatDataset.ids2str(answer_ids,
+                                   skip_special_tokens=True)
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -276,9 +395,8 @@ if __name__ == '__main__':
     batch_size = hyperparams['batch_size']
     #  Load dataset
     target = args.dataset
-    window_size = hyperparams['window_size']
     train_dataloader, validate_dataloader, test_dataloader = load_dataset(
-        target, batch_size, window_size)
+        target, batch_size, window_size=hyperparams['window_size'])
 
     model = Model()
 
