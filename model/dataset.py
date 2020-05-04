@@ -16,7 +16,8 @@ def load_dataset(target, batch_size, tokenizer=default_tokenizer):
 
     dataset = ChatDataset(source, tokenizer)
     train_dataset, validate_dataset, test_dataset = split_dataset(dataset)
-    return (DataLoader(train_dataset, batch_size=batch_size, shuffle=True),
+    return (DataLoader(train_dataset, batch_size=batch_size,
+                       shuffle=True, drop_last=True),
             DataLoader(validate_dataset, shuffle=True),
             DataLoader(test_dataset))
 
@@ -94,10 +95,10 @@ class ChatDataset(Dataset):
         if is_original:
             lm_labels = input_ids.clone().masked_fill_(token_type_ids == 0,
                                                        -100)
-            mc_labels = torch.LongTensor([0])
+            mc_labels = torch.tensor(1.0)
         else:
             lm_labels = input_ids.clone().fill_(-100)
-            mc_labels = torch.LongTensor([0])
+            mc_labels = torch.tensor(0.0)
 
         return {
             'input_ids': input_ids,
