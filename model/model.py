@@ -15,7 +15,7 @@ from torch.utils.data import DataLoader
 
 hyperparams = {
     "num_epochs": 3,
-    "batch_size": 16,
+    "batch_size": 8,
     "learning_rate": 6.25e-5
 }
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -155,7 +155,7 @@ class Model(nn.Module):
                     input_ids, attention_mask, token_type_ids, \
                         lm_labels, mc_labels = self.__unpack_data(train_data)
 
-                    loss, lm_loss, mc_loss, lm_logits = self(
+                    loss, lm_loss, mc_loss, lm_logits, _ = self(
                         input_ids,
                         mc_labels,
                         attention_mask=attention_mask,
@@ -199,7 +199,7 @@ class Model(nn.Module):
                     input_ids, attention_mask, token_type_ids, \
                         lm_labels, mc_labels = self.__unpack_data(test_data)
 
-                    loss, lm_loss, mc_loss, lm_logits = self(
+                    loss, lm_loss, mc_loss, lm_logits, _ = self(
                         input_ids,
                         mc_labels,
                         attention_mask=attention_mask,
