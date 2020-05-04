@@ -159,7 +159,8 @@ class ChatDataset(Dataset):
                     input_ids,
                     attention_mask,
                     token_type_ids,
-                    special_tokens_mask
+                    special_tokens_mask,
+                    mc_token_ids
                 )
 
             + input_ids: list of token ids to be fed to a model
@@ -169,9 +170,12 @@ class ChatDataset(Dataset):
             + special_tokens_mask: if adding special tokens, this is a list of
                 [0, 1], with 0 specifying special added tokens and 1 specifying
                 sequence tokens.
+            + mc_token_ids: the index of the classification token in each
+                input sequence.
         """
         prompt = Class.str2ids(prompt, add_bos_token=True)
         answer = Class.str2ids(answer, add_sep_token=True, add_eos_token=True)
+        mc_token_ids = torch.tensor([len(prompt) + len(answer) - 1])
         # three special tokens are added
         max_len += 3
 
@@ -196,7 +200,8 @@ class ChatDataset(Dataset):
             input_ids,  # input_ids
             encoding_obj['attention_mask'].squeeze(),  # attention_mask
             encoding_obj['token_type_ids'].squeeze(),  # token_type_ids
-            special_tokens_mask  # special_token_masks
+            special_tokens_mask,  # special_token_masks
+            mc_token_ids
         )
 
     def __getitem__(self, index):
@@ -204,7 +209,7 @@ class ChatDataset(Dataset):
         prompt = pair['prompt']
         is_original, answer = self.__next_sentence_prediction(pair['answer'])
 
-        input_ids, attention_mask, token_type_ids, special_tokens_mask = ChatDataset.encode(
+        input_ids, attention_mask, token_type_ids, special_tokens_mask, mc_token_ids = ChatDataset.encode(
             prompt, answer, self.tokenizer, self.max_len)
 
         if is_original:
@@ -220,6 +225,7 @@ class ChatDataset(Dataset):
             'input_ids': input_ids,
             'attention_mask': attention_mask,
             'token_type_ids': token_type_ids,
+            'mc_token_ids': mc_token_ids,
             'lm_labels': lm_labels,
             'mc_labels': mc_labels
         }

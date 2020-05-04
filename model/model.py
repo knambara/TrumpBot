@@ -69,6 +69,7 @@ class Model(nn.Module):
             data['input_ids'].to(self.device),
             data['attention_mask'].to(self.device),
             data['token_type_ids'].to(self.device),
+            data['mc_token_ids'].to(self.device),
             data['lm_labels'].to(self.device),
             data['mc_labels'].to(self.device)
         )
@@ -171,7 +172,7 @@ class Model(nn.Module):
                 for train_data in tqdm(train_dataloader):
                     num_batches += 1
 
-                    input_ids, attention_mask, token_type_ids, \
+                    input_ids, attention_mask, token_type_ids, mc_token_ids, \
                         lm_labels, mc_labels = self.__unpack_data(train_data)
 
                     loss, lm_loss, mc_loss, lm_logits, _ = self(
@@ -229,7 +230,7 @@ class Model(nn.Module):
             with torch.no_grad():
                 for num_batches, test_data in tqdm(
                         enumerate(test_dataloader, start=1)):
-                    input_ids, attention_mask, token_type_ids, \
+                    input_ids, attention_mask, token_type_ids, mc_token_ids, \
                         lm_labels, mc_labels = self.__unpack_data(test_data)
 
                     loss, lm_loss, mc_loss, lm_logits, _ = self(
@@ -237,6 +238,7 @@ class Model(nn.Module):
                         mc_labels,
                         attention_mask=attention_mask,
                         token_type_ids=token_type_ids,
+                        mc_token_ids=mc_token_ids,
                         lm_labels=lm_labels
                     )
 
@@ -330,7 +332,7 @@ class Model(nn.Module):
                 pair_maxlen = len(prompt_ids) + answer_max_len
                 max_len = min(pair_maxlen, self.window_size)
 
-                input_ids, attention_mask, token_type_ids, _ = ChatDataset.encode(
+                input_ids, attention_mask, token_type_ids, _, _ = ChatDataset.encode(
                     prompt_ids, answer_ids, max_len=max_len)
                 # lm_logits: sequence_length * vocabulary_size
                 lm_logits = self.__lm_logits(input_ids,
