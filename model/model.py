@@ -15,8 +15,9 @@ from torch.utils.data import DataLoader
 
 hyperparams = {
     "num_epochs": 3,
-    "batch_size": 2,
-    "accumulation_steps": 8,
+    "batch_size": 8,
+    "window_size": 100,
+    "accumulation_steps": 4,
     "learning_rate": 2e-5
 }
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -197,6 +198,7 @@ class Model(nn.Module):
                     # log metrics
                     experiment.log_metric('lm_loss', lm_loss.item())
                     experiment.log_metric('mc_loss', mc_loss.item())
+                    loss = loss * accumulation_steps
                     experiment.log_metric('loss', loss.item())
                 self.save(f'model-train-epoch{which_epoch}.pt')
 
@@ -270,8 +272,9 @@ if __name__ == '__main__':
     batch_size = hyperparams['batch_size']
     #  Load dataset
     target = args.dataset
+    window_size = hyperparams['window_size']
     train_dataloader, validate_dataloader, test_dataloader = load_dataset(
-        target, batch_size)
+        target, batch_size, window_size=window_size)
 
     model = Model()
 
