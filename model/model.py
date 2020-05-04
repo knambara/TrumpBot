@@ -15,8 +15,9 @@ from torch.utils.data import DataLoader
 
 hyperparams = {
     "num_epochs": 3,
-    "batch_size": 8,
-    "learning_rate": 6.25e-5
+    "batch_size": 2,
+    "accumulation_steps": 8,
+    "learning_rate": 2e-5
 }
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
@@ -31,15 +32,17 @@ class Model(nn.Module):
     """
     def __init__(self,
                  device=device,
-                 lm_coeff=1.0,
+                 lm_coeff=2.0,
                  mc_coeff=1.0,
-                 savedir='models'):
+                 savedir='models',
+                 max_norm=1.0):
         super().__init__()
 
         self.model = transformers.GPT2DoubleHeadsModel.from_pretrained('gpt2')
 
         self.lm_coeff = lm_coeff
         self.mc_coeff = mc_coeff
+        self.max_norm = max_norm
 
         self.savedir = savedir
         self.device = device
@@ -140,17 +143,21 @@ class Model(nn.Module):
                train_dataloader: DataLoader,
                optimizer,
                experiment,
-               num_epochs):
+               num_epochs,
+               accumulation_steps):
         self.train()
 
         total_lm_loss = torch.tensor(0.0)
         num_batches = 0
 
+        accumulated_correct_preds = torch.tensor(0.0)
+        accumulated_valid_preds = torch.tensor(0.0)
+
+        optimizer.zero_grad()
         with experiment.train():
             for which_epoch in range(num_epochs):
                 for train_data in tqdm(train_dataloader):
                     num_batches += 1
-                    optimizer.zero_grad()
 
                     input_ids, attention_mask, token_type_ids, \
                         lm_labels, mc_labels = self.__unpack_data(train_data)
@@ -162,12 +169,28 @@ class Model(nn.Module):
                         token_type_ids=token_type_ids,
                         lm_labels=lm_labels
                     )
+                    loss = loss / accumulation_steps
+                    loss.backward()
+                    nn.utils.clip_grad_norm_(model.parameters(), self.max_norm)
 
-                    accuracy, num_correct_preds, _ = self.accuracy(
+                    _, num_correct_preds, num_valid_preds = self.accuracy(
                         lm_logits, lm_labels)
 
-                    loss.backward()
-                    optimizer.step()
+                    accumulated_correct_preds += num_correct_preds
+                    accumulated_valid_preds += num_valid_preds
+
+                    if num_batches % accumulation_steps == 0:
+                        optimizer.step()
+                        optimizer.zero_grad()
+
+                        accuracy = accumulated_correct_preds / accumulated_valid_preds
+                        experiment.log_metric(
+                            'correct_pedictions',
+                            accumulated_correct_preds.item())
+                        experiment.log_metric(
+                            'accuracy', accuracy.item())
+                        accumulated_correct_preds = torch.tensor(0.0)
+                        accumulated_valid_preds = torch.tensor(0.0)
 
                     total_lm_loss += lm_loss
 
@@ -175,9 +198,6 @@ class Model(nn.Module):
                     experiment.log_metric('lm_loss', lm_loss.item())
                     experiment.log_metric('mc_loss', mc_loss.item())
                     experiment.log_metric('loss', loss.item())
-                    experiment.log_metric('correct_pedictions',
-                                          num_correct_preds.item())
-                    experiment.log_metric('accuracy', accuracy.item())
                 self.save(f'model-train-epoch{which_epoch}.pt')
 
         avg_word_loss = total_lm_loss / num_batches
@@ -207,20 +227,17 @@ class Model(nn.Module):
                         lm_labels=lm_labels
                     )
 
-                    accuracy, num_correct_preds, num_valid_preds = self.accuracy(
+                    accuracy, n_correct_preds, n_valid_preds = self.accuracy(
                         lm_logits, lm_labels)
 
                     total_lm_loss += lm_loss
-                    total_correct_preds += num_correct_preds
-                    total_valid_preds += num_valid_preds
+                    total_correct_preds += n_correct_preds
+                    total_valid_preds += n_valid_preds
 
                     # log metrics
                     experiment.log_metric('lm_loss', lm_loss.item())
                     experiment.log_metric('mc_loss', mc_loss.item())
                     experiment.log_metric('loss', loss.item())
-                    experiment.log_metric('correct_pedictions',
-                                          num_correct_preds.item())
-                    experiment.log_metric('accuracy', accuracy.item())
 
         avg_word_loss = total_lm_loss / num_batches
         perplexity = torch.exp(avg_word_loss)
@@ -262,10 +279,12 @@ if __name__ == '__main__':
         model.load(filename=args.load)
     if args.train:
         num_epochs = hyperparams['num_epochs']
+        accumulation_steps = hyperparams['accumulation_steps']
         optimizer = AdamW(
             model.parameters(),
             lr=hyperparams['learning_rate'])
-        model.train_(train_dataloader, optimizer, experiment, num_epochs)
+        model.train_(train_dataloader, optimizer, experiment,
+                     num_epochs, accumulation_steps)
     if args.validate:
         model.test_(validate_dataloader, experiment)
     if args.test:
