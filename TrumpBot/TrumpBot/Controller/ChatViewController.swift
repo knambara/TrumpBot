@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import NVActivityIndicatorView
 
 class ChatViewController: UIViewController {
     
@@ -15,6 +16,7 @@ class ChatViewController: UIViewController {
     
     var messages: [Message] = []
     var chatManager = ChatManager()
+    var loading: Bool = false
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -38,7 +40,7 @@ class ChatViewController: UIViewController {
     func reloadMessages() {
         self.chatTableView.reloadData()
         let indexPath = IndexPath(row: self.messages.count - 1, section: 0)
-        self.chatTableView.scrollToRow(at: indexPath, at: .top, animated: false)
+        self.chatTableView.scrollToRow(at: indexPath, at: .top, animated: true)
     }
 }
 
@@ -52,18 +54,35 @@ extension ChatViewController: UITableViewDataSource {
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
+        
+        if loading && indexPath.row == messages.count - 1 {
+            let loadingCell = tableView.dequeueReusableCell(withIdentifier: "LoadingCell", for: indexPath)
+            let loading = NVActivityIndicatorView(frame: .zero, type: .ballPulse, color: .gray, padding: 0)
+            loading.translatesAutoresizingMaskIntoConstraints = false
+            loadingCell.contentView.addSubview(loading)
+            NSLayoutConstraint.activate([
+                loading.widthAnchor.constraint(equalToConstant: 40),
+                loading.heightAnchor.constraint(equalToConstant: 40),
+                loading.centerYAnchor.constraint(equalTo: loadingCell.contentView.centerYAnchor),
+                loading.leftAnchor.constraint(equalToSystemSpacingAfter: loadingCell.contentView.leftAnchor, multiplier: 2)
+            ])
+            loading.startAnimating()
+            DispatchQueue.main.asyncAfter(deadline: DispatchTime.now() + 2) {
+                loading.stopAnimating()
+            }
+            return loadingCell
+        }
+        
         let cell = tableView.dequeueReusableCell(withIdentifier: "msgCustomCell", for: indexPath) as! ChatCell
         let msg = self.messages[indexPath.row]
         cell.messageLabel.text = msg.body
         
-        //This is a message from the current user.
         if msg.sender == "user" {
             cell.trumpIcon.isHidden = true
             cell.meIcon.isHidden = false
             cell.messageView.backgroundColor = UIColor(named: "teal")
             cell.messageLabel.textColor = UIColor.white
         }
-        //This is a message from another sender.
         else {
             cell.trumpIcon.isHidden = false
             cell.meIcon.isHidden = true
@@ -82,6 +101,8 @@ extension ChatViewController: ChatManagerDelegate {
     
     func didReceiveMessage(_ chatManager: ChatManager, message: Message) {
         DispatchQueue.main.async {
+            self.loading = false
+            self.messages.removeLast()
             self.messages.append(message)
             self.reloadMessages()
         }
@@ -89,6 +110,15 @@ extension ChatViewController: ChatManagerDelegate {
     
     func didReceiveError(error: Error) {
         print(error)
+    }
+    
+    func showLoadingIcon() {
+        DispatchQueue.main.async {
+            self.loading = true
+            let message = Message(sender: "UI", body: "Loading")
+            self.messages.append(message)
+            self.reloadMessages()
+        }
     }
     
 }

@@ -19,6 +19,7 @@
 		D71AB002245CA9D900C51B48 /* MessageData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D71AB001245CA9D900C51B48 /* MessageData.swift */; };
 		D71AB005245CC13900C51B48 /* ChatCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D71AB003245CC13800C51B48 /* ChatCell.swift */; };
 		D71AB006245CC13900C51B48 /* ChatCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = D71AB004245CC13800C51B48 /* ChatCell.xib */; };
+		D7B28CE82461C5B5005FF6FF /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D7B28CE72461C5B5005FF6FF /* GoogleService-Info.plist */; };
 		D7D71C47245B097C001602F8 /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7D71C46245B097C001602F8 /* ChatViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -38,6 +39,7 @@
 		D71AB001245CA9D900C51B48 /* MessageData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageData.swift; sourceTree = "<group>"; };
 		D71AB003245CC13800C51B48 /* ChatCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatCell.swift; sourceTree = "<group>"; };
 		D71AB004245CC13800C51B48 /* ChatCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ChatCell.xib; sourceTree = "<group>"; };
+		D7B28CE72461C5B5005FF6FF /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		D7D71C46245B097C001602F8 /* ChatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
 		F99F512144B416DFDA652723 /* Pods-TrumpBot.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TrumpBot.release.xcconfig"; path = "Target Support Files/Pods-TrumpBot/Pods-TrumpBot.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -100,6 +102,7 @@
 				D706E78D2458F70100BF7BFB /* Assets.xcassets */,
 				D706E78F2458F70100BF7BFB /* LaunchScreen.storyboard */,
 				D706E7922458F70100BF7BFB /* Info.plist */,
+				D7B28CE72461C5B5005FF6FF /* GoogleService-Info.plist */,
 			);
 			path = TrumpBot;
 			sourceTree = "<group>";
@@ -195,6 +198,7 @@
 			files = (
 				D706E7912458F70100BF7BFB /* LaunchScreen.storyboard in Resources */,
 				D71AB006245CC13900C51B48 /* ChatCell.xib in Resources */,
+				D7B28CE82461C5B5005FF6FF /* GoogleService-Info.plist in Resources */,
 				D706E78E2458F70100BF7BFB /* Assets.xcassets in Resources */,
 				D706E78C2458F6FB00BF7BFB /* Main.storyboard in Resources */,
 			);
