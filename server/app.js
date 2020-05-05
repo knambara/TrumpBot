@@ -13,12 +13,6 @@ const {PythonShell} = require('python-shell', {
 const pyShell = new PythonShell(scriptPath);
 console.log(`[✔] connect to TrumpBot at ${scriptPath}`);
 
-const prompt = 'Hello';
-pyShell.send(prompt);
-pyShell.on('message', function (answer) {
-  console.log(`[✔] Received answer (${answer}) for prompt (${prompt})`);
-});
-
 // Create Express server
 const app = express();
 app.set("port", process.env.PORT || 3000);
@@ -48,6 +42,7 @@ app.get("/trumpbot", function (request, response) {
   }
 
   pyShell.prependOnceListener('message', function (answer) {
+    console.log(`[✔] Received answer (${answer}) for prompt (${prompt})`);
     return response.status(200).json({ prompt, answer });
   });
   pyShell.send(prompt);
