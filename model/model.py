@@ -320,13 +320,15 @@ class Model(nn.Module):
 
     def __answer(self,
                  prompt_ids,
-                 answer_ids=[tokenizer.sep_token_id],
+                 answer_ids=None,
                  answer_min_len=2,
                  answer_max_len=20,
                  temperature=0.7,
                  top_k=0,
                  top_p=0.9,
                  threshold=-math.inf):
+        if answer_ids is None:
+            answer_ids = [tokenizer.sep_token_id]
         with torch.no_grad():
             for i in range(len(answer_ids), answer_max_len):
                 pair_maxlen = len(prompt_ids) + answer_max_len
@@ -349,14 +351,6 @@ class Model(nn.Module):
 
                 if i < answer_min_len and wordid in special_ids:
                     # do not terminate too early
-                    should_resample = True
-                elif wordid == answer_ids[-1]:
-                    # prevent same word from repeated
-                    should_resample = True
-                else:
-                    should_resample = False
-
-                if should_resample:
                     while wordid in special_ids:
                         if lastword_probs.max().item() == 1:
                             print("Warning: model generating special token \
