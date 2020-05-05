@@ -26,7 +26,7 @@ app.use(function(request, response, next) {
 });
 
 app.get("/trumpbot", function (request, response) {
-  const prompt = request.body.prompt;
+  const prompt = request.query.prompt;
 
   if (!prompt || typeof prompt !== 'string') {
     return response.status(400).send('Prompt string required');
