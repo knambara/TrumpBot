@@ -17,20 +17,18 @@ protocol ChatManagerDelegate {
 
 struct ChatManager {
     
-    let trumpBotURL = "http://127.0.0.1:5000/trumpbot?"
+    //let trumpBotURL = "http://127.0.0.1:5000/trumpbot?"
     var delegate: ChatManagerDelegate?
     
     func fetchResponse(body: String) {
         let scheme = "http"
-        let host = "127.0.0.1"
-        let port = 5000
+        let host = "54.211.141.96"
         let path = "/trumpbot"
-        let queryItem = URLQueryItem(name: "body", value: body)
+        let queryItem = URLQueryItem(name: "prompt", value: body)
 
         var urlComponents = URLComponents()
         urlComponents.scheme = scheme
         urlComponents.host = host
-        urlComponents.port = port
         urlComponents.path = path
         urlComponents.queryItems = [queryItem]
         delegate?.showLoadingIcon()
@@ -62,8 +60,8 @@ struct ChatManager {
         let decoder = JSONDecoder()
         do {
             let decodedData = try decoder.decode(MessageData.self, from: messageData)
-            let response = decodedData.response
-            let message = Message(sender: "Donald Trump", body: response)
+            let response = decodedData.answer
+            let message = Message(sender: "Trump", body: response)
             return message
             
         } catch {

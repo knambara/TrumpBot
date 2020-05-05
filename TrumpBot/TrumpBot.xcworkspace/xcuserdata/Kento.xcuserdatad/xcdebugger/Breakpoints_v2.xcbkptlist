@@ -3,4 +3,114 @@
    uuid = "6930D415-FE07-445C-85E1-F5320BDE948C"
    type = "0"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89A348AE-51D2-43BD-B2E1-4C15A4A18317"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TrumpBot/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "89A348AE-51D2-43BD-B2E1-4C15A4A18317 - 1ebe7b06717b36aa"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrumpBot.ViewController.startButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "TrumpBot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Kento/Desktop/cs1460-final-project/TrumpBot/TrumpBot/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "89A348AE-51D2-43BD-B2E1-4C15A4A18317 - 581bfbb06e017ea6"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrumpBot.ViewController.startButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "TrumpBot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Kento/Desktop/cs1460-final-project/TrumpBot/TrumpBot/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "89A348AE-51D2-43BD-B2E1-4C15A4A18317 - b735cb90284854d7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrumpBot.ViewController.startButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "TrumpBot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Kento/Desktop/cs1460-final-project/TrumpBot/TrumpBot/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "89A348AE-51D2-43BD-B2E1-4C15A4A18317 - ba3692c1287309d4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrumpBot.ViewController.startButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TrumpBot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Kento/Desktop/cs1460-final-project/TrumpBot/TrumpBot/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "89A348AE-51D2-43BD-B2E1-4C15A4A18317 - 79430a51589ef97e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrumpBot.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TrumpBot.ViewController"
+                  moduleName = "TrumpBot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Kento/Desktop/cs1460-final-project/TrumpBot/TrumpBot/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  uuid = "89A348AE-51D2-43BD-B2E1-4C15A4A18317 - b90d2f9b0896c3c4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrumpBot.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TrumpBot.ViewController&gt;"
+                  moduleName = "TrumpBot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Kento/Desktop/cs1460-final-project/TrumpBot/TrumpBot/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "102">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

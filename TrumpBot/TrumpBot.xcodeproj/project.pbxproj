@@ -20,6 +20,8 @@
 		D71AB005245CC13900C51B48 /* ChatCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D71AB003245CC13800C51B48 /* ChatCell.swift */; };
 		D71AB006245CC13900C51B48 /* ChatCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = D71AB004245CC13800C51B48 /* ChatCell.xib */; };
 		D7B28CE82461C5B5005FF6FF /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D7B28CE72461C5B5005FF6FF /* GoogleService-Info.plist */; };
+		D7C3426D2461F2CE00B91EC9 /* RegisterVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C3426C2461F2CE00B91EC9 /* RegisterVC.swift */; };
+		D7C3426F2461F2DE00B91EC9 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C3426E2461F2DE00B91EC9 /* LoginVC.swift */; };
 		D7D71C47245B097C001602F8 /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7D71C46245B097C001602F8 /* ChatViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -40,6 +42,8 @@
 		D71AB003245CC13800C51B48 /* ChatCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatCell.swift; sourceTree = "<group>"; };
 		D71AB004245CC13800C51B48 /* ChatCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ChatCell.xib; sourceTree = "<group>"; };
 		D7B28CE72461C5B5005FF6FF /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		D7C3426C2461F2CE00B91EC9 /* RegisterVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterVC.swift; sourceTree = "<group>"; };
+		D7C3426E2461F2DE00B91EC9 /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
 		D7D71C46245B097C001602F8 /* ChatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
 		F99F512144B416DFDA652723 /* Pods-TrumpBot.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TrumpBot.release.xcconfig"; path = "Target Support Files/Pods-TrumpBot/Pods-TrumpBot.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -122,6 +126,8 @@
 			children = (
 				D706E7882458F6FB00BF7BFB /* ViewController.swift */,
 				D7D71C46245B097C001602F8 /* ChatViewController.swift */,
+				D7C3426C2461F2CE00B91EC9 /* RegisterVC.swift */,
+				D7C3426E2461F2DE00B91EC9 /* LoginVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -257,8 +263,10 @@
 				D71AB005245CC13900C51B48 /* ChatCell.swift in Sources */,
 				D706E7852458F6FB00BF7BFB /* AppDelegate.swift in Sources */,
 				D71AB002245CA9D900C51B48 /* MessageData.swift in Sources */,
+				D7C3426F2461F2DE00B91EC9 /* LoginVC.swift in Sources */,
 				D706E7AB245A0A9B00BF7BFB /* Message.swift in Sources */,
 				D71AB000245C72E500C51B48 /* ChatManager.swift in Sources */,
+				D7C3426D2461F2CE00B91EC9 /* RegisterVC.swift in Sources */,
 				D7D71C47245B097C001602F8 /* ChatViewController.swift in Sources */,
 				D706E7872458F6FB00BF7BFB /* SceneDelegate.swift in Sources */,
 			);

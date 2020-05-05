@@ -10,7 +10,10 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    
     @IBOutlet weak var startButton: UIButton!
+    @IBOutlet weak var registerButton: UIButton!
+    @IBOutlet weak var loginButton: UIButton!
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
@@ -25,6 +28,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         startButton.layer.cornerRadius = startButton.frame.size.height / 5
+        registerButton.layer.cornerRadius = startButton.frame.size.height / 5
+        loginButton.layer.cornerRadius = startButton.frame.size.height / 5
     }
 
 }

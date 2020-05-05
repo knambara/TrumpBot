@@ -8,32 +8,85 @@
 
 import UIKit
 import NVActivityIndicatorView
+import Firebase
 
 class ChatViewController: UIViewController {
     
     @IBOutlet weak var chatTableView: UITableView!
     @IBOutlet weak var chatTextField: UITextField!
+    @IBOutlet weak var logOutButton: UIBarButtonItem!
+    
+    let db = Firestore.firestore()
     
     var messages: [Message] = []
     var chatManager = ChatManager()
     var loading: Bool = false
+    var signedIn: Bool = false
     
     override func viewDidLoad() {
         super.viewDidLoad()
         chatTableView.dataSource = self
         chatManager.delegate = self
         chatTableView.register(UINib(nibName: "ChatCell", bundle: nil), forCellReuseIdentifier: "msgCustomCell")
+        let currUser = Auth.auth().currentUser;
+
+        if (currUser == nil) {
+            print("Not signed in")
+            signedIn = false
+            logOutButton.title = ""
+        } else {
+            print("signed in")
+            signedIn = true
+            navigationItem.hidesBackButton = true
+            getMessagesFromDB()
+        }
+    }
+    
+    @IBAction func logOutPressed(_ sender: UIBarButtonItem) {
+        let firebaseAuth = Auth.auth()
+        do {
+            try firebaseAuth.signOut()
+            navigationController?.popToRootViewController(animated: true)
+            
+        } catch let signOutError as NSError {
+          print ("Error signing out: %@", signOutError)
+        }
     }
     
     @IBAction func sendPressed(_ sender: UIButton) {
-        if let text = chatTextField.text {
-            let message = Message(sender: "user", body: text)
-            messages.append(message)
-            DispatchQueue.main.async {
-                self.chatTextField.text = ""
-                self.reloadMessages()
+        
+        if signedIn == false {
+            if let text = chatTextField.text {
+                let message = Message(sender: "user", body: text)
+                messages.append(message)
+                DispatchQueue.main.async {
+                    self.chatTextField.text = ""
+                    self.reloadMessages()
+                }
+                chatManager.fetchResponse(body: text)
             }
-            chatManager.fetchResponse(body: text)
+        } else {
+            if let text = chatTextField.text, let user = Auth.auth().currentUser?.email {
+                let message = Message(sender: user, body: text)
+                messages.append(message)
+                db.collection("messages").addDocument(data: [
+                    "sender": user,
+                    "recipient": "Trump",
+                    "message": text,
+                    "timestamp": Date().timeIntervalSince1970
+                ]) { (error) in
+                    if let e = error {
+                        print("Could not save data, \(e)")
+                    } else {
+                        print("Successfully saved data.")
+                        
+                        DispatchQueue.main.async {
+                             self.chatTextField.text = ""
+                        }
+                        self.chatManager.fetchResponse(body: text)
+                    }
+                }
+            }
         }
     }
     
@@ -41,6 +94,37 @@ class ChatViewController: UIViewController {
         self.chatTableView.reloadData()
         let indexPath = IndexPath(row: self.messages.count - 1, section: 0)
         self.chatTableView.scrollToRow(at: indexPath, at: .top, animated: true)
+    }
+    
+    func getMessagesFromDB() {
+        db.collection("messages")
+            .order(by: "timestamp")
+            .getDocuments { (querySnapshot, error) in
+            
+            self.messages = []
+            
+            if let e = error {
+                print("Could not retrieve from Firestore. \(e)")
+            } else {
+                if let snapshotDocuments = querySnapshot?.documents {
+                    for doc in snapshotDocuments {
+                        let data = doc.data()
+                        if let messageSender = data["sender"] as? String, let messageBody = data["message"] as? String, let messageRecipient = data["recipient"] as? String {
+                            if messageRecipient == Auth.auth().currentUser?.email || messageSender == Auth.auth().currentUser?.email {
+                                let newMessage = Message(sender: messageSender, body: messageBody)
+                                self.messages.append(newMessage)
+                                
+                                DispatchQueue.main.async {
+                                       self.chatTableView.reloadData()
+                                    let indexPath = IndexPath(row: self.messages.count - 1, section: 0)
+                                    self.chatTableView.scrollToRow(at: indexPath, at: .top, animated: true)
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
     }
 }
 
@@ -77,7 +161,7 @@ extension ChatViewController: UITableViewDataSource {
         let msg = self.messages[indexPath.row]
         cell.messageLabel.text = msg.body
         
-        if msg.sender == "user" {
+        if msg.sender != "Trump" {
             cell.trumpIcon.isHidden = true
             cell.meIcon.isHidden = false
             cell.messageView.backgroundColor = UIColor(named: "teal")
@@ -100,10 +184,26 @@ extension ChatViewController: UITableViewDataSource {
 extension ChatViewController: ChatManagerDelegate {
     
     func didReceiveMessage(_ chatManager: ChatManager, message: Message) {
+        self.loading = false
+        self.messages.removeLast()
+        self.messages.append(message)
+        
+        if signedIn {
+            self.db.collection("messages").addDocument(data: [
+                "sender": message.sender,
+                "recipient": Auth.auth().currentUser?.email,
+                "message": message.body,
+                "timestamp": Date().timeIntervalSince1970
+            ]) { (error) in
+                if let e = error {
+                    print("Could not save data, \(e)")
+                } else {
+                    print("Successfully saved data.")
+                }
+            }
+        }
+        
         DispatchQueue.main.async {
-            self.loading = false
-            self.messages.removeLast()
-            self.messages.append(message)
             self.reloadMessages()
         }
     }

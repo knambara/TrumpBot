@@ -9,5 +9,5 @@
 import Foundation
  
 struct MessageData: Codable {
-    let response: String
+    let answer: String
 }
