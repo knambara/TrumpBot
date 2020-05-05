@@ -53,7 +53,7 @@ def parse_sentences(sentences):
                 # skip first placeholder
                 yield {
                     'speaker': current_speaker,
-                    'speech': ' '.join(current_sentences)
+                    'speech': current_sentences
                 }
             current_sentences = []
             current_speaker = speaker
@@ -62,7 +62,7 @@ def parse_sentences(sentences):
 
     yield {
         'speaker': current_speaker,
-        'speech': ' '.join(current_sentences)
+        'speech': current_sentences
     }
 
 
@@ -103,33 +103,97 @@ def pair_prompt_and_answer(source, answerer='Donald Trump'):
 def filter_too_short_prompt(source, threshold=3):
     for pair in source:
         prompt = pair['prompt']
-        if len(prompt.split()) >= threshold:
-            yield pair
+
+        nwords_in_prompt = 0
+        for sentence in prompt:
+            nwords_in_prompt += len(sentence.split())
+            if nwords_in_prompt >= threshold:
+                break
+        else:
+            continue
+        yield pair
 
 
-def filter_too_long_prompt_and_answer(source,
-                                      prompt_threshold=100,
-                                      answer_threshold=100):
-    for pair in source:
-        prompt = pair['prompt']
-        answer = pair['answer']
-        if len(prompt.split()) <= prompt_threshold:
-            if len(answer.split()) <= answer_threshold:
-                yield pair
+def gather_speech(sentences,
+                  nwords_threshold,
+                  mercy,
+                  accumulate_from_first=True):
+    """
+    Collect words from sentences
+
+    Arg:
+        sentences: A list of string where each string represents a sentence
+        nwords_threshold: A limit of how many words to gather from sentences
+        mercy: A slack around nwords_threshold aimed to collect one more
+            sentence in the case that collecting this sentence will make the
+            number of words total closer to nwords_threshold
+        accumulate_from_first: whether the sentences are traversed in normal
+            order or in reverse order
+            default to True, in normal order
+    Returns:
+        A string representing concatenated speech from gathered words.
+
+    >>> sentence1 = 'a a'
+    >>> sentence2 = 'a a a a'
+    >>> gather_speech([sentence1, sentence2], 5, 0)
+    'a a'
+    >>> gather_speech([sentence2, sentence1], 5, 0, False)
+    'a a'
+    >>> gather_speech([sentence1, sentence2], 5, 0, False)
+    'a a a a'
+    >>> gather_speech([sentence2, sentence1], 5, 0)
+    'a a a a'
+    >>> gather_speech([sentence1, sentence2], 5, 1)
+    'a a a a a a'
+    >>> sentence3 = 'a a a'
+    >>> gather_speech([sentence1, sentence2, sentence3], 5, 1)
+    'a a a a a a'
+    >>> gather_speech([sentence1, sentence3, sentence2], 5, 1)
+    'a a a a a'
+    """
+    nwords_current = 0
+    words = []
+    mercy_threshold = nwords_threshold + mercy
+
+    iterator = sentences if accumulate_from_first else reversed(sentences)
+    for sentence in iterator:
+        words_in_sentence = sentence.split()
+        nwords_in_sentence = len(words_in_sentence)
+
+        nwords_next = nwords_current + nwords_in_sentence
+        if nwords_next > mercy_threshold:
+            # adding this sentence will exceed
+            if not words:
+                # if add first sentence will exceed, add nwords_threshold words
+                if accumulate_from_first:
+                    words.extend(words_in_sentence[:nwords_threshold])
+                else:
+                    words.extend(words_in_sentence[-nwords_threshold:])
+            break
+        elif nwords_next > nwords_threshold and nwords_next <= mercy_threshold:
+            if (nwords_threshold - nwords_current) > (nwords_next - nwords_threshold):
+                # adding current sentence
+                words.extend(words_in_sentence)
+            break
+
+        words.extend(words_in_sentence)
+        nwords_current = nwords_next
+    return ' '.join(words)
 
 
 def trim_down_prompt_and_answer(source,
-                                prompt_threshold=40,
-                                answer_threshold=160):
+                                prompt_threshold=20,
+                                answer_threshold=30,
+                                mercy=5):
     for pair in source:
-        prompt_words = pair['prompt'].split()
-        if len(prompt_words) > prompt_threshold:
-            pair['prompt'] = ' '.join(prompt_words[-prompt_threshold:])
-
-        answer_words = pair['answer'].split()
-        if len(answer_words) > answer_threshold:
-            pair['answer'] = ' '.join(answer_words[:answer_threshold])
-
+        pair['prompt'] = gather_speech(pair['prompt'],
+                                       prompt_threshold,
+                                       mercy,
+                                       False)
+        pair['answer'] = gather_speech(pair['answer'],
+                                       answer_threshold,
+                                       mercy,
+                                       True)
         yield pair
 
 

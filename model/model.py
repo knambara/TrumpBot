@@ -22,7 +22,7 @@ from torch.utils.data import DataLoader
 hyperparams = {
     "num_epochs": 3,
     "batch_size": 16,
-    "window_size": 200,
+    "window_size": 50,
     "accumulation_steps": 1,
     "learning_rate": 2e-5
 }
