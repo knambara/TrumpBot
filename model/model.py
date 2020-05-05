@@ -140,9 +140,11 @@ class Model(nn.Module):
         print(f'saving model to {filepath}')
         torch.save(self.state_dict(), filepath)
 
-    def load(self, filename='model.pt'):
-        filepath = os.path.join(self.savedir, filename)
-        print(f'loading model from {filepath}')
+    def load(self, filename='model.pt', quiet=False):
+        scriptpath = os.path.dirname(os.path.realpath(__file__))
+        filepath = os.path.join(scriptpath, self.savedir, filename)
+        if not quiet:
+            print(f'loading model from {filepath}')
         model = torch.load(filepath, map_location=self.device.type)
         self.load_state_dict(model)
 
@@ -345,9 +347,12 @@ class Model(nn.Module):
         answer_ids_appearance = defaultdict(int)
 
         with torch.no_grad():
+            max_len = (len(prompt_ids) + answer_max_len) + 50
+            # model max length
+            if max_len > 1024:
+                raise ValueError('prompt is too long')
+
             for i in range(len(answer_ids), answer_max_len):
-                pair_maxlen = len(prompt_ids) + answer_max_len
-                max_len = min(pair_maxlen, self.window_size)
 
                 input_ids, attention_mask, token_type_ids, _, mc_token_ids = ChatDataset.encode(
                     prompt_ids.copy(), answer_ids.copy(), max_len=max_len,
