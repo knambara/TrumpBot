@@ -8,5 +8,7 @@ target 'TrumpBot' do
   
   pod 'IQKeyboardManagerSwift'
   pod 'NVActivityIndicatorView'
+  pod 'Firebase/Auth'
+  pod 'Firebase/Firestore'
 
 end

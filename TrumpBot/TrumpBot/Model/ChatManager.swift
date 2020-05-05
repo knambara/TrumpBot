@@ -21,13 +21,25 @@ struct ChatManager {
     var delegate: ChatManagerDelegate?
     
     func fetchResponse(body: String) {
-        let urlString = "\(trumpBotURL)&body=\(body)"
+        let scheme = "http"
+        let host = "127.0.0.1"
+        let port = 5000
+        let path = "/trumpbot"
+        let queryItem = URLQueryItem(name: "body", value: body)
+
+        var urlComponents = URLComponents()
+        urlComponents.scheme = scheme
+        urlComponents.host = host
+        urlComponents.port = port
+        urlComponents.path = path
+        urlComponents.queryItems = [queryItem]
         delegate?.showLoadingIcon()
-        sendRequest(with: urlString)
+        sendRequest(with: urlComponents)
     }
     
-    func sendRequest(with urlString: String) {
-        if let url = URL(string: urlString) {
+    func sendRequest(with urlComponents: URLComponents) {
+        print("sending request")
+        if let url = urlComponents.url {
             let session = URLSession(configuration: .default)
             
             // Gives the session a task

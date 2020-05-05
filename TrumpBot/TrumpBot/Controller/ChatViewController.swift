@@ -40,7 +40,7 @@ class ChatViewController: UIViewController {
     func reloadMessages() {
         self.chatTableView.reloadData()
         let indexPath = IndexPath(row: self.messages.count - 1, section: 0)
-        self.chatTableView.scrollToRow(at: indexPath, at: .top, animated: false)
+        self.chatTableView.scrollToRow(at: indexPath, at: .top, animated: true)
     }
 }
 
