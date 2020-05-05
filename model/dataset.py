@@ -93,6 +93,9 @@ class ChatDataset(Dataset):
                 string using the tokenize method) or a list of integers
                 (tokenized string ids using the convert_tokens_to_ids method)
             tokenizer: An instance of transformers.PreTrainedTokenizer.
+            add_bos_token: whether to add bos_token_id at the start of prompt
+            add_sep_token: whether to add bos_token_id at the start of answer
+            add_eos_token: whether to add bos_token_id at the end of answer
         Return:
             A list of integers
 
@@ -131,11 +134,16 @@ class ChatDataset(Dataset):
         >>> ChatDataset.ids2str(ChatDataset.str2ids('I am fine'))
         'I am fine'
         """
-        return tokenizer.decode(token_ids)
+        return tokenizer.decode(token_ids,
+                                skip_special_tokens=skip_special_tokens)
 
     @classmethod
     def encode(Class, prompt, answer,
-               tokenizer=default_tokenizer, max_len=1024):
+               tokenizer=default_tokenizer,
+               max_len=1024,
+               add_bos_token=True,
+               add_sep_token=True,
+               add_eos_token=True):
         """
         Encode a prompt, answer pair with self.tokenizer
 
@@ -152,6 +160,9 @@ class ChatDataset(Dataset):
                 default_tokenizer)
             max_len: Sequence length, shorter sequences will be padded. Default
                 to 1024
+            add_bos_token: whether to add bos_token_id at the start of prompt
+            add_sep_token: whether to add bos_token_id at the start of answer
+            add_eos_token: whether to add bos_token_id at the end of answer
         Return:
             A tuple of shape
 
@@ -173,8 +184,9 @@ class ChatDataset(Dataset):
             + mc_token_ids: the index of the classification token in each
                 input sequence.
         """
-        prompt = Class.str2ids(prompt, add_bos_token=True)
-        answer = Class.str2ids(answer, add_sep_token=True, add_eos_token=True)
+        prompt = Class.str2ids(prompt, add_bos_token=add_bos_token)
+        answer = Class.str2ids(answer, add_sep_token=add_sep_token,
+                               add_eos_token=add_eos_token)
         mc_token_ids = torch.tensor([len(prompt) + len(answer) - 1])
         # three special tokens are added
         max_len += 3

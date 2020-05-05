@@ -320,7 +320,7 @@ class Model(nn.Module):
 
     def __answer(self,
                  prompt_ids,
-                 answer_ids=[],
+                 answer_ids=[tokenizer.sep_token_id],
                  answer_min_len=2,
                  answer_max_len=20,
                  temperature=0.7,
@@ -332,19 +332,31 @@ class Model(nn.Module):
                 pair_maxlen = len(prompt_ids) + answer_max_len
                 max_len = min(pair_maxlen, self.window_size)
 
-                input_ids, attention_mask, token_type_ids, _, _ = ChatDataset.encode(
-                    prompt_ids, answer_ids, max_len=max_len)
+                input_ids, attention_mask, token_type_ids, _, mc_token_ids = ChatDataset.encode(
+                    prompt_ids.copy(), answer_ids.copy(), max_len=max_len,
+                    add_sep_token=False)
                 # lm_logits: sequence_length * vocabulary_size
                 lm_logits = self.__lm_logits(input_ids,
                                              attention_mask=attention_mask,
                                              token_type_ids=token_type_ids)
-                lastword_logits = lm_logits[-1, :] / temperature
-                lastword_logits = self.__top_filtering(lastword_logits, top_k,
-                                                       top_p, threshold)
+                # lastword_logits: 1 * vocabulary_size
+                lastword_logits = lm_logits[-mc_token_ids, :] / temperature
+                # lastword_logits: vocabulary_size
+                lastword_logits = self.__top_filtering(
+                    lastword_logits.squeeze(), top_k, top_p, threshold)
                 lastword_probs = softmax(lastword_logits, dim=-1)
                 wordid = torch.multinomial(lastword_probs, 1).item()
 
                 if i < answer_min_len and wordid in special_ids:
+                    # do not terminate too early
+                    should_resample = True
+                elif wordid == answer_ids[-1]:
+                    # prevent same word from repeated
+                    should_resample = True
+                else:
+                    should_resample = False
+
+                if should_resample:
                     while wordid in special_ids:
                         if lastword_probs.max().item() == 1:
                             print("Warning: model generating special token \
@@ -360,11 +372,7 @@ class Model(nn.Module):
 
     def answer(self, prompt: str, **kwargs):
         prompt_ids = ChatDataset.str2ids(prompt)
-
-        answer_ids = self.__answer(
-            prompt_ids,
-            answer_ids=[tokenizer.sep_token_id],
-            **kwargs)
+        answer_ids = self.__answer(prompt_ids, **kwargs)
 
         return ChatDataset.ids2str(answer_ids,
                                    skip_special_tokens=True)
