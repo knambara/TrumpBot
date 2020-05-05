@@ -12,6 +12,7 @@ import Foundation
 protocol ChatManagerDelegate {
     func didReceiveMessage(_ chatManager: ChatManager, message: Message)
     func didReceiveError(error: Error)
+    func showLoadingIcon()
 }
 
 struct ChatManager {
@@ -21,6 +22,7 @@ struct ChatManager {
     
     func fetchResponse(body: String) {
         let urlString = "\(trumpBotURL)&body=\(body)"
+        delegate?.showLoadingIcon()
         sendRequest(with: urlString)
     }
     
@@ -39,7 +41,6 @@ struct ChatManager {
                     }
                 }
             }
-            // 4. Start the task
             task.resume()
         }
     }

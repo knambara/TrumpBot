@@ -7,5 +7,6 @@ target 'TrumpBot' do
   # Pods for TrumpBot
   
   pod 'IQKeyboardManagerSwift'
+  pod 'NVActivityIndicatorView'
 
 end

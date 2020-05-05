@@ -1,16 +1,22 @@
 PODS:
   - IQKeyboardManagerSwift (6.5.5)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
 
 DEPENDENCIES:
   - IQKeyboardManagerSwift
+  - NVActivityIndicatorView
 
 SPEC REPOS:
   trunk:
     - IQKeyboardManagerSwift
+    - NVActivityIndicatorView
 
 SPEC CHECKSUMS:
   IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
 
-PODFILE CHECKSUM: 5a045e25073e61baee8b423c07b399d7ed569a4c
+PODFILE CHECKSUM: 1c355f94ec032cfbae4d27e1cc9dcfe65bea1070
 
 COCOAPODS: 1.9.1
