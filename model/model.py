@@ -20,10 +20,11 @@ from torch.utils.data import DataLoader
 
 hyperparams = {
     "num_epochs": 3,
-    "batch_size": 32,
-    "window_size": 50,
+    "batch_size": 8,
+    # window_size should be about twice the sentence length in dataset
+    "window_size": 100,
     "accumulation_steps": 1,
-    "learning_rate": 6.25e-5,
+    "learning_rate": 6.25e-5
 }
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
@@ -166,7 +167,7 @@ class Model(nn.Module):
         accumulated_valid_preds = torch.tensor(0.0)
 
         optimizer = transformers.AdamW(
-            model.parameters(),
+            self.model.parameters(),
             lr=hyperparams['learning_rate'])
         scheduler = transformers.get_cosine_schedule_with_warmup(
             optimizer, 100, 1000)

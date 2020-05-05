@@ -185,19 +185,18 @@ class ChatDataset(Dataset):
         prompt = Class.str2ids(prompt, add_bos_token=add_bos_token)
         answer = Class.str2ids(answer, add_sep_token=add_sep_token,
                                add_eos_token=add_eos_token)
-        mc_token_ids = torch.tensor([len(prompt) + len(answer) - 1])
-        # three special tokens are added
-        max_len += 3
 
         encoding_obj = tokenizer.encode_plus(
             prompt,
             answer,
             add_special_tokens=True,
             max_length=max_len,
+            truncation_strategy='do_not_truncate',
             pad_to_max_length=True,
             return_tensors='pt',
             rerurn_token_type_ids=True,
             return_attention_mask=True,
+            return_overflowing_tokens=True,
             return_special_tokens_mask=True
         )
 
@@ -206,9 +205,12 @@ class ChatDataset(Dataset):
         special_tokens_mask = input_ids.view(1, -1).eq(
             special_token_ids.view(-1, 1)).squeeze()
 
+        attention_mask = encoding_obj['attention_mask'].squeeze()
+        mc_token_ids = torch.sum(attention_mask) - 1
+
         return (
             input_ids,  # input_ids
-            encoding_obj['attention_mask'].squeeze(),  # attention_mask
+            attention_mask,  # attention_mask
             encoding_obj['token_type_ids'].squeeze(),  # token_type_ids
             special_tokens_mask,  # special_token_masks
             mc_token_ids
