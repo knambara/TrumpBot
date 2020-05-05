@@ -16,7 +16,6 @@ from dataset import default_tokenizer as tokenizer
 from dataset import load_dataset
 from torch import nn
 from torch.nn.functional import softmax
-from torch.optim import AdamW
 from torch.utils.data import DataLoader
 
 hyperparams = {
@@ -24,7 +23,7 @@ hyperparams = {
     "batch_size": 16,
     "window_size": 50,
     "accumulation_steps": 1,
-    "learning_rate": 1e-7
+    "learning_rate": 2e-5
 }
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
@@ -156,6 +155,7 @@ class Model(nn.Module):
     def train_(self,
                train_dataloader: DataLoader,
                optimizer,
+               scheduler,
                experiment,
                num_epochs,
                accumulation_steps):
@@ -195,6 +195,7 @@ class Model(nn.Module):
 
                     if num_batches % accumulation_steps == 0:
                         optimizer.step()
+                        scheduler.step()
                         optimizer.zero_grad()
 
                         accuracy = accumulated_correct_preds / accumulated_valid_preds
@@ -433,10 +434,12 @@ if __name__ == '__main__':
     if args.train:
         num_epochs = hyperparams['num_epochs']
         accumulation_steps = hyperparams['accumulation_steps']
-        optimizer = AdamW(
+        optimizer = transformers.AdamW(
             model.parameters(),
             lr=hyperparams['learning_rate'])
-        model.train_(train_dataloader, optimizer, experiment,
+        scheduler = transformers.get_cosine_schedule_with_warmup(
+            optimizer, 500, 1000)
+        model.train_(train_dataloader, optimizer, scheduler, experiment,
                      num_epochs, accumulation_steps)
     if args.validate:
         model.test_(validate_dataloader, experiment)
