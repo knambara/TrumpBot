@@ -20,7 +20,7 @@ from torch.utils.data import DataLoader
 
 hyperparams = {
     "num_epochs": 3,
-    "batch_size": 16,
+    "batch_size": 32,
     "window_size": 50,
     "accumulation_steps": 1,
     "learning_rate": 2e-5
@@ -39,7 +39,7 @@ class Model(nn.Module):
     def __init__(self,
                  window_size=hyperparams['window_size'],
                  device=device,
-                 lm_coeff=1,
+                 lm_coeff=2,
                  mc_coeff=1,
                  savedir='models',
                  max_norm=1.0):
@@ -154,8 +154,6 @@ class Model(nn.Module):
 
     def train_(self,
                train_dataloader: DataLoader,
-               optimizer,
-               scheduler,
                experiment,
                num_epochs,
                accumulation_steps):
@@ -167,9 +165,16 @@ class Model(nn.Module):
         accumulated_correct_preds = torch.tensor(0.0)
         accumulated_valid_preds = torch.tensor(0.0)
 
+        optimizer = transformers.AdamW(
+            model.parameters(),
+            lr=hyperparams['learning_rate'])
+        scheduler = transformers.get_cosine_schedule_with_warmup(
+            optimizer, 100, 1000)
         optimizer.zero_grad()
+
         with experiment.train():
             for which_epoch in range(num_epochs):
+
                 for train_data in tqdm(train_dataloader):
                     num_batches += 1
 
@@ -184,7 +189,7 @@ class Model(nn.Module):
                         lm_labels=lm_labels
                     )
                     loss = loss / accumulation_steps
-                    loss.backward()
+                    (loss / (which_epoch * 2 + 1)).backward()
                     nn.utils.clip_grad_norm_(model.parameters(), self.max_norm)
 
                     _, num_correct_preds, num_valid_preds = self.accuracy(
@@ -210,10 +215,10 @@ class Model(nn.Module):
                     total_lm_loss += lm_loss
 
                     # log metrics
-                    experiment.log_metric('lm_loss*100', lm_loss.item() * 100)
-                    experiment.log_metric('mc_loss*100', mc_loss.item() * 100)
+                    experiment.log_metric('lm_loss', lm_loss.item())
+                    experiment.log_metric('mc_loss', mc_loss.item())
                     loss = loss * accumulation_steps
-                    experiment.log_metric('loss*100', loss.item() * 100)
+                    experiment.log_metric('loss', loss.item())
                 self.save(f'model-train-epoch{which_epoch}.pt')
 
         avg_word_loss = total_lm_loss / num_batches
@@ -424,7 +429,7 @@ if __name__ == '__main__':
     batch_size = hyperparams['batch_size']
     #  Load dataset
     target = args.dataset
-    train_dataloader, validate_dataloader, test_dataloader = load_dataset(
+    train_dataloader, validate_dataloader, _ = load_dataset(
         target, batch_size, window_size=hyperparams['window_size'])
 
     model = Model()
@@ -434,13 +439,8 @@ if __name__ == '__main__':
     if args.train:
         num_epochs = hyperparams['num_epochs']
         accumulation_steps = hyperparams['accumulation_steps']
-        optimizer = transformers.AdamW(
-            model.parameters(),
-            lr=hyperparams['learning_rate'])
-        scheduler = transformers.get_cosine_schedule_with_warmup(
-            optimizer, 500, 1000)
-        model.train_(train_dataloader, optimizer, scheduler, experiment,
-                     num_epochs, accumulation_steps)
+        model.train_(train_dataloader, experiment, num_epochs, 
+                accumulation_steps)
     if args.validate:
         model.test_(validate_dataloader, experiment)
     if args.test:

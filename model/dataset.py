@@ -19,11 +19,12 @@ def load_dataset(target, batch_size, window_size, tokenizer=default_tokenizer):
     train_dataset, validate_dataset, test_dataset = split_dataset(dataset)
     return (DataLoader(train_dataset, batch_size=batch_size,
                        shuffle=True, drop_last=True),
-            DataLoader(validate_dataset, shuffle=True),
+            DataLoader(validate_dataset, batch_size=batch_size, 
+                shuffle=True),
             DataLoader(test_dataset))
 
 
-def split_dataset(dataset: Dataset, train_frac=0.8, validate_frac=0.1):
+def split_dataset(dataset: Dataset, train_frac=0.9, validate_frac=0.1):
     """
     Splits the main dataset into train, validation, test dataset
     """
