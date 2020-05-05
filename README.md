@@ -2,9 +2,10 @@
 
 ## Work in Progress
 
-|         Welcome Screen         |         Chat Screen         |
-| :----------------------------: | :-------------------------: |
-| ![](images/welcome_screen.png) | ![](images/chat_screen.png) |
+|         Welcome Screen         |         Queried Chat Screen         |         Login Screen         |         Register Screen         |
+| :----------------------------: | :-------------------------: | :----------------------------: | :-------------------------: |
+
+| ![](images/welcome.png) | ![](images/stored.png) | ![](images/login.png) | ![](images/register.png) |
 
 ## TODO
 
