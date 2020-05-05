@@ -16,24 +16,21 @@ def load_dataset(target, batch_size, window_size, tokenizer=default_tokenizer):
     source = preprocess.unfreeze_dataset(target)
 
     dataset = ChatDataset(source, tokenizer, window_size=window_size)
-    train_dataset, validate_dataset, test_dataset = split_dataset(dataset)
+    train_dataset, test_dataset = split_dataset(dataset)
     return (DataLoader(train_dataset, batch_size=batch_size,
                        shuffle=True, drop_last=True),
-            DataLoader(validate_dataset, batch_size=batch_size, 
-                shuffle=True),
             DataLoader(test_dataset))
 
 
-def split_dataset(dataset: Dataset, train_frac=0.9, validate_frac=0.1):
+def split_dataset(dataset: Dataset, train_frac=0.9):
     """
     Splits the main dataset into train, validation, test dataset
     """
     n_total = len(dataset)
     n_train = int(n_total * train_frac)
-    n_validate = int(n_total * validate_frac)
-    n_test = n_total - n_train - n_validate
+    n_test = n_total - n_train
 
-    return random_split(dataset, (n_train, n_validate, n_test))
+    return random_split(dataset, (n_train, n_test))
 
 
 class ChatDataset(Dataset):
@@ -188,19 +185,18 @@ class ChatDataset(Dataset):
         prompt = Class.str2ids(prompt, add_bos_token=add_bos_token)
         answer = Class.str2ids(answer, add_sep_token=add_sep_token,
                                add_eos_token=add_eos_token)
-        mc_token_ids = torch.tensor([len(prompt) + len(answer) - 1])
-        # three special tokens are added
-        max_len += 3
 
         encoding_obj = tokenizer.encode_plus(
             prompt,
             answer,
             add_special_tokens=True,
             max_length=max_len,
+            truncation_strategy='do_not_truncate',
             pad_to_max_length=True,
             return_tensors='pt',
             rerurn_token_type_ids=True,
             return_attention_mask=True,
+            return_overflowing_tokens=True,
             return_special_tokens_mask=True
         )
 
@@ -209,9 +205,12 @@ class ChatDataset(Dataset):
         special_tokens_mask = input_ids.view(1, -1).eq(
             special_token_ids.view(-1, 1)).squeeze()
 
+        attention_mask = encoding_obj['attention_mask'].squeeze()
+        mc_token_ids = torch.sum(attention_mask) - 1
+
         return (
             input_ids,  # input_ids
-            encoding_obj['attention_mask'].squeeze(),  # attention_mask
+            attention_mask,  # attention_mask
             encoding_obj['token_type_ids'].squeeze(),  # token_type_ids
             special_tokens_mask,  # special_token_masks
             mc_token_ids

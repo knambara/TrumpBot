@@ -20,10 +20,11 @@ from torch.utils.data import DataLoader
 
 hyperparams = {
     "num_epochs": 3,
-    "batch_size": 32,
-    "window_size": 50,
+    "batch_size": 8,
+    # window_size should be about twice the sentence length in dataset
+    "window_size": 100,
     "accumulation_steps": 1,
-    "learning_rate": 2e-5
+    "learning_rate": 6.25e-5
 }
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
@@ -166,7 +167,7 @@ class Model(nn.Module):
         accumulated_valid_preds = torch.tensor(0.0)
 
         optimizer = transformers.AdamW(
-            model.parameters(),
+            self.model.parameters(),
             lr=hyperparams['learning_rate'])
         scheduler = transformers.get_cosine_schedule_with_warmup(
             optimizer, 100, 1000)
@@ -186,6 +187,7 @@ class Model(nn.Module):
                         mc_labels,
                         attention_mask=attention_mask,
                         token_type_ids=token_type_ids,
+                        mc_token_ids=mc_token_ids,
                         lm_labels=lm_labels
                     )
                     loss = loss / accumulation_steps
@@ -416,8 +418,6 @@ if __name__ == '__main__':
         help='specify the model name to be loaded from ./models directory')
     parser.add_argument('-T', '--train', action='store_true',
                         help='run training loop')
-    parser.add_argument('-V', '--validate', action='store_true',
-                        help='run validation loop')
     parser.add_argument('-t', '--test', action='store_true',
                         help='run testing loop')
     args = parser.parse_args()
@@ -429,7 +429,7 @@ if __name__ == '__main__':
     batch_size = hyperparams['batch_size']
     #  Load dataset
     target = args.dataset
-    train_dataloader, validate_dataloader, _ = load_dataset(
+    train_dataloader, test_dataloader = load_dataset(
         target, batch_size, window_size=hyperparams['window_size'])
 
     model = Model()
@@ -439,9 +439,7 @@ if __name__ == '__main__':
     if args.train:
         num_epochs = hyperparams['num_epochs']
         accumulation_steps = hyperparams['accumulation_steps']
-        model.train_(train_dataloader, experiment, num_epochs, 
-                accumulation_steps)
-    if args.validate:
-        model.test_(validate_dataloader, experiment)
+        model.train_(train_dataloader, experiment, num_epochs,
+                     accumulation_steps)
     if args.test:
         model.test_(test_dataloader, experiment)
