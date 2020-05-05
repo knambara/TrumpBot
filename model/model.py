@@ -1,6 +1,7 @@
 import argparse
 import math
 import os
+from collections import defaultdict
 from datetime import datetime
 
 from tqdm import tqdm
@@ -318,6 +319,9 @@ class Model(nn.Module):
         lm_logits[indices_to_remove] = filter_value
         return lm_logits
 
+    def __drawword(self, probability_distribution):
+        return torch.multinomial(probability_distribution, 1).item()
+
     def __answer(self,
                  prompt_ids,
                  answer_ids=None,
@@ -329,6 +333,8 @@ class Model(nn.Module):
                  threshold=-math.inf):
         if answer_ids is None:
             answer_ids = [tokenizer.sep_token_id]
+        answer_ids_appearance = defaultdict(int)
+
         with torch.no_grad():
             for i in range(len(answer_ids), answer_max_len):
                 pair_maxlen = len(prompt_ids) + answer_max_len
@@ -347,7 +353,16 @@ class Model(nn.Module):
                 lastword_logits = self.__top_filtering(
                     lastword_logits.squeeze(), top_k, top_p, threshold)
                 lastword_probs = softmax(lastword_logits, dim=-1)
-                wordid = torch.multinomial(lastword_probs, 1).item()
+                wordid = self.__drawword(lastword_probs)
+
+                num_appearances = answer_ids_appearance[wordid]
+                if num_appearances != 0:
+                    # make appeared word less frequent
+                    for i in range(num_appearances):
+                        new_wordid = self.__drawword(lastword_probs)
+                        if new_wordid != wordid:
+                            wordid = new_wordid
+                            break
 
                 if i < answer_min_len and wordid in special_ids:
                     # do not terminate too early
@@ -357,19 +372,27 @@ class Model(nn.Module):
                                   with probability 1.")
                             # avoid infinitely looping over special token
                             break
-                        wordid = torch.multinomial(lastword_probs, 1).item()
+                        wordid = self.__drawword(lastword_probs)
 
                 if wordid in special_ids:
                     break
                 answer_ids.append(wordid)
+                answer_ids_appearance[wordid] += 1
         return answer_ids
 
     def answer(self, prompt: str, **kwargs):
         prompt_ids = ChatDataset.str2ids(prompt)
         answer_ids = self.__answer(prompt_ids, **kwargs)
+        answer_tokens = tokenizer.convert_ids_to_tokens(
+            answer_ids, skip_special_tokens=True)
+        answer_str = ' '.join(tokenizer.convert_tokens_to_string(
+            [token]).strip() for token in answer_tokens)
 
-        return ChatDataset.ids2str(answer_ids,
-                                   skip_special_tokens=True)
+        return {
+            'ids': answer_ids,
+            'tokens': answer_tokens,
+            'str': answer_str
+        }
 
 
 if __name__ == '__main__':
