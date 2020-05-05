@@ -40,7 +40,7 @@ class Model(nn.Module):
     def __init__(self,
                  window_size=hyperparams['window_size'],
                  device=device,
-                 lm_coeff=0.5,
+                 lm_coeff=1,
                  mc_coeff=1,
                  savedir='models',
                  max_norm=1.0):
@@ -343,6 +343,11 @@ class Model(nn.Module):
                 input_ids, attention_mask, token_type_ids, _, mc_token_ids = ChatDataset.encode(
                     prompt_ids.copy(), answer_ids.copy(), max_len=max_len,
                     add_sep_token=False)
+                input_ids = input_ids.to(self.device)
+                attention_mask = attention_mask.to(self.device)
+                token_type_ids = token_type_ids.to(self.device)
+                mc_token_ids = mc_token_ids.to(self.device)
+
                 # lm_logits: sequence_length * vocabulary_size
                 lm_logits = self.__lm_logits(input_ids,
                                              attention_mask=attention_mask,
