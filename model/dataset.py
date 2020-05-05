@@ -16,24 +16,21 @@ def load_dataset(target, batch_size, window_size, tokenizer=default_tokenizer):
     source = preprocess.unfreeze_dataset(target)
 
     dataset = ChatDataset(source, tokenizer, window_size=window_size)
-    train_dataset, validate_dataset, test_dataset = split_dataset(dataset)
+    train_dataset, test_dataset = split_dataset(dataset)
     return (DataLoader(train_dataset, batch_size=batch_size,
                        shuffle=True, drop_last=True),
-            DataLoader(validate_dataset, batch_size=batch_size, 
-                shuffle=True),
             DataLoader(test_dataset))
 
 
-def split_dataset(dataset: Dataset, train_frac=0.9, validate_frac=0.1):
+def split_dataset(dataset: Dataset, train_frac=0.9):
     """
     Splits the main dataset into train, validation, test dataset
     """
     n_total = len(dataset)
     n_train = int(n_total * train_frac)
-    n_validate = int(n_total * validate_frac)
-    n_test = n_total - n_train - n_validate
+    n_test = n_total - n_train
 
-    return random_split(dataset, (n_train, n_validate, n_test))
+    return random_split(dataset, (n_train, n_test))
 
 
 class ChatDataset(Dataset):
