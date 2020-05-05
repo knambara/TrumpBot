@@ -24,7 +24,7 @@ hyperparams = {
     "batch_size": 16,
     "window_size": 50,
     "accumulation_steps": 1,
-    "learning_rate": 2e-5
+    "learning_rate": 1e-7
 }
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
@@ -40,8 +40,8 @@ class Model(nn.Module):
     def __init__(self,
                  window_size=hyperparams['window_size'],
                  device=device,
-                 lm_coeff=2.0,
-                 mc_coeff=1.0,
+                 lm_coeff=0.5,
+                 mc_coeff=1,
                  savedir='models',
                  max_norm=1.0):
         super().__init__()
@@ -209,10 +209,10 @@ class Model(nn.Module):
                     total_lm_loss += lm_loss
 
                     # log metrics
-                    experiment.log_metric('lm_loss', lm_loss.item())
-                    experiment.log_metric('mc_loss', mc_loss.item())
+                    experiment.log_metric('lm_loss*100', lm_loss.item() * 100)
+                    experiment.log_metric('mc_loss*100', mc_loss.item() * 100)
                     loss = loss * accumulation_steps
-                    experiment.log_metric('loss', loss.item())
+                    experiment.log_metric('loss*100', loss.item() * 100)
                 self.save(f'model-train-epoch{which_epoch}.pt')
 
         avg_word_loss = total_lm_loss / num_batches
