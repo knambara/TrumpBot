@@ -2,15 +2,18 @@
 
 ## Work in Progress
 
-|         Welcome Screen         |         Queried Chat Screen         |
+<!-- |         Welcome Screen         |         Queried Chat Screen         |
 | :----------------------------: | :-------------------------: |
 
 | ![](images/welcome.png) | ![](images/stored.png) |
 
 |         Login Screen         |         Register Screen         |
 | :----------------------------: | :-------------------------: |
-| ![](images/login.png) | ![](images/register.png) |
+| ![](images/login.png) | ![](images/register.png) | -->
 
+|     Welcome Screen      |      Chat Screen       |     Login Screen      |     Register Screen      |
+| :---------------------: | :--------------------: | :-------------------: | :----------------------: |
+| ![](images/welcome.png) | ![](images/stored.png) | ![](images/login.png) | ![](images/register.png) |
 
 ## TODO
 
